@@ -44,3 +44,10 @@ Allowed operations:
 - Home tiles updated; all four POM topics now have content.
 - Note: some Immunity Qs (esp. 4.10/4.11) have empty answers in the Notion PDFs (`See lecture PDF` placeholders).
 - Files touched: `site/topics/immunity/*`, `site/topics/genetics/*`, `site/_extracted/{immunity,genetics}/*`, `site/index.html`, `README.md`, `wiki/log.md`.
+
+## [2026-07-18] meta | POM Study Hub — Practice Questions
+
+- Added `site/practice.html` with topic / type (SBA, VSAQ, SAQ) / count selectors, scoring, and local progress tracking.
+- Curated bank of 200 questions (50 per topic) mixing recall, understanding, application, and inference; sessions sample across levels.
+- Linked from home nav and hero CTA; level badge styling in CSS.
+- Files touched: `site/practice.html`, `site/js/practice.js`, `site/js/practice-question-bank.js`, `site/index.html`, `site/css/styles.css`, `README.md`, `wiki/log.md`.

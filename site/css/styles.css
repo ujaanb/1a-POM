@@ -161,19 +161,38 @@ img {
   gap: 0.5rem;
   font-family: var(--font-ui);
   font-weight: 600;
-  font-size: 0.95rem;
-  color: white;
-  background: var(--ink);
-  padding: 0.85rem 1.35rem;
-  border-radius: 999px;
   text-decoration: none;
-  transition: transform 0.2s ease, background 0.2s ease;
+  color: white;
+  background: var(--teal);
+  padding: 0.75rem 1.25rem;
+  border-radius: 999px;
+  box-shadow: 0 8px 24px rgba(14, 124, 123, 0.25);
+  transition: background 0.15s ease, transform 0.15s ease;
 }
 
 .hero-cta:hover {
   background: var(--teal-deep);
   color: white;
   transform: translateY(-2px);
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+.hero-cta-secondary {
+  background: transparent;
+  color: var(--teal-deep);
+  border: 1.5px solid var(--teal);
+  box-shadow: none;
+}
+
+.hero-cta-secondary:hover {
+  background: var(--teal-soft);
+  color: var(--teal-deep);
 }
 
 /* —— Topic grid —— */
@@ -1074,6 +1093,29 @@ img {
   background: var(--ink);
   font-weight: 700;
   letter-spacing: 0.06em;
+}
+
+#question-level-badge {
+  padding: 0.2rem 0.5rem;
+  border-radius: 6px;
+  font-weight: 600;
+  background: var(--teal-soft);
+  color: var(--teal-deep);
+}
+
+#question-level-badge[data-level="application"] {
+  background: #f8e6d9;
+  color: #9a4a2e;
+}
+
+#question-level-badge[data-level="understanding"] {
+  background: #e7eef8;
+  color: #2c4f7c;
+}
+
+#question-level-badge[data-level="inference"] {
+  background: #f3e8f6;
+  color: #6b3a7a;
 }
 
 #question-text {
