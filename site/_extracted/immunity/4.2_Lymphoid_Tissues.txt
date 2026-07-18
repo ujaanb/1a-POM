@@ -1,0 +1,263 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:22                                                                   4.2 Lymphoid Tissues
+
+    4.2 Lymphoid Tissues
+
+         Why does our body need lymphoid tissues?
+             •  Lymphoid tissue is required because T and B cells cannot express a
+                 large enough number of TCRs and BCRs (T/B Cell Receptors) to deal
+                with all the possible antigens that are threatening to the immune
+               system
+                 ◦ The number of BCRs/TCRs that can be expressed (repertoire) is
+                much larger (10^15 - 10^20) than the number of these cells
+                     present in our blood (~ 7.5 x 10^9)
+             • The lymphoid tissues are introduced to provide the immune system
+                with an alternative way to combat these antigens and cope with the
+                strenuous demands
+             •  They increase the likelihood of interactions between B/T cells and
+                antigens (secondary)
+
+           What comprises the lymphatic system?
+             •  Lymphatic vessels
+             •  Secondary lymphoid tissue
+           Where does lymphopoiesis occur?
+             •  In the primary lymphoid tissue (organs).
+           What are the three main types of lymphocyte?
+             • B cells
+             • T cells
+             •  Natural killer cells.
+           What is the role of primary lymphoid organs?
+             •  Lymphopoiesis (lymphocyte production)
+              Recall three primary lymphoid organs.
+             • Thymus
+             • Bone marrow
+             •  Foetal liver
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-2-Lymphoid-Tissues-77f2142643e44d6abc6ecd42dde17aca                                                              1/7
+
+===== PAGE 2 =====
+
+18/07/2026, 22:22                                                                   4.2 Lymphoid Tissues
+
+
+
+           Image showing B and T cell responses to pathogens.
+
+
+
+
+
+           What is the primary source of haematopoiesis in humans?
+             • Bone marrow
+         How is haematopoiesis affected during infection?
+             •  White blood cell (leukocyte) production increases.
+             • T cells and B cells which are lymphocytes are used in the immune
+                response so it makes sense to have more present in response to
+                  antigens.
+
+           Where do B cells undergo their final differentiation?
+             •  In the bone marrow.
+             •  This is why they are called B cells.
+           What is a repertoire in immunological terms?
+             • The range of genetically distinct B and T cell receptors present in a
+                 given host
+             • The more BCRs or TCRs present in a given host, the more antigens and
+               hence threats can be dealt with
+
+           Where are antigens found?
+             • On the surface of cells, viruses, bacteria etc.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-2-Lymphoid-Tissues-77f2142643e44d6abc6ecd42dde17aca                                                              2/7
+
+===== PAGE 3 =====
+
+18/07/2026, 22:22                                                                   4.2 Lymphoid Tissues
+
+
+
+           Where do T cells undergo their final differentiation?
+             •  In the thymus
+             •  This is why they are called T cells.
+             Describe how positive selection in B/T cell differentiation works.
+             •   It is a process that is used to determine whether a B/T cell can detect
+                antigens using its BCR/TCR (its primary function)
+             •   If it cannot, it has developed abnormally and these cells undergo
+                 apoptosis.
+
+             Describe how negative selection in B/T cell differentiation works.
+             •   It is a process which is used to determine whether a B/T cell has
+              BCRs/TCRs that react against self (host cell) antigens
+             • We don’t want those B/T cells that react against self antigens, and so
+                they undergo apoptosis
+
+           What happens to T cell production as we age, and why?
+             • The rate of T cell production decreases and this is due to a process
+                   called thymus involution
+             •  This involves the thymus shrinking, and being reduced to fat and so
+                 the production of T cells is reduced because the thymus is involved in
+             T cell differentiation.
+
+           What are secondary lymphoid organs?
+             •  Organs which act as the site where lymphocytes can interact with
+                antigens and other lymphocytes.
+
+             Approximately what percentage of the total number of T cells are contained
+                in the blood?
+             • 2%
+             • The rest is found mainly in the secondary lymphoid organs
+              Recall four secondary lymphoid organs.
+             •  Spleen
+             • Lymph nodes
+             •  Appendix
+             •  Tonsils
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-2-Lymphoid-Tissues-77f2142643e44d6abc6ecd42dde17aca                                                              3/7
+
+===== PAGE 4 =====
+
+18/07/2026, 22:22                                                                   4.2 Lymphoid Tissues
+
+
+
+           What are afferent and efferent lymphatic vessels?
+             • An afferent vessel is where lymph fluid flows into the lymph node
+             • An efferent vessel is where lymph fluid flows out of the lymph node
+
+
+
+
+
+           What does the lymph fluid contain?
+             •  Lymphocytes
+             •  Antigens
+             •  Although the lymph nodes have arterial and venous connections, these
+               two elements flow to the lymph nodes via the lymphatic vessels.
+
+           What causes the separation between the B cells and T cells within lymph
+            nodes?
+             • Chemokines
+             •  They are produced by the stroma within the lymph nodes
+           What additional role does the spleen play that the lymph nodes don’t play?
+             • The spleen filters blood antigens when it comes through the arteries
+             • The lymph nodes filter skin or respiratory tract antigens
+           What is the first line of defence against infection?
+             •  Mucosal/epithelial barriers
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-2-Lymphoid-Tissues-77f2142643e44d6abc6ecd42dde17aca                                                              4/7
+
+===== PAGE 5 =====
+
+18/07/2026, 22:22                                                                   4.2 Lymphoid Tissues
+
+
+
+           What are Peyer’s patches?
+             •  These are specialised secondary lymphoid tissues that are found
+               below the epithelium in the ileum of the small intestine
+
+
+
+
+
+             Describe a property of Peyer’s patches.
+             •  They have a high frequency of B cells
+             •  They have a lot of germinal centres
+           What is a germinal centre?
+             • A site where B cells undergo mutation and selection to produce high-
+                    affinity antibodies
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-2-Lymphoid-Tissues-77f2142643e44d6abc6ecd42dde17aca                                                              5/7
+
+===== PAGE 6 =====
+
+18/07/2026, 22:22                                                                   4.2 Lymphoid Tissues
+
+
+
+           What is Waldeyer’s ring?
+             • The ring of tonsils that surround the pharyngeal region
+
+
+
+
+
+         Why is it a better idea for B and T cells to be located within secondary
+            lymphoid tissue, rather than freely circulating around the blood?
+             • A lot of fluid that surrounds tissues is drained through the
+               secondary lymphoid organs for filtering and is returned to the blood
+                 ◦  2-3 L of fluid returned to blood via superior vena cava per day
+             •   If there are T and B cells located within these tissues, then there is a
+                   far greater chance of them encountering antigens that flow through
+                these systems and dealing with them
+             •  Lymphocytes also recirculate around the blood once every 24 hours
+               and this is another way of increasing the chance of an antigen-
+               lymphocyte interaction.
+             •  Overall, the purpose of the secondary lymphoid organs is to
+                 increase the speed at which the lymphocytes travel across the
+              body, so that they can deal with their respective antigens swiftly.
+             •  This is needed because our T Cell repertoire (or number of different
+                 antigens) vastly outweighs the number of T cells we actually have.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-2-Lymphoid-Tissues-77f2142643e44d6abc6ecd42dde17aca                                                              6/7
+
+===== PAGE 7 =====
+
+18/07/2026, 22:22                                                                   4.2 Lymphoid Tissues
+
+
+
+           Image showing how chemokines, integrins and selectins are involved in the
+              extravasation of T cells into the lymph node.
+             • CCR7 binds to its chemokine CCL21
+             •  LFA-1 binds to its chemokine ICAM
+
+
+
+
+
+         How does inflammation affect T cell and B cell distribution?
+             •  Inflammation at a particular site will cause signals to be released at this
+                    site which will instruct the specific T cells and B cells at the site of
+                 inflammation to remain where they are, to increase the chance of them
+                 encountering their respective antigens on an antigen presenting cell.
+             •  Normally, T cells and B cells are circulating through the lymphatic
+                 system, but inflammation sends signals for them to migrate to the site
+                  of inflammation
+
+           What is an antigen-presenting cell (APC)?
+             • An APC is a cell type which presents antigens captured from the
+               environment, so that a T cell can recognise it and initiate an adaptive
+              immune response.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-2-Lymphoid-Tissues-77f2142643e44d6abc6ecd42dde17aca                                                              7/7

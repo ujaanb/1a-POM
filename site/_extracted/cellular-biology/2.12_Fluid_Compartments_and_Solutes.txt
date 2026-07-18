@@ -1,0 +1,317 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:02                                                         2.12 Fluid Compartments and Solutes
+
+    2.12 Fluid Compartments and
+    Solutes
+
+           Which cation is found predominantly in cells?
+             • K+
+           Which cation is found predominantly outside cells?
+             • Na+
+           Which anion is found predominantly in cells?
+             •  Organic phosphates
+           Which anion is found predominantly outside cells?
+             •  Chloride ions
+             •  These help to balance the effects of K+ inside cells
+                 Is the inside or the outside of a cell more acidic?
+             •  Inside.
+           What is osmolarity?
+             • A measure of the concentration of all solute particles in a solution
+             •  i.e a cumulative concentration of all the solutes.
+         Why is there no osmosis between interstitial fluid and cells?
+             • The osmolarity inside and outside of cells is equal.
+             •  This means there is no net movement of water in and out of cells.
+             Table showing how osmolarity is measured.
+
+
+
+
+
+             • The key principle is that each ionic compound is split into its
+                  constituents and each constituent is counted as an osmole.
+
+           What is diffusion?
+             • The spontaneous movement of a solute down a concentration
+                 gradient until the solute molecules reach an equilibrium.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-12-Fluid-Compartments-and-Solutes-c881ba9cf0874c05ae3a5d1c85a14d77                                               1/9
+
+===== PAGE 2 =====
+
+18/07/2026, 22:02                                                         2.12 Fluid Compartments and Solutes
+
+
+
+           What is osmosis?
+             • The movement of water towards an area of higher osmolarity across
+               a partially permeable membrane
+
+           What is an osmole?
+             • The number of moles of a solute that contribute to the solution’s
+                osmotic pressure.
+                 ◦  i.e how many moles of the solute are present
+             Describe what happens in the below scenario.
+
+
+
+
+
+               Answer
+                 •  Purple solute (P) move out of the cell down the concentration
+                       gradient.
+                     ◦ No net movement of water is caused by the purple solute
+                 •  Yellow solute (Y) cannot move in or out of the cell as membrane is
+                   impermeable to it, so water moves into the cell as solute Y
+                  causes high intracellular osmolarity
+                 •  At the equilibrium (resting) state, the cell is swollen.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-12-Fluid-Compartments-and-Solutes-c881ba9cf0874c05ae3a5d1c85a14d77                                               2/9
+
+===== PAGE 3 =====
+
+18/07/2026, 22:02                                                         2.12 Fluid Compartments and Solutes
+
+
+
+         Why is osmolarity on its own an unreliable way to judge whether a cell
+             bursts or swells?
+             •  Because osmolarity can guide the direction which water will move
+                 but permeability of the cell membrane to solutes is also very important
+                 ◦  i.e a cell membrane could be impermeable to an intracellular
+                        solute, meaning that water will move inside in the equilibrium
+                       state to balance osmolarity
+                 ◦  in contrast, if the cell membrane was permeable to the solute, it
+                   would move outwards on its own, and not as much water would
+                  need to move into the cell to balance osmolarity
+             • Hence the osmolarity of two identical cells can be equal, but
+                    different amounts of water go in/out of it depending on its
+                 permeability to solutes
+
+          When can a cell rupture?
+             • When the difference in osmolarity between inside and outside of the
+                     cell is so high that so much water moves in that can cause rupturing.
+                 ◦  i.e very high intracellular osmolarity
+           What is tonicity?
+             •  Tonicity describes the osmolarity of a solution’s impermeant solutes
+                 present in the solution
+                 ◦  This hence helps us to understand which direction water needs to
+                 move in, to balance this osmolarity out
+
+           What is a hypertonic solution?
+             • One which has a greater osmolarity of impermeant solutes than the
+                  inside of the cells around it
+                 ◦  This leads to water having to move out of the cell to balance the
+                       osmolarities, so the cell shrinks
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-12-Fluid-Compartments-and-Solutes-c881ba9cf0874c05ae3a5d1c85a14d77                                               3/9
+
+===== PAGE 4 =====
+
+18/07/2026, 22:02                                                         2.12 Fluid Compartments and Solutes
+
+
+
+           What is a hypotonic solution?
+             • One which has a lower osmolarity than the inside of the cells around it
+                 ◦  This leads to water having to move into the cell to balance the
+                       osmolarities, so the cell swells
+
+
+
+
+
+           What is an isotonic solution?
+             • One which has an identical osmolarity of impermeant solutes to the
+                  inside of the cells around it
+                 ◦  Water does not need to move in any particular direction to
+                    balance out the osmolarities, because all the solutes can move
+                   themselves
+             •  Basically, water only moves when the solutes cannot move across their
+                 concentration gradients
+
+
+
+
+
+           What mechanism do cells have which allows them to not burst?
+             • Na+/K+ ATPase
+             •  This constantly pumps Na+ out of the cell, increasing extracellular
+                  osmolarity and allowing water to not accumulate within the cell, but
+            H2O to follow Na+
+
+           What is an alternative name for the sodium-potassium pump?
+             •  Na+/K+ ATPase.
+         Why does the sodium-potassium pump not function in organs outside the
+           body?
+             •   It cannot function below 15ºC
+             •  There is no ATP being produced in ischaemic conditions so it cannot
+                  function
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-12-Fluid-Compartments-and-Solutes-c881ba9cf0874c05ae3a5d1c85a14d77                                               4/9
+
+===== PAGE 5 =====
+
+18/07/2026, 22:02                                                         2.12 Fluid Compartments and Solutes
+
+
+
+           What is University of Wisconsin (UW) solution used for?
+             •  To reduce cell-swelling in tissues of organs that are preserved in it.
+           What three properties of UW solution help it to reduce cell swelling?
+             •  Lack of Na+/Cl- which prevents swelling
+                 ◦  Otherwise, these ions would move down the conc. gradient into
+                     the tissues, and hence drag water into the tissues, causing
+                       swelling
+             •  Presence of extracellular impermeable solutes
+                 ◦  This increases extracellular osmolarity, meaning water is drawn
+                     out of tissues
+             •  Presence of starch to contribute to and increase colloidal osmotic
+                pressure
+             •  Antioxidants to protect tissue from damage via reactive oxygen
+                  species.
+
+           What property of the endothelial layer allow them to transfer blood plasma
+              to the interstitial space?
+             •  Leaks or pores (fenestrae) in between the endothelial cells.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-12-Fluid-Compartments-and-Solutes-c881ba9cf0874c05ae3a5d1c85a14d77                                               5/9
+
+===== PAGE 6 =====
+
+18/07/2026, 22:02                                                         2.12 Fluid Compartments and Solutes
+
+
+
+           What is colloidal osmotic pressure (COP)?
+             •  Also known as oncotic pressure, COP is a type of osmotic pressure
+               induced by the plasma proteins, notably albumin in a blood vessel's
+               plasma
+             •  This pressure is caused by the plasma proteins within blood vessels
+                being unable to move out of the blood vessels, so they build up and
+               cause pressure in the form of COP
+                 ◦   It acts to pull water into blood vessels, because the
+                   accumulation of plasma proteins causes high intravascular
+                      osmolarity. Water moves into vessels to balance the high
+                     osmolarity found within the vessel
+
+
+
+
+
+           What is hydrostatic pressure?
+             • The “pushing” force exerted by any fluid as a result of it moving
+                through its concordant vessel
+
+           Can plasma proteins fit through the endothelial wall?
+             •  No.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-12-Fluid-Compartments-and-Solutes-c881ba9cf0874c05ae3a5d1c85a14d77                                               6/9
+
+===== PAGE 7 =====
+
+18/07/2026, 22:02                                                         2.12 Fluid Compartments and Solutes
+
+
+
+         How do the colloidal osmotic pressure and hydrostatic pressure balance to
+            determine the movement of molecules in and out of the endothelium?
+             •  Colloidal osmotic pressure can be induced by high amounts of
+               plasma proteins accumulating in the lumen
+             •  Hydrostatic pressure is induced by the movement of the blood
+                through the blood vessel
+             • The balance of colloidal/hydrostatic pressure can cause soluble ions
+              and even plasma proteins to be pushed through the endothelial wall
+              between the pores.
+                 ◦  i.e Higher hydrostatic pressure compared to colloidal osmotic
+                     pressure can lead to fluid being more readily pushed out to
+                    balance things out
+             • The aim is to have an equilibrium where colloidal osmotic pressure is
+                equal to hydrostatic pressure
+             •  Hydrostatic pressure > COP = fluid moving out of blood vessel
+             • COP > Hydrostatic pressure = fluid moving into blood vessel
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-12-Fluid-Compartments-and-Solutes-c881ba9cf0874c05ae3a5d1c85a14d77                                               7/9
+
+===== PAGE 8 =====
+
+18/07/2026, 22:02                                                         2.12 Fluid Compartments and Solutes
+
+
+
+           What happens to the blood vessels in oedema (tissue swelling)?
+             •  Excess fluid leaks from the lumen of blood vessels into the
+                     interstitial space which causes swelling
+             •  This can be caused by extra leaky capillaries, due to the imbalance of
+                    colloidal osmotic pressure and hydrostatic pressure
+                 ◦  Hydrostatic pressure > COP
+
+
+
+
+
+           What is the function of the lymphatic capillaries?
+             •  To collect interstitial fluid that has leaked from the blood vessels as
+               a result of hydrostatic pressure exceeding oncotic pressure
+             •   It returns this fluid back to the blood capillaries via the lymphatic
+                ducts of the subclavian region, or the lymph nodes
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-12-Fluid-Compartments-and-Solutes-c881ba9cf0874c05ae3a5d1c85a14d77                                               8/9
+
+===== PAGE 9 =====
+
+18/07/2026, 22:02                                                         2.12 Fluid Compartments and Solutes
+
+
+
+         How can the lymphatic capillaries help to prevent oedema?
+             •  They can recollect plasma that is lost from the blood vessels to the
+                       interstitial fluid and prevent swelling of tissues
+             •  They uptake this interstitial fluid and return it to the capillaries for
+                   circulation.
+
+
+
+
+
+        Wh       th   l   h  ti          ill    i       bl  t           t  d    ?
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-12-Fluid-Compartments-and-Solutes-c881ba9cf0874c05ae3a5d1c85a14d77                                               9/9

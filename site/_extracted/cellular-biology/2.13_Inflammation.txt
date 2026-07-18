@@ -1,0 +1,527 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+    2.13 Inflammation
+
+           What is inflammation?
+             •  Inflammation is a non-specific response to cellular injury
+                 ◦  Its purpose is to remove the cause and consequence of cellular
+                       injury
+
+           What are the four cardinal signs of acute inflammation?
+             •  Redness (rubor)
+             •  Heat (calor)
+             •  Swelling (tumor)
+             •  Pain (dolor)
+           What can be a fifth cardinal sign of acute inflammation?
+             •  Loss of function (a result of unresolved inflammation)
+              Explain the molecular, cellular and physiological processes underlying each
+              of the cardinal features of inflammation.
+             • Redness - increased blood flow due to vasodilation means more red
+                blood cells are present at site of inflammation
+             •  Swelling - Fluid builds up at the site of inflammation due to increased
+                  vascular permeability that causes fluid leakage into interstitial fluid
+             •  Heat - body fluid that is at body temperature (~37C) is exposed to site
+                  of inflammation, which is usually not exposed to site in the steady state
+             •  Pain - the inflammatory mediators released by mast cells also drive
+                 pain stimulation on neurons
+                 ◦  i.e histamines and cytokines
+             •  Loss of function - happens in certain area. i.e inflammation can cause
+               a barrier in the lungs which can lead to inefficient gas exchange.
+
+           What is acute inflammation?
+             • A rapid, non-specific response to cellular injury.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                              1/16
+
+===== PAGE 2 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+           Image showing the cellular structure of the epidermal layers in the steady
+               state.
+
+
+
+
+
+         How are mast cells derived from haemopoietic stem cells (HSCs)?
+             • HSCs —> Myeloid progenitor —> Mast cell.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                              2/16
+
+===== PAGE 3 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+              Recall two cell types found in the interstitium of normal vascularised tissue
+                in the steady state.
+             • Mast cells
+             • Macrophages
+
+
+
+
+
+         How are these two cell types able to detect damage in the more superficial
+              layers?
+             • Damage associated molecular patterns (DAMPs)
+                 ◦ From damage caused to cells in the superficial layers of tissue
+             •  Pathogen associated molecular patterns (PAMPs)
+                 ◦ From foreign material (i.e bacteria) entering the body
+           What physiological changes occur in acute inflammation?
+             • Change in local blood flow (decreased)
+                 ◦  There is decreased blood flow caused by vasodilation.
+                     Vasodilation causes blood to move through the blood vessels
+                      slower, explaining the decrease in flow
+             •  Structural changes in the microvasculature (vasodilation, increased
+                 permeability)
+             •  Recruitment/accumulation of immune cells and proteins.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                              3/16
+
+===== PAGE 4 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+             Describe what happens to a blood vessel at the site of epidermal damage.
+             •  There is first death of the epidermal cells caused by a wound, for
+               example
+             •  This causes inflammatory mediators such as histamine and nitric
+                oxide to be released which both cause vasodilation
+             •  They also lead to increased vascular permeability which leads to
+               plasma contents migrating to the site of damage.
+                 ◦  i.e plasma exudation
+
+
+
+
+
+              Recall two vasodilators released at the site of inflammation.
+             •  Histamine
+             •  Nitric oxide
+         How are these vasodilators released at the site of inflammation?
+             •  Histamine and nitric oxide are released from mast cells and
+              macrophages respectively in response to detection of foreign
+                 material (DAMPs and PAMPs)
+                 ◦  i.e bacteria
+           What is the purpose of vasodilation and increased vascular permeability at
+             the site of inflammation?
+             •  This allows plasma contents to leak into the interstitium and site of
+             damage from the blood
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                              4/16
+
+===== PAGE 5 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+              Recall three components of the plasma (blood) that leak into the interstitium
+              at the site of damage.
+             •  Antibodies
+             • Complement (C5a, C3a, C4a)
+             •  Platelets
+             •  Leukocytes (white blood cells)
+              Recall five inflammatory mediators released at the site of inflammation.
+             •  Chemokines
+             •  Prostaglandins
+             •  Histamine
+             •  Cytokines
+             • Complement
+           What are the main physiological effects of histamine?
+             •  Vasodilation.
+             •  Increased vascular permeability caused by endothelial activation
+           What are the main physiological effects of prostaglandins?
+             •  Vasodilation
+             •  Pain
+             •  Fever
+           What are the main physiological effects of cytokines?
+             •  Endothelial activation
+                 ◦  i.e secretin
+             •  Fever
+             •  Pain
+             •  Anorexia
+             • Shock
+             •  Malaise (discomfort)
+           What are the main physiological effects of chemokines?
+             •  Chemotaxis
+             •  Leukocyte activation
+                 ◦  i.e LFA-1 integrin
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                              5/16
+
+===== PAGE 6 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+           What are the main physiological effects of complement?
+             •  Leukocyte chemotaxis and activation
+             •  Vasodilation (by stimulating mast cells)
+             •  Opsonisation
+           Which cells release histamine?
+             • Mast cells
+             •  Basophils
+             •  Platelets
+           Which cells release prostaglandins?
+             • Mast cells
+             •  Leukocytes
+           Which cells release cytokines?
+             • Macrophages
+             •  Endothelial cells
+             • Mast cells
+           Which cells release chemokines?
+             •  Leukocytes
+             •  Activated macrophages
+           Which cells release complement factors?
+             • Plasma (in the liver)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                              6/16
+
+===== PAGE 7 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+             Table showing the different types of mediator released at the site of injury.
+
+
+
+
+
+           What is exudate?
+             •  Fluid, proteins and cells that have seeped out of a blood vessel
+             •   It describes that liquid component that is released after increased
+                  vascular permeability in response to infection
+
+           What important role can the exudate play in fighting infection?
+             •   It can form and act as a barrier between the blood vessel and the
+                   site of infection, preventing the infection turning from a local one to
+               a systemic one that travels through the bloodstream.
+
+           What is the role of chemokines in inflammation?
+             •  To recruit other cells to the site of infection, specifically leukocytes.
+           Which cell type is often the first type to be recruited by chemokines to the
+                site of infection?
+             •  Most of the time, neutrophils are the first type of leukocyte to be
+                  recruited to the site of inflammation
+
+           Which type of cell releases chemokines in response to infection?
+             • Mast cells and macrophages.
+             •   I think it is all phagocytes, but I am not sure yet.
+           Which is usually the first type of leukocyte that is recruited to the site of
+              infection?
+             •  Neutrophils
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                              7/16
+
+===== PAGE 8 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+           Which chemokine is responsible for the chemotaxis of neutrophils to the site
+              of infection?
+             • CXCL8 (IL-8)
+           What mechanism do chemokines usually use to transport leukocytes to the
+                site of infection?
+             •  Chemokines bind onto the receptors of the cell they are transporting,
+               and induce the movement of this cell.
+
+           What is extravasation?
+             • The leakage of a particular substance (from the blood) into the
+                  tissue around it
+                 ◦  i.e blood, lymph, or other fluid, such as an anticancer drug,
+                  from a blood vessel or tube into the tissue around it.
+
+           What is the purpose of neutrophil extravasation?
+             •  To move the neutrophil from the blood vessel into the interstitium or
+                  tissue at the site of damage
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                              8/16
+
+===== PAGE 9 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+             Describe what happens in neutrophil extravasation.
+             •  Blood is flowing in a particular direction in the capillary. This blood flow
+                 obviously carries the neutrophil in the same direction as it
+                   (neutrophil is in blood)
+             • A macrophage/mast cell at the site of infection in the interstitium
+                produces cytokines after it is activated which are used to upregulate
+                  selectins (adhesion molecules)
+                 ◦  Selectins are proteins/adhesion molecules on the endothelial
+                    surface that leukocytes bind onto as they roll along in the
+                    bloodstream. ROLLING ADHESION
+             •  Cytokines then cause production of chemokines either by signalling
+                 to macrophages or endothelial cells
+             • Chemokines are presented by proteoglycans on the endothelial
+                surface and they bind to the neutrophil
+             • Chemokines binding to the neutrophil increases the LFA-1 integrin’s
+                    affinity to a high affinity conformation
+                 ◦  Integrins are also proteins/adhesion molecules on the endothelial
+                     surface
+             • The integrin ligand (ICAM-1) binds the neutrophil very tightly, and
+             now it is moving towards the interstitium. TIGHT ADHESION
+             • The neutrophil then undergoes transmigration via endothelial cell-
+                   to-cell junctions into the site of infection at the interstitium
+                 ◦  This process is mediated by PECAM-1 and involves cytoskeletal
+                   rearrangement
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                              9/16
+
+===== PAGE 10 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+             • NOTE: Selectins and integrins are adhesion molecules that are used to
+                 help neutrophils migrate to the site of infection. Cytokines and
+               chemokines upregulate their expression respectively.
+
+
+
+
+
+           Which molecule is used to upregulate selectins?
+             •  Cytokines
+           Which molecule is used to upregulate integrins?
+             • Chemokines
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                           10/16
+
+===== PAGE 11 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+         How do multiple neutrophils accumulate at the site of infection after one
+              arrives?
+             • One or two arrive at the site of infection, before they secrete
+                chemoattractants which allow other neutrophils to reach the site
+                  too.
+
+           What do neutrophils do at the site of inflammation?
+             • Once the neutrophils have rolled via adhesion to the site of infection,
+                 they are ready to phagocytose the pathogen at hand
+
+             Describe what happens in neutrophilic phagocytosis.
+             • The pathogenic particles are engulfed into phagocytic vesicles to
+                form what is known as phagosomes
+             • Phagosomes fuse with the lysosome to form a phagolysosome
+               (enzymes in the lysosome break down the pathogen)
+             •  Reactive oxygen species (ROS) can also disable/neutralise the
+                pathogen.
+                 ◦  i.e Phagocyte NADPH oxidase
+           What is the role of reactive oxygen species (ROS) found in leukocytes?
+             •  Reactive oxygen species (ROS) can also disable/neutralise pathogens.
+           What additional thing do neutrophils do after phagocytosis, to allow them to
+              further phagocytose more pathogens?
+             • They release their nucleus and the DNA causes further agglutination
+                  of the other pathogens present at the site of infection.
+             •  This makes them more easily phagocytosed by other neutrophils.
+             (BOTTOM LEFT)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                            11/16
+
+===== PAGE 12 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+           What is the purpose of resolution of acute inflammation?
+             •  To restore the tissue to its steady state after it has been damaged.
+           What happens in the resolution of acute inflammation?
+             • The macrophages are used to clear the debris of the apoptotic cells
+                   (neutrophils) that have a short half-life
+             • Macrophages also produce anti-inflammatory mediators triggered
+               by IL-10 which help to restore the inflamed tissue to its steady state.
+
+
+
+
+
+              Recall the anti-inflammatory mediator produced by macrophages during the
+              resolution of acute inflammation.
+             •  IL-10
+              Recall three diseases caused by chronic inflammation.
+             •  Rheumatoid arthritis
+             • Asthma
+             •  Inflammatory bowel disease (IBD)
+             •  Hepatitis
+             •  Psoriasis
+             • COPD
+             •  Multiple sclerosis
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                           12/16
+
+===== PAGE 13 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+              Recall three diseases caused by granulomatous inflammation.
+             •  Tuberculosis
+             •  Leprosy
+             •  Sarcoidosis
+             • Tumour reactions
+             •  Foreign body granuloma
+             •  Crohn’s disease
+           What is the main difference between acute and chronic inflammation, in
+            terms of immune cells? *EQ*
+             •  At the site of infection, there is a much wider variety of infiltratory cell
+                types seen in chronic inflammation compared to acute inflammation
+             •  In chronic inflammation, it is more common to see cell types such as
+                inflammatory macrophages, T cells and plasma (B) cells.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                           13/16
+
+===== PAGE 14 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+             Describe two other distinctions between acute and chronic inflammation.
+             •  There is often persistent toxic stimuli that are seen commonly in
+                 chronic inflammation which causes a vicious cycle where there is no
+                clearance of inflammatory agent and resolution to steady state
+                 ◦  This lack of resolution can be caused by tuberculosis, Hepatitis
+                  B/C or persistent toxic stimuli
+             •  There can also be bystander tissue damage in chronic inflammation
+             •  There can also be concurrent repair processes such as fibrosis and
+                angiogenesis
+
+           What is meant by bystander tissue damage in chronic inflammation?
+             •  This is when the chemicals that are released by the cells in the
+             immune response actually cause damage to the host cell tissue.
+
+         Why does fibrosis and angiogenesis occur in chronic inflammation?
+             • The vicious cycle causes repeated damage to blood vessels which
+                 leads to generation of new ones (angiogenesis)
+             •  Tissue scarring (fibrosis) is caused by prolonged action of
+              macrophages to try and repair the damage
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                           14/16
+
+===== PAGE 15 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+             Describe three “good” things that macrophages do at the site of
+              inflammation.
+             •  Phagocytosis
+             •  Cytotoxic - release chemicals that can kill damaged cells
+             •  Release anti-inflammatory mediators (i.e IL-10, TNF-alpha)
+             •  Repair wounds
+
+
+
+
+
+             Describe three “bad” things that macrophages do at the site of inflammation.
+             •  Cytotoxic - can be damaging to host cells.
+             •  Inflammatory - can cause inflammation of host tissue
+             •  Pro-fibrotic - can cause fibrosis of tissue via over-repair
+         How can T cells cause adverse effects in chronic inflammation?
+             •  They can have cytotoxic and inflammatory effects on “self” cells.
+                 ◦  This leads to bystander tissue damage
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                           15/16
+
+===== PAGE 16 =====
+
+18/07/2026, 22:02                                                                  2.13 Inflammation
+
+
+
+         How can B cells cause adverse effects in chronic inflammation?
+             •  They can generate antibodies from plasma cells against self-
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-13-Inflammation-f6486881170e4919bb49801e84d52daf                                                           16/16

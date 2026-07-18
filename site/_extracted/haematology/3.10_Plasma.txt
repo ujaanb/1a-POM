@@ -1,0 +1,280 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:08                                                                     3.10 Plasma
+
+    3.10 Plasma
+
+           What is plasma?
+             • The liquid component of the blood.
+             Approximately what percentage of the blood does plasma account for?
+             • 55%
+           What is serum?
+             •  Plasma minus the clotting factors.
+         How is serum obtained from plasma?
+             • The plasma is collected within a tube, and no anticoagulants are
+               added
+             •  This allows the clotting factors to combine together and form a clot,
+                which is removed to obtain serum
+
+         How much water is present in the average male?
+             •  40L.
+           What are the four main fluid components where water is found in the body?
+             •  Intracellular fluid
+             •  Interstitial fluid (ECM fluid)
+             •  Transcellular fluid (i.e CSF, synovial fluid)
+             • Plasma (blood)
+           Rank the prevalence of these fluid components in our bodies from highest to
+              lowest.
+             •  Intracellular fluid (23L)
+             •  Interstitial fluid (15L)
+             •  Blood plasma (3L)
+             •  Transcellular fluid (1L)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-10-Plasma-d55ad17da1f74c82b75c4c6913a8681a                                                                        1/7
+
+===== PAGE 2 =====
+
+18/07/2026, 22:08                                                                     3.10 Plasma
+
+
+
+            Diagram showing the prevalence of the different types of fluid in our bodies.
+
+
+
+
+
+              Recall five functions of plasma.
+             •  Clotting - it contains clotting factors
+             •  Immunity - it contains antibodies and complement factors
+             •  Osmotic pressure maintenance - Proteins such as albumin help to
+                maintain colloidal osmotic pressure
+             •  Metabolism - molecules to be metabolised often move around in the
+               plasma
+             •  Endocrine - many hormones travel in plasma to the target organs
+             •  Excretion - waste products of metabolism (i.e urea) travel through
+                the plasma to the site of excretion
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-10-Plasma-d55ad17da1f74c82b75c4c6913a8681a                                                                        2/7
+
+===== PAGE 3 =====
+
+18/07/2026, 22:08                                                                     3.10 Plasma
+
+
+
+           What technique can be used to assess the levels of different proteins
+             present in the plasma?
+             •  Gel electrophoresis.
+             • A patient’s electrophoresis pattern can be compared to this typical
+               one to assess for plasma protein deficiencies
+
+
+
+
+
+           What are the two major types of plasma protein?
+             • Serum albumin
+             •  Globulins
+           What is serum albumin?
+             • The most abundant (55%) protein in the plasma.
+              Recall the two roles of serum albumin.
+             •  Transport of lipids, hormones and ions
+                 ◦  Fatty acids released by lipolysis from the breakdown of
+                        triglycerides in adipose tissue are transported by albumin for use
+                   by tissues in 𝛃-oxidation.
+             •  Maintaining osmotic pressure of the plasma.
+                 ◦   It does this using its colloidal osmotic pressure (COP) effect
+                  and drawing water into the blood
+
+           What is the second most abundant plasma protein type?
+             •  Globulins
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-10-Plasma-d55ad17da1f74c82b75c4c6913a8681a                                                                        3/7
+
+===== PAGE 4 =====
+
+18/07/2026, 22:08                                                                     3.10 Plasma
+
+
+
+              Recall the four main types of globulin.
+             •  Alpha-1 globulin
+             •  Alpha-2 globulin
+             •  Beta globulin
+             • Gamma globulin
+              Recall one alpha-1 globulin.
+             •  Alpha-1 antitrypsin. (A1AT)
+           Where is alpha-1 antitrypsin (A1AT) produced?
+             •  Alpha-1 antitrypsin (A1AT) is an alpha-1 globulin produced in the
+                     liver
+
+           What does alpha-1 antitrypsin (A1AT) do?
+             •  Alpha-1 antitrypsin (A1AT) is used to inhibit the function of
+                  proteolytic enzymes such as neutrophil elastase, preventing excess
+              damage to tissues
+
+           What is neutrophil elastase, and what does it do?
+             •  Neutrophil elastase is a protease used to break down a key
+                  extracellular protein called elastin which gives tissues their elastic
+                   qualities
+
+          When is neutrophil elastase released?
+             •   It is released by neutrophils during inflammation
+           What can alpha-1 antitrypsin (A1AT) deficiency hence lead to?
+             •  Deficient A1AT can compromise the lung where degradation of lung
+                  tissue leads to a loss of elasticity and respiratory problems
+                 ◦  i.e COPD
+             Describe the role of alpha-1 globulins.
+             •  To inhibit enzymes that are involved in the breakdown of proteins
+                  (proteases)
+                 ◦  i.e neutrophil elastase released by neutrophils during
+                     inflammation which can break down the elastin protein.
+
+              Recall two types of alpha-2 globulin.
+             •  Haptoglobin
+             •  Alpha-2 macroglobulin
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-10-Plasma-d55ad17da1f74c82b75c4c6913a8681a                                                                        4/7
+
+===== PAGE 5 =====
+
+18/07/2026, 22:08                                                                     3.10 Plasma
+
+
+
+           What is the role of haptoglobin?
+             •   It binds onto haemoglobin released by erythrocytes and the resulting
+                haptoglobin:haemoglobin complex is removed by the spleen
+             •  High haptoglobin can indicate high haemoglobin levels in the plasma
+         How can haptoglobin be used clinically?
+             •  High haptoglobin can indicate high haemoglobin levels in the plasma
+               and hence haemolytic anaemia
+
+           What is the role of alpha-2 macroglobulin?
+             •   It is a protease inhibitor which can stop fibrinolysis, so that fibrin is
+                not broken down
+                 ◦   It does this by inhibiting plasmin - the principle fibrinolytic
+                 enzyme
+
+              Recall two types of beta-globulin.
+             • Complement C3/C4
+             •  Transferrin
+           What is the role of transferrin?
+             •  To transport iron that is released from the stores of ferritin or
+                 dietary iron to wherever it is needed metabolically
+
+              Recall two types of gamma-globulin.
+             •  Immunoglobulins
+             •  C-reactive proteins.
+         How can C-reactive proteins be used diagnostically?
+             •  Increases in the relative amounts of C-reactive proteins can indicate
+                inflammation (and hence infection)
+
+            Hence, what can increases in the relative amounts of gamma-globulin
+              indicate?
+             •  Gamma-globulins include C-reactive proteins and immunoglobulins
+             •  Increases in the relative amounts of gamma-globulin can indicate
+                   infection, inflammation as well as myeloma (cancer of B plasma cells)
+
+           What is the most abundant cation in the plasma?
+             • Na+
+           What is the most abundant cation in red blood cells?
+             • K+
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-10-Plasma-d55ad17da1f74c82b75c4c6913a8681a                                                                        5/7
+
+===== PAGE 6 =====
+
+18/07/2026, 22:08                                                                     3.10 Plasma
+
+
+
+           What mechanism in the body takes up over 1/3 of ATP at resting state?
+             • The Na+/K+ pump.
+         How much Na+ is pumped per K+ and in which directions?
+             • 3 Na+ pumped out for every 2 K+ pumped in.
+         Why is it important for cells that this pump keeps on operating?
+             •  To maintain osmotic pressure within cells.
+             •  Lack of operation can lead to influx of sodium ions and hence water,
+                  leading to cell lysis by bursting
+             •  Cells can even shrink if extracellular Na+ gets too high, which also
+                causes problems such as death
+
+           Which ion is used as an important cofactor for many enzymes?
+             • Mg2+ (magnesium)
+             • When intracellular
+           What is meant when plasma is referred to as a “biomarker”?
+             •   It describes how the proteome of the plasma (levels of proteins
+                 within it) can be analysed and how different proteins can give us
+                  indications of certain diseases etc.
+                 ◦  i.e gamma-globulins indicate infection, myeloma etc.
+             •  Links with disease, lifestyle and medications can also be made to the
+               proteome
+
+              Recall the main clinical use of plasma.
+             •  Passive immunotherapy
+           What is passive immunotherapy involving plasma?
+             •   It can be used to transfuse plasma (or immunoglobulins directly) to
+                 patients who require higher levels of immunoglobulins, for example
+                 ◦  Antibodies can be administered intravenously to give protection
+                      against common infections.
+             •  This is a form of passive immunity, as the antibodies are being
+                 transferred to the recipient, in contrary to a vaccine which is active
+               immunity as the antibody is produced by the patient’s immune
+                system.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-10-Plasma-d55ad17da1f74c82b75c4c6913a8681a                                                                        6/7
+
+===== PAGE 7 =====
+
+18/07/2026, 22:08                                                                     3.10 Plasma
+
+
+
+              Recall the two main types of passive immunotherapy involving plasma.
+             •  Intravenous Immunoglobulin G (IVIG)
+                 ◦  This protects against most common pathogens. IgG is given to
+                        patients.
+             • Hyperimmune globulin
+                 ◦  i.e a patient has too much of an immunoglobulin, so some is taken
+                     out and frozen to be given to another patient who needs it
+
+         How can donors be selected for immunotherapy?
+             •  Donors can be screened for high levels of IgG against particular
+                pathogens
+             •  Those with high levels can be selected as donors.
+            Diagram illustrating the use of convalescent plasma (plasma from recovered
+              patients) for COVID 19 patients
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-10-Plasma-d55ad17da1f74c82b75c4c6913a8681a                                                                        7/7

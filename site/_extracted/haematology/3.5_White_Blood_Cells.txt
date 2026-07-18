@@ -1,0 +1,563 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+    3.5 White Blood Cells
+
+           What are granulocytes?
+             •  They are a type of white blood cell that have granules in them.
+           What are the three main type of granulocyte and their colours?
+             •  Eosinophil (red)
+             •  Neutrophil (neutral)
+             •  Basophil (blue)
+
+
+
+
+
+         How can we tell that a granulocyte has matured?
+             •   It gets smaller and the development of granules key to its function
+                  begins.
+
+             Describe the difference in the appearances of eosinophils and basophils.
+             •  Eosinophils are more reddish in colour than basophils which are
+                 described as basic (alkaline), giving them a blue colour
+
+
+
+
+
+           What do granulocytes often look like in people with leukaemia?
+             •  They are bigger than usual, immature and they look like myeloblasts
+             Describe the typical differentiation path taken from a HSC to a granulocyte.
+             • HSC → Common Myeloid Progenitor → (Myeloblast) →
+                 (Promyelocyte) → (Myelocyte) → (Band form) → Granulocyte
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                          1/14
+
+===== PAGE 2 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+           What is a monocyte?
+             •  They are a type of white blood cell which are used to destroy
+               pathogens
+             •  They can differentiate into macrophages or dendritic cells.
+            Diagram showing blood stem cell hierarchy.
+
+
+
+
+
+           What can myeloid growth factors be used for?
+             •  They can be used to activate the proliferation of myeloid
+                (granulocytes + macrophages) cells and hence are an effective
+                 treatment for patients with pathologies such as leukaemia.
+                 ◦  This is only in the case where a leukaemia patient has undergone
+                    chemotherapy, and so their lymphocyte count has decreased.
+                   Chemotherapy typically kills fast-proliferating cells, so white
+                    blood cells can catch collateral damage.
+             •  This is important as these white blood cells are important to the
+              immune system
+             •  Granulocyte colony-stimulating factor (G-CSF), Granulocyte-
+              macrophage colony-stimulating factor (GM-CSF), Macrophage
+                  colony-stimulating factor (M-CSF) are examples of growth factors
+
+           What is the main role of a neutrophil?
+             •   It is used to phagocytose (mainly bacteria/fungi) and then kill these
+               phagocytosed bacteria/fungi.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                          2/14
+
+===== PAGE 3 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+         How long does the neutrophil survive for in the bloodstream before
+             migrating to tissues?
+             •  7-10 hours.
+             •  After this period they will migrate to tissues via chemotaxis.
+           What is chemotaxis?
+             •  Chemotaxis is the movement of an organism or entity in response to
+               a chemical stimulus.
+
+         How does the neutrophil migrate from the bloodstream to the tissues
+            around it, in order to fight infection?
+             •  Neutrophil extravasation (diapedesis)
+                 ◦  Neutrophils, via a complex pathway involving adhesion molecules
+                   such as selectins & integrins, cytokines & chemokines and the
+                     endothelium, move towards the interstitium and tissue through
+                     the endothelial membrane
+
+
+
+
+
+           Which has a longer lifespan, an eosinophil, or a neutrophil?
+             •  Eosinophil.
+           What are the two main roles of an eosinophil?
+             •  To defend against parasitic agents such as helminth worms.
+             •  To regulate Type I hypersensitivity reactions (those allergic reactions
+                 reacted to in <24 hours)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                          3/14
+
+===== PAGE 4 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+           What is a hypersensitivity reaction?
+             •  They are exaggerated or inappropriate reactions conducted by the
+              immune system in response to an antigen or an allergen
+             •   It happens when the immune system mistakes something harmless
+               as something that is harmful
+
+         How do eosinophils regulate these Type I hypersensitivity reactions?
+             •  They inactivate the histamine and leukotrienes released by
+                basophils and mast cells.
+
+           What is a leukotriene?
+             • An inflammatory mediator released by basophils
+           What is the role of a leukotriene?
+             •  They contract airway smooth muscle, increase vascular
+                  permeability, increase mucus secretion, and attract and activate
+                other inflammatory cells
+             •  They just cause inflammation really.
+           What is a special property of basophils?
+             •  Its granules contain stores of histamine and heparin, as well as
+                  proteolytic enzymes.
+
+           What are the main roles of a basophil?
+             •  To act as an inflammatory mediator and induce inflammatory effects
+             •  To mediate immediate-type hypersensitivity reactions
+                 ◦  i.e Type I
+         How are basophils involved in mediation of immediate-type hypersensitivity
+              reactions?
+             • The Immunoglobin-E (IgE) coated basophils release heparin and
+                proteases
+                 ◦  IgE binds to the antigens
+             •  This acts to mediate immediate-type hypersensitivity reactions.
+         How do mast cells differ from basophils?
+             • Mast cells reside in tissues
+             •  Basophils are found freely in the circulation
+           What is heparin?
+             •   It is an anticoagulant that is naturally occurring and can also be
+                administered as a drug
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                          4/14
+
+===== PAGE 5 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+           What does heparin do?
+             •  Heparin potentiates the action of antithrombin and hence helps to
+                 prevent harmful clots from forming in the blood
+
+         How do monocytes differ from macrophages?
+             • Monocytes and macrophages are two versions of the same cell
+             • A monocyte is the name of the cell when it flows freely in the
+                  circulation
+             • A monocyte becomes a macrophage when it migrates to the tissue
+                 ◦   It is also known as a histiocyte in this form
+              Recall two functions of macrophages.
+             •  Phagocytosis of antigenic material
+             •  Antigen presentation to T cells. They are antigen-presenting cells.
+             •  Storage and release of iron
+                 Is it monocytes or macrophages that store iron?
+             • Macrophages (tissue)
+           What are the two types of cell monocytes can differentiate into after
+             migrating from the blood to the interstitium?
+             •  Dendritic cells
+             • Macrophages
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                          5/14
+
+===== PAGE 6 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+           What is a characteristic feature of monocytes/macrophages on analysis that
+              allows them to be easily identifiable?
+             • Macrophages (not monocytes) are involved in the storage and
+                 release of iron to erythrocytes
+             •  Structures called ‘erythroid islands’ can form around monocytes
+                which allow them to obtain iron from these cells.
+                 ◦  This is the purple “circle” around the main cell body shown below
+             •  You can only see these in the tissues, not the bloodstream, because
+              macrophages are not found in the tissues
+
+
+
+
+
+           What type of white blood cell interacts with red blood cells?
+             • Macrophages.
+         How do macrophages interact with red blood cells?
+             •  They are involved in the storage and release of iron to erythrocytes
+             •  Structures called ‘erythroid islands’ can form around macrophages
+                which allow them to obtain iron from these cells.
+                 ◦  They transfer this iron in bone marrow during erythropoiesis,
+                    as macrophages are not found in the blood (they would be
+                       called monocytes)
+
+           What is a plasma cell?
+             • A further differentiated B cell that makes antibodies to combat
+                pathogens.
+
+           What makes the edge of plasma cells slightly darker?
+             • The presence of ribosomes
+             •  They need this larger number of ribosomes because they are
+                 constantly producing antibodies (proteins) against pathogenic
+                 antigens
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                          6/14
+
+===== PAGE 7 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+         Why are lymphocytes found in the lymph nodes?
+             •  Blood is pushed out of the blood vessels into the interstitium and
+                 recollected by lymphatic capillaries
+             • The lymphocytes help to filter blood at the lymph nodes and this
+                blood is recycled to the circulation
+
+           What are the three types of lymphocyte produced by common lymphoid
+             progenitors?
+             •  Natural killer cells (NK)
+             • T lymphocyte
+             • B lymphocyte
+           What is the difference between natural killer (NK) cells and lymphocytes
+             morphologically?
+             •  Natural killer cells (RIGHT) are bigger than B/T lymphocytes (LEFT)
+
+
+
+
+
+           Where are B lymphocytes made?
+             •  Progenitors are made in the foetal liver before differentiating in the
+              bone marrow (B)
+
+           What is humoral immunity?
+             • The immune response that involves the action of antibodies which
+               combat different antigens.
+
+         How is the development of B lymphocytes centred around the idea of
+            humoral immunity?
+             •  Their development involves the rearrangement of the genes coding
+                  for the heavy and light chains
+             •  These different arrangements lead to different immunoglobulins
+                  (antibodies) being produced which can fight against different antigens.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                          7/14
+
+===== PAGE 8 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+         How does differentiation work to produce different types of B cells?
+             •  Differentiation in B cells involves Ig heavy and light chain gene
+               rearrangement
+                 ◦  This way, the variable region of the antibody is different and a
+                        different type of B cell is produced
+
+           Which type of lymphocytes are involved in cell-mediated immunity?
+             • T lymphocytes
+             •  Natural killer cells
+           Where are T lymphocytes made?
+             •  Progenitors are made in the foetal liver before differentiating in the
+              thymus (T)
+
+           Which blood cell is shown in the image below?
+
+
+
+
+
+               Answer
+
+           Which blood cell is shown in the image below?
+
+
+
+
+
+               Answer
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                          8/14
+
+===== PAGE 9 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+           Which blood cell is shown in the image below?
+
+
+
+
+
+               Answer
+
+           Which blood cell is shown in the image below?
+
+
+
+
+
+               Answer
+
+           Which blood cell is shown in the image below?
+
+
+
+
+
+               Answer
+
+           What is leukocytosis?
+             • The term used to describe an elevated white blood cell count.
+         How can transient leukocytosis help a clinician?
+             •   It can suggest that there is a secondary (external) cause for the
+                 elevated WBC count
+             •  This could be an infection, and the type of WBC elevated in number
+               can give us indication of what type of infection it is
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                          9/14
+
+===== PAGE 10 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+           What type of infection causes neutrophilia/monocytosis ?
+             •  Bacterial
+           What type of infection causes lymphocytosis?
+             •  Viral
+           What type of infection causes eosinophilia?
+             •  Parasitic
+           What does persistent leukocytosis suggest to us?
+             •  There is damage in the DNA that affects a precursor lymphoid cell and
+                    this is giving rise to blood cancers, causing elevated WBC levels.
+             •  Chronic leukaemias, lymphomas, myelomas
+             •   It just suggests to us that the increase in WBC levels is not due to
+               response to pathogens, but is primary
+                 ◦  There is no apparent cause for it
+           What is a myeloma?
+             • A cancer of plasma cells (derived from B cells)
+           What is leukopenia?
+             • A reduction in the total number of white cells.
+                 ◦   It is usually caused by a reduction in neutrophil count (as they are
+                     the most prevalent WBC)
+
+           What is the most abundant leukocyte in circulation?
+             •  Neutrophils.
+              Recall three causes of neutrophilia.
+             •  Infection
+             •  Inflammation
+             •  Tissue damage
+             •  Pregnancy
+             •  Exercise
+             •  Corticosteroids
+           What adverse effects can neutrophilia lead to?
+             •  Toxic granulation.
+             •  Left shift
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                        10/14
+
+===== PAGE 11 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+           What is a left shift, and what causes it?
+             • A left shift is an increase in neutrophil precursors, usually with less
+                lobes, in the blood
+                 ◦  Chronic myeloid leukaemias cause left shift. Increased
+                demand on the bone marrow.
+
+
+
+
+
+           What are the main causes of neutropenia?
+             •  Radiotherapy and chemotherapy
+             •  In other cases, it can be caused by autoimmune disorders and severe
+                  bacterial infections.
+
+           What can neutropenia lead to?
+             •  Increased risk of serious infection
+                 ◦  These people need urgent treatment with intravenous
+                       antibiotics
+
+           What is neutrophil hypersegmentation and what causes it?
+             •  This is also known as right shift
+             •   It is when a neutrophil has more than the regular 3-5 lobes (right shift)
+             •   It is caused by a lack of vitamin B12 or folic acid which prevents the
+                     cell from dividing
+                 ◦  Similar to B12/folate deficiencies causing macrocytic anaemia in
+                      erythrocytes
+
+           What can cause eosinophilia?
+             •  Parasitic infection
+             •  Allergy
+           What can cause basophilia?
+             •  Usually a form of leukaemia
+                 ◦  i.e Chronic myeloid leukaemia (CML)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                         11/14
+
+===== PAGE 12 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+           What is monocytosis?
+             • Too many monocytes
+           What can cause monocytosis?
+             •  Infection or chronic inflammation.
+           What causes lymphocytosis?
+             •  Normally, lymphocytosis occurs in response to a viral infection
+           What is the most common lymphocyte type in circulating blood?
+             • CD4+ T (helper) cells
+           What causes lymphopenia?
+             • HIV infection
+             • Chemotherapy
+             •  Radiotherapy
+             •  Corticosteroids
+           What is a mutagen?
+             • A mutagen is a chemical or physical agent capable of inducing
+                mutations.
+
+           What are the two main types of leukaemia, and how are they classified?
+             •  Myeloid
+                 ◦  i.e granulocytes, monocytes → Acute/Chronic myeloid leukaemia
+             • Lymphoid
+                 ◦  i.e lymphocytes → Chronic lymphocytic leukaemia/Acute
+                    lymphoblastic leukaemia
+             • A leukaemia can fall under one of these categories based on where
+                the mutation leading to the cancer takes place.
+
+           What happens to white blood cells in leukaemia (pathogenesis)?
+             • The mutant cells have a distinct survival advantage over the non-
+                mutant cells, and so they replace them
+             • The mutant cells proliferate over time, before taking over the blood
+               and they are dysfunctional
+             •  This leads to patients becoming extremely susceptible to infection
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                        12/14
+
+===== PAGE 13 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+           The four types of leukaemia.
+
+
+
+
+
+           What is the main difference between acute leukaemias and chronic
+             leukaemias?
+             •  Acute leukaemias typically occur in blast (immature) cells
+                 ◦ The cells typically halt due to failure in their life-cycle and
+                         proliferate immaturely
+                 ◦  Because these immature cells have a higher proliferative capacity,
+                         this can lead to propagation of the leukaemia much quicker than
+                          in chronic cases
+             •  Chronic leukaemias typically occur in partially mature cells
+                 ◦ The cells typically have partially finished maturing and
+                         proliferate thereafter
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                        13/14
+
+===== PAGE 14 =====
+
+18/07/2026, 22:07                                                                   3.5 White Blood Cells
+
+
+
+            Diagrams showing the difference between lymphoblastic and lymphocytic
+             leukaemia.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-5-White-Blood-Cells-e953ed20ffd7434c8105d07521cc866a                                                        14/14

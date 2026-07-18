@@ -1,0 +1,301 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 21:50                                                                   2.1 Cell Metabolism I
+
+    2.1 Cell Metabolism I
+
+            Basics/Warm-Up
+
+              What is metabolism?
+                 •  Metabolism describes the key processes that occur within our
+                    bodies that keep us alive
+
+              What is a catabolic reaction?
+                 • A reaction that involves the breakdown of a larger molecule into
+                      smaller ones
+                 •   It typically releases energy which is stored within ATP
+              What is an anabolic reaction?
+                 • A reaction that involves the formation of a larger molecule from
+                      smaller ones.
+                 •   It typically requires the input of energy from ATP
+              What is the cytosol?
+                 • The liquid part of the cytoplasm in a cell.
+              Where does the term glycolysis originate from?
+                 •  Glyco (sugar) lysis (breaking)
+                 •  Glycolysis is hence the breakdown of sugar (glucose) into two
+                    molecules of pyruvate.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-1-Cell-Metabolism-I-33312abc98c345548f38c855746b0994                                                              1/8
+
+===== PAGE 2 =====
+
+18/07/2026, 21:50                                                                   2.1 Cell Metabolism I
+
+
+
+           The six main reaction types.
+
+
+
+
+
+           What are the three main steps of cellular metabolism?
+             •  Glycolysis
+             •  Krebs Cycle / TCA Cycle
+             •  Oxidative Phosphorylation
+           Which reactions occur in the cytosol/mitochondria?
+             •  Glycolysis in the cytosol
+             • TCA Cycle and Oxidative Phosphorylation in the mitochondria
+           Where do the urea and water produced from the reactions in aerobic
+              respiration originate from?
+             •  Water from the reduction of oxygen
+             •  Urea from the breakdown of amino acids
+         How much energy is released from the combustion of one mole of glucose?
+             • ~2872 kJ
+         How can we get this energy to be released from glucose?
+             •  Through the complete oxidation (aerobic respiration) of glucose
+             •  This reaction requires energy to proceed and reach the activation
+                energy before proceeding
+
+         How is the activation energy for the complete combustion of glucose
+            reached?
+             •  Using heat energy from the body’s temperature or enzymes
+         How many molecules of ATP can be synthesised from the complete
+              oxidation of glucose?
+             •  36-38.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-1-Cell-Metabolism-I-33312abc98c345548f38c855746b0994                                                              2/8
+
+===== PAGE 3 =====
+
+18/07/2026, 21:50                                                                   2.1 Cell Metabolism I
+
+
+
+           What is ligation?
+             • The joining of two nucleic acid fragments through the action of an
+              enzyme.
+
+           What is a kinase?
+             • A kinase is an enzyme that always catalyses the addition of
+               phosphate groups to other molecules
+
+           What happens in the first stage of glycolysis?
+             •  Glucose —> Glucose-6-phosphate
+             • ATP —> ADP + Pi
+             •  Catalysed by hexokinase
+           What happens in the second stage of glycolysis?
+             •  Glucose-6-phosphate changes to fructose-6-phosphate in an
+                  isomerisation reaction
+             •  Catalysed by phosphoglucose isomerase.
+           What is the purpose of this second stage of glycolysis?
+             •   It happens because fructose can split into equal halves when cleaved
+             •  Glucose, on the other hand, cannot
+           What happens in the third stage of glycolysis?
+             •  Fructose-6-phosphate —> Fructose 1,6-bisphosphate
+             • ATP —> ADP + Pi
+             •  Catalysed by phosphofructokinase
+           What happens in the fourth stage of glycolysis?
+             •  Fructose-1-6-bisphosphate —> Glyceraldehyde-3-phosphate
+               (GALP) + Dihydroxyacetone phosphate (DHAP)
+             •  Catalysed by aldolase
+           What happens in the fifth stage of glycolysis?
+             •  Dihydroxyacetone phosphate —> Glyceraldehyde-3-phosphate
+             •  Catalysed by triose phosphate isomerase (TPI)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-1-Cell-Metabolism-I-33312abc98c345548f38c855746b0994                                                              3/8
+
+===== PAGE 4 =====
+
+18/07/2026, 21:50                                                                   2.1 Cell Metabolism I
+
+
+
+           What happens in the sixth stage of glycolysis?
+             •  Glyceraldehyde-3-phosphate —> 1,3-bisphosphoglycerate
+             • NAD+ —> NADH + Pi
+             •  Inorganic phosphate is also added to glyceraldehyde-3-phosphate, to
+                 prepare it for substrate-level phosphorylation of two molecules of ATP,
+                 not one.
+             •  Catalysed by glyceraldehyde-3-phosphate dehydrogenase
+             •  This enzyme needs NAD+ to function, hence glycolysis is reliant on the
+                presence of NAD+ to go ahead, otherwise this step will not proceed
+               and pyruvate won’t be produced.
+
+           What happens in the seventh stage of glycolysis?
+             •  1,3-bisphosphoglycerate —> 3-phosphoglycerate
+             • ADP + Pi —> ATP
+             •  Catalysed by phosphoglycerate kinase
+           What happens in the eighth stage of glycolysis?
+             •  3-phosphoglycerate —> 2-phosphoglycerate
+             •  Catalysed by phosphoglycerate mutase
+           What happens in the ninth stage of glycolysis?
+             •  2-phosphoglycerate —> Phosphoenolpyruvate + H2O
+             •  Catalysed by enolase
+           What happens in the tenth stage of glycolysis?
+             •  Phosphoenolpyruvate —> Pyruvate
+             • ADP + Pi —> ATP
+             •  Catalysed by pyruvate kinase
+           What are the net products of glycolysis?
+             • 2x pyruvate
+             • 2x NADH
+             • 2x ATP, 4x produced by 2x pyruvate, but 2 were used initially to form
+                 glyceraldehyde-3-phosphate.
+
+           The deficiency of which glycolytic enzyme can prove to be fatal in humans
+           and why?
+
+           What is the purpose of adding a phosphate group to a glucose molecule in
+             the first step?
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-1-Cell-Metabolism-I-33312abc98c345548f38c855746b0994                                                              4/8
+
+===== PAGE 5 =====
+
+18/07/2026, 21:50                                                                   2.1 Cell Metabolism I
+
+
+
+         How does the addition of this phosphate group allow glucose to be
+            committed to metabolism?
+
+           What do dehydrogenase enzymes need to function?
+
+             Describe briefly what the pentose-phosphate pathway is.
+             •   It is a parallel pathway to glycolysis used to generate biosynthetic
+                molecules from substrates of glycolysis
+             •  For example, glucose-6-phosphate can be converted to ribose-5-
+                phosphate which is a key component for RNA/DNA.
+             • NADPH comes from this pathway too. (Results from NADH)
+           What is the difference between NADPH and NADH?
+             • NADPH has an additional phosphate group and is typically used for
+                 anabolic reactions
+
+           Which molecule, produced via the pentose-phosphate-pathway is vital to
+             maintaining the integrity of RBCs?
+             • NADPH
+             Describe how NADPH maintains the integrity of RBCs.
+
+           What is the difference between NADH and NAD+?
+             • NADH and NAD+ are forms of the same molecule
+             • NADH is the reduced form, NAD+ is the oxidised form
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-1-Cell-Metabolism-I-33312abc98c345548f38c855746b0994                                                              5/8
+
+===== PAGE 6 =====
+
+18/07/2026, 21:50                                                                   2.1 Cell Metabolism I
+
+
+
+           What are the three fates of pyruvate?
+             •  Alcoholic fermentation - yeast
+             •  Lactate production - human anaerobic
+             •  Acetyl CoA production - human aerobic
+           What reactions occur in alcoholic fermentation?
+             •  Ethanol is ultimately produced from pyruvate in a two-stage reaction
+
+
+
+
+
+           What role do alcoholic fermentation and lactate production play in cell
+            metabolism?
+             •  Regenerating NAD+
+             • The lactate and ethanol produced by these reactions are “waste”
+                products, the main aim of the reactions is to regenerate NAD+ from
+           NADH to keep ATP production going
+             •  This is mainly important in anaerobic conditions as NADH is not
+                 useful to us in states of hypoxia, as it is used in oxidative
+                  phosphorylation, so regeneration of NAD+ allows for ATP production
+                  via glycolysis
+                 ◦ NAD+ can be used in the 6th step of glycolysis (glyceraldehyde-
+                   3-phosphate —> 1,3-glyceraldehyde bisphosphate) which can
+                    subsequently help us to produce ATP in the remaining reactions
+                      of glycolysis
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-1-Cell-Metabolism-I-33312abc98c345548f38c855746b0994                                                              6/8
+
+===== PAGE 7 =====
+
+18/07/2026, 21:50                                                                   2.1 Cell Metabolism I
+
+
+
+         How does creatine phosphate function in metabolism?
+             •  Creatine phosphate has one phosphate group removed from it to
+                  return to its original creatine state and phosphorylate the ADP to form
+             ATP
+             •   It is used as ATP is usually in high demand during exercise + muscle
+                  contractions and so it acts as a reservoir for these demanding
+                  conditions
+
+           What is the acetyl CoA produced by pyruvate used for?
+             • The TCA Cycle.
+           What is the role of the enzyme lactate dehydrogenase?
+             •  Catalyses the reduction of pyruvate to lactate and vice-versa
+             •  This reaction regenerates NAD+ which allows glycolysis to continue
+                  (step 6)
+                 ◦ NADH is not useful to us in states of hypoxia, as it is used in
+                       oxidative phosphorylation, so regeneration of NAD+ allows for
+                 ATP production in glycolysis
+
+
+
+
+
+             Describe how pyruvate is converted to acetyl CoA.
+
+
+
+
+
+             • NAD+ —> NADH
+             • HS-CoA is just coenzyme A
+             • The pyruvate dehydrogenase complex catalyses this reaction
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-1-Cell-Metabolism-I-33312abc98c345548f38c855746b0994                                                              7/8
+
+===== PAGE 8 =====
+
+18/07/2026, 21:50                                                                   2.1 Cell Metabolism I
+
+
+
+           What is Beri Beri?
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-1-Cell-Metabolism-I-33312abc98c345548f38c855746b0994                                                              8/8

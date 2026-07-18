@@ -1,0 +1,64 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:23                                                             4.12 Diagnostic Virology II
+
+    4.12 Diagnostic Virology II
+
+              Recall some viral infections that can be sexually transmitted.
+             •  HIV (Human Immunodeficiency Virus)
+             • HTLV (Human T-Lymphocytic Virus)
+             •  Hepatitis B/C
+             • Human Papilloma Virus
+             •  Herpes Simplex Virus
+           What is point-of-care testing?
+             •  Carrying out a test using a device or test kit in the presence of the
+                 patient and without the need to send a sample to a laboratory.
+
+           What may be the reasons behind a HIV test returning negative?
+             • The patient actually does not have HIV
+             • The test has been performed too close to the onset of the infection,
+               so there are not enough HIV antigens present yet to be detected
+             • The test has been performed too close to the onset of the infection,
+               so there are not enough HIV antibodies present to be detected
+
+           Which further tests can be done beyond an antigen test for HIV?
+             •  Antibody test
+             • PCR to amplify blood samples
+             •  Nucleic acid tests (NAT) done to detect RNA in actual HIV.
+             •  qrt-PCR or RT-qrt-PCR to determine viral load
+         How can you test a baby for HIV infection?
+             •  Heel prick test to obtain blood from the baby
+             • PCR can be done to amplify sample
+         Why shouldn’t we test for antibodies in babies under two years old?
+             • Do not test for antibodies as the antibodies can be transferred from
+                 the mother to the child during pregnancy
+                 ◦  These can stay in the child’s serum for up to two years
+             •  This hence doesn’t give us an accurate representation of whether or
+                 not the mother or the child has produced the antibodies in response to
+                 the pathogen.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-12-Diagnostic-Virology-II-ede566191e4d4b0bb88fb6b4aefcc168                                                         1/2
+
+===== PAGE 2 =====
+
+18/07/2026, 22:23                                                             4.12 Diagnostic Virology II
+
+
+
+           What further tests can be done to follow-up a positive HTLV serology test?
+             •  qrt-PCR to determine volume of HTLV present in patient
+             •  This gives us an indication on how likely the patient is to develop
+                severe complications as a result of the virus, and their likelihood of
+                transmission
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-12-Diagnostic-Virology-II-ede566191e4d4b0bb88fb6b4aefcc168                                                         2/2

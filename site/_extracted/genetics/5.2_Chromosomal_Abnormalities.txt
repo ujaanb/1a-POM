@@ -1,0 +1,318 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+    5.2 Chromosomal
+    Abnormalities
+
+           What is a karyotype?
+             • An individual’s complete set of chromosomes.
+           What is the name of the stain used to view chromosomes?
+             • Gisema stain
+           Image showing structure of a chromosome.
+
+
+
+
+
+           What does +/- mean in relation to mutations in genetics?
+             •  +/- before the chromosome number (i.e +8) means there has been a
+                   gain/loss of the entire chromosome
+             •  +/- after the chromosome number (i.e 4-) means there has been a
+                   gain/loss of a part of the chromosome
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                                 1/10
+
+===== PAGE 2 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+
+
+            Standard nomenclature in genetics.
+
+
+                abbreviation                 Meaning
+
+             p                               Short arm
+
+             q                           Long arm
+
+                 pter                              Tip of short arm
+
+                 qter                              Tip of long arm
+
+              cen                            centromer
+
+                 del                                deletion
+
+                der                                Derivative chromosome (contains
+                                                    extra material)
+
+              dup                               duplication
+
+                  ins                                  insertion
+
+                  inv                                 inversion
+
+                      t                                  translocation
+
+                +/− Before chromosome number   Gain/loss whole chromosome
+
+                +/− After chromosome number    Gain/loss part of chromosome
+
+
+
+           What is aneuploidy?
+             • An abnormal number of chromosomes
+              Recall three important roles of meiosis.
+             • Random assortment
+             •  Recombination
+             •  Genetic variation
+             • The first two lead to the latter
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                                 2/10
+
+===== PAGE 3 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+
+
+           What happens in meiosis I?
+             •  Each normal adult cell should have 46 chromosomes. In interphase,
+                    this is replicated to 92 chromosomes
+             • Homologous chromosomes (i.e chromosomes of the same number)
+                    line up and are ready for cell division
+                 ◦  Note at this stage, there are four copies of each chromosome
+                             (i.e one paternal + one maternal has become two paternal + two
+                     maternal after interphase)
+             •  Crossing over occurs between homologous chromosomes from the
+               mother and father which leads to all chromosomes becoming
+                  genetically distinct
+             • The cells split in half, forming two daughter cells each with 46
+              chromosomes
+                 ◦  Each daughter cell would have 23 paternal and 23 maternal
+                 chromosomes (though due to crossing over there is now paternal
+                  and maternal DNA on each chromosome)
+
+           What happens in meiosis II?
+             • The cells split in half again now, and four daughter cells result, each
+                with 23 chromosomes (haploid)
+                 ◦ Each daughter cell would have a mixture of paternal and
+                    maternal chromosomes to allow genetic variation (via random
+                      assortment), but would have 23 chromosomes, ready to fuse
+                    with another haploid gamete to form a diploid zygote
+             • Chromosome from meiosis one further splits into two, forming two
+                daughter cells each with one chromatid.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                                 3/10
+
+===== PAGE 4 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+
+
+            Diagram showing the steps involved in normal meiosis.
+             • 46 —> 92 —> 92 —> crossing over (46) —> 46 —> 23
+
+
+
+
+
+            Diagram showing the steps involved in abnormal meiosis.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                                 4/10
+
+===== PAGE 5 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+
+
+             Describe what causes chromosome aneuploidy.
+             •  This is when the chromosomes from a parent cell do not split equally
+                    into daughter cells (in meiosis I or II), which results in an abnormal
+              number of chromosomes within a daughter cell
+             •  This process is called non-disjunction, when the chromosomes aren’t
+                separated in the correct and normal manner.
+
+           What can X-inactivation of chromosomes lead to?
+             •   It can lead to only one of the X chromosomes remaining active and the
+                   rest (excess) being inactivated
+             •   It occurs in those with sex chromosome aneuploidy
+           What is a pseudo-autosomal region (PAR)?
+             •   It is a region that can be present on an X or Y chromosome that can
+               remain active even after inactivation
+
+         Why is it thought that females are more susceptible to autoimmune diseases
+             than males?
+             • A lot of the genes from the pseudo-autosomal regions that escape X
+              chromosome inactivation are involved in the immune system, so
+                females have more of these, hence leading to increased susceptibility
+                  to autoimmune diseases.
+
+           What is trisomy-21?
+             • A karyotype that involves three chromosomes on the 21st pair instead
+                  of two
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                                 5/10
+
+===== PAGE 6 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+
+
+           What maternal factor can influence the likelihood of a baby having trisomy-
+            21?
+             • The risk of maternal non-disjuncture increases with age,
+                    significantly increasing the probability of their offspring developing
+                  trisomy-21.
+
+
+
+
+
+         Why is this the case?
+             •   It is likely due to the degradation of the factors that hold the
+              homologous chromosomes in the middle of the spindle bundle, that
+                occurs with age.
+                 ◦ The chromosomes aren’t held in the middle of the cell, and this
+                     leads to an increased likelihood of cell division in meiosis resulting
+                          in an abnormal number of chromosomes in resulting
+                  chromosomes
+                 ◦  Basically, oogenesis is faulty as women age.
+             •  Also, the development of a primary oocyte → secondary oocyte does
+                 not occur until a woman’s egg is fertilised and it is arrested in prophase
+                 ◦  This means the egg has more time to accumulate damage, and
+                     abnormalities are increasingly likely
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                                 6/10
+
+===== PAGE 7 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+
+
+           What paternal factor can influence the likelihood of a baby having trisomy-
+            21?
+             • Smoking
+             •  Certain syndromes such as
+                 ◦  Apert syndrome
+                 ◦  Crouzon syndrome
+                 ◦  Pfeiffer syndrome
+           What is non-disjunction in meiosis?
+             • The failure of the chromosomes to separate.
+           Image showing how chromosomal non-disjunction occurs increasingly with
+             age.
+
+
+
+
+
+           Which is tolerated better, trisomy or monosomy?
+             •  Trisomy
+             • Most monosomy is incompatible with life
+           What is mosaicism?
+             • The presence of two or more populations of cells with different
+                genotypes.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                                 7/10
+
+===== PAGE 8 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+
+
+             Describe what occurs in unequal chromosome crossover and why this is a
+             problem.
+             • The chromosomes misalign when they are lining up to be crossed
+                   over, and this causes certain genes to be replicated on chromosomes
+                   that result from crossing over, and others to be deleted
+
+
+
+
+
+           What are the three classes of chromosome?
+             •  Metacentric
+             •  Submetacentric
+             •  Acrocentric
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                                 8/10
+
+===== PAGE 9 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+
+
+           What is Robertsonian translocation?
+             •  Robertsonian translocations are a specific class of translocations in
+               which two acrocentric chromosomes fuse at their centric ends
+             •   It can occur on chromosomes 13,14,15 and 21 and can cause
+               problems in offspring.
+             •   It involves part or the entirety of these chromosomes being moved
+               onto another chromosome
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                                 9/10
+
+===== PAGE 10 =====
+
+18/07/2026, 22:09                                                              5.2 Chromosomal Abnormalities
+
+
+
+          ROBERTSONIAN TRANSLOCATION IN REPRODUCTION.
+             • NOTE: In this image, the “segregation products” refer to the
+              chromosomes that will be seen in the sperm or egg haploid cell
+             •   If a person has Robertsonian translocation of chromosome 14 and 21,
+                    this will form a derivative of the two as seen below
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-2-Chromosomal-Abnormalities-8af8844a8d924d0892f291dd3030c8bc                                              10/10

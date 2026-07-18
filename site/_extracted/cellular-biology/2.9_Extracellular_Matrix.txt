@@ -1,0 +1,577 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+    2.9 Extracellular Matrix
+
+           What is the extracellular matrix (ECM)?
+             • A complex network of carbohydrates and proteins that fill up the
+               spaces between cells.
+             •   It’s made up of fibrillar and non-fibrillar components
+           What does the term “fibrillar” mean?
+             •  Fibre-making.
+              Recall three roles of the ECM.
+             •  Provides physical support for cells
+             •  Influences the growth and adhesion of cells as well as their
+                    differentiation status
+             •  Development, tissue function and organogenesis
+              Recall three types of tissue that fall under the umbrella term connective
+               tissue.
+             • Bone
+             •  Cartilage
+             •  Fat
+             •  Blood
+             •  Lymphatic tissue.
+             •  Tendon
+             •  Skin
+           Which collagen types are fibrillar?
+             •  Types I, II and III
+           Which collagen types are non-fibrillar?
+             •  Type IV
+           What is collagen IV used for?
+             •  To constitute the basement membrane
+           What constitutes the connective tissue?
+             •  Extracellular matrix
+             • Component cells (i.e macrophages, epithelial cells etc.)
+             •  Fluid
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                          1/17
+
+===== PAGE 2 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+           What are the three main extracellular matrix components?
+             •  Collagens
+             •  Multi-adhesive glycoproteins
+             •  Proteoglycans
+              Recall three types of collagens.
+             •  Type I
+             •  Type II
+             •  Type III
+             •  Type IV
+              Recall three types of multi-adhesive glycoprotein.
+             •  Fibronectin
+             •  Fibrinogen
+             •  Laminins
+              Recall three types of proteoglycan.
+             •  Aggrecan
+             •  Versican
+             •  Decorin
+             •  Perlecan
+           What are multi-adhesive glycoproteins and proteoglycans both examples of?
+             •  Glycoproteins
+           What is a proteoglycan?
+             • A heavily-glycosylated glycoprotein (i.e one with lots of
+                 carbohydrates - specifically GAG chains)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                          2/17
+
+===== PAGE 3 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+           Image showing key components of ECM.
+
+
+
+
+
+         Why do connective tissues need to have different properties depending on
+               their area of usage?
+             •  This is to allow the particular tissue to be well-adapted to performing
+                       its function
+
+           What causes connective tissues to have varying properties (i.e resilient,
+                flexible)?
+             • The properties of the type of collagen in the ECM.
+           What is tendon-skin ECM like?
+             •  Resilient, flexible
+           What is bone ECM like?
+             •  Hard and dense
+           What is cartilage ECM like?
+             •  Resilient and shock-absorbing.
+             •  Cartilage is the tissue that protects our bones from mechanical stress
+               damage.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                          3/17
+
+===== PAGE 4 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+              Recall three disorders arising from gene mutations that affect matrix
+              proteins.
+             •  Osteogenesis imperfecta
+             •  Marfan’s syndrome
+             •  Alport’s syndrome
+             •  Epidermolisis Bullosa
+             •  Congenital Muscular Dystrophy
+             Mutation in which gene causes osteogenesis imperfecta?
+             •  Type I Collagen
+             Mutation in which gene causes Marfan’s syndrome?
+             •  Fibrillin 1
+             Mutation in which gene causes Alport’s syndrome?
+             •  Type IV Collagen
+             Mutation in which gene causes Epidermolysis Bullosa?
+             •  Laminin 5
+             Mutation in which gene causes Congenital Muscular Dystrophy?
+             •  Laminin 2
+           What are glycosaminoglycans?
+             •  Glycosaminoglycans (GAGs), also known as mucopolysaccharides,
+                 are negatively-charged polysaccharide compounds often forming
+                 the sugar part of proteoglycans
+                 ◦  Examples include heparin/heparan sulfate, chondroitin
+                    sulfate/dermatan sulfate, keratan sulfate, and hyaluronic acid.
+
+              Recall a disorder that arises from a gene mutation affecting ECM catabolism
+             (mucopolysaccharidoses).
+             •  Hurler’s syndrome (L-alpha-iduronidase)
+                 ◦  This leads to excess GAG build-up in the ECM
+              Recall a disorder arising from excessive ECM deposition (increased
+             presence).
+             •  Liver fibrosis
+             •  Kidney fibrosis
+             •  Lung fibrosis
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                          4/17
+
+===== PAGE 5 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+              Recall a disorder that arises from excessive loss of ECM.
+             •  Osteoarthritis.
+           What type of protein are collagens (structurally)?
+             •  Fibrous
+         How are the collagen fibrils in the skin arranged?
+             •  At right angles to each other
+           What property does this give to the tissue?
+             •   It allows it to have tensile strength.
+         How are the collagen fibrils in the bone and cornea arranged?
+             •  In a uniform parallel arrangement
+             Describe the basic structure of a collagen molecule.
+             •   It is made up of three alpha-chains which form a triple helix
+             • The alpha chains can either be different (Type I) or all the same (Type
+                                II, Type III)
+
+           Which three chains comprise a Type I Collagen fibre?
+             •  [a1(I)]2 [a2(I)]
+           Which three chains comprise a Type II Collagen fibre?
+             •  [a1(II)]3
+           Which three chains comprise a Type III Collagen fibre?
+             •  [a1(III)]3
+           What is a heterotrimeric collagen?
+             • A collagen molecule made up of one or more types of alpha chains
+             •  Type I is an example.
+           What is a homotrimeric collagen?
+             • A collagen molecule made up of one type of alpha chain
+             •  Type II and Type III are examples.
+             Describe the structure of an alpha chain in collagen.
+             •   It is made up of repeating glycine-x-y units
+             •  Typically the x and y are proline and hydroxyproline
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                          5/17
+
+===== PAGE 6 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+         Why is glycine repeated every three monomers in an alpha chain?
+             •   It is the simplest amino acid (H chain as the R group)
+             •  This means it is also the smallest and can pack tightly inwards in the
+                   inside of the triple helix
+             • The collagen needs to be compact so this is a helpful property.
+             Describe the levels of assembly of collagen fibres from smallest level to
+             collagen fibre.
+             •  Three alpha chains (of same or different type, depending on the type
+                  of collagen being made) are assembled together and condensed to
+                form a collagen fibril
+             •  Collagen fibrils are cross-linked to form collagen fibres which add
+                    tensile strength to the structure
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                          6/17
+
+===== PAGE 7 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+           What is a post-transcriptional modification made to collagen fibres that will
+           be secreted by cells?
+             •  N-termini and C-termini (non-collagenous domains/propeptides) are
+               removed
+             •  This is the case for Type I,II and III collagens, those that remain in the
+                    extracellular matrix
+
+             Describe the steps involved in collagen fibre biosynthesis.
+             • The collagen pro-alpha-chain is synthesised within the ribosome
+                   (protein synthesis)
+             • The alpha-chain undergoes hydroxylation of selected proline and
+                  lysine residues
+             • The alpha-chain undergoes glycosylation of selected hydroxylysine
+                 residues
+             • The pro-alpha chain combines together with other pro-alpha-chains
+                  to form a triple helix (procollagen)
+             • The procollagen migrates to the cytoplasm and packaged into a
+                  vesicle
+             • The triple helix (procollagen) is secreted via exocytosis
+             • The procollagen undergoes cleavage of the N and C (termini)
+                propeptides (non-collagenous)
+             • The triple helices condense together to form collagen fibrils
+             • The collagen fibrils combine together to form collagen fibres
+
+
+
+
+
+           What happens to our collagen fibres as we age?
+             • The extent of cross-linking reduces and hence the strength of the
+                 collagen and tissues decreases
+
+           Which molecules are involved in the cross-linking of collagen fibres?
+             •  Proline, hydroxyproline, lysine and hydroxylysine.
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                          7/17
+
+===== PAGE 8 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+           What is the importance of the hydroxylation of proline and lysine in collagen
+            assembly?
+             •  To allow them to form hydrogen bonds with each other in cross-
+                   linking
+
+           What is a hydroxylase?
+             • An enzyme that is used to hydroxylate a molecule
+              Recall the two cofactors required by proline and lysine hydroxylases to
+             hydroxylate proline and lysine residues of procollagen.
+             •  Vitamin C and Fe2+ are both cofactors which are heavily involved in
+                 the action of hydroxylases
+
+           What can a lack of vitamin C hence result in?
+             • A lack of vitamin C will hence lead to a lack of hydroxylation of
+                  proline and lysine which means cross-linking between collagen
+                  fibres cannot occur
+             •  This leads to weakened tissue stability as seen in scurvy
+           What are Ehlers-Danlos syndromes?
+             •  These are a group of syndromes that are caused by mutations which
+                 negatively affect collagen production, structure or processing
+             •   It can lead to symptoms such as stretchy skin and loose joints
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                          8/17
+
+===== PAGE 9 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+              Recall two fibril-associated collagens and what their roles are.
+             • Type IX and Type XII
+             •  Their roles are to regulate the organisation of other collagen fibrils
+                        (i.e Type II)
+             •  They are very flexible
+
+
+
+
+
+           What is special about the assembly of collagen type IV?
+             • The non-collagenous domains (N and C termini) of the propeptides
+                 are not cleaved off and instead are used to strengthen the collagen
+                as they interact and form a network on basement membranes
+
+
+
+
+
+         How do fibrotic diseases arise?
+             •  Excessive production of connective tissue
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                          9/17
+
+===== PAGE 10 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+           What is the basement membrane (basal lamina)?
+             •   It is a specialised layer of extracellular matrix that is found on the
+                 surface of most epithelial layers.
+
+           What is the basal lamina made of?
+             •  Type IV collagen
+             •  Laminin
+             •  Other molecules
+
+
+
+
+
+           What are integrins?
+             •  These are cell surface receptors/proteins used to interact with
+                  extracellular matrix molecules such as fibronectin
+
+         How can the glomerular basement membrane be affected in diabetic
+             nephropathies?
+             •   It plays a key role in the filtration unit of the kidney (the glomerulus is
+                 the filtration unit of the kidney)
+             •  Diabetic nephropathies can arise when this membrane thickens due
+                 to excess ECM deposition (Type IV Collagen) and renal filtration is
+                   restricted.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                       10/17
+
+===== PAGE 11 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+           What happens in Alport syndrome?
+             •  Mutations in collagen IV result in abnormally split glomerular
+              basement membrane and this is is associated with a loss of kidney
+                      filtration function.
+
+
+
+
+
+             Describe the structure of a laminin molecule.
+             • One alpha, one beta and one gamma subunit intertwined to form a
+                   trimeric protein.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                        11/17
+
+===== PAGE 12 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+         How many laminin variants does the human genome code for and why?
+             •  16.
+             •  This is because it codes for 5 alpha, 3 gamma and 3 beta subunits.
+           What is the N-terminus (short end) of laminin used for?
+             •  Self-interaction with other NH2 groups
+             •  Interaction with integrins and nidogens
+             •  This contributes to the strength of the basal lamina
+           What is the C-terminus of laminin used for?
+             •  Interacts with cellular receptors
+             •  Regulates cell adhesion and other key cellular processes
+           What causes muscular dystrophy?
+             •  Laminin-alpha2 deficiency caused by a mutation in the LAMA2 gene
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                       12/17
+
+===== PAGE 13 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+           What does a lack of laminin-alpha2 lead to and why?
+             •  Muscular dystrophy
+             •  Laminin-alpha2 is one of the three units used to form the main
+                 heterotrimer laminin-211
+             •  Laminin-211 usually interacts with integrins and dystroglycans, and
+                muscles connect to laminin, using it as an anchor
+                 ◦  Integrins and dystroglycans are key to skeletal muscle
+                     contraction and development
+             • A failure of laminin-211 (caused by a lack of laminin-alpha2) to
+                  interact with the alpha7beta1 integrin and the alpha-dystroglycan
+              means there is a subsequent lack of interaction between muscle
+                   cells and integrins/dystroglycans
+             •  Overtime this causes progressive muscle weakness and
+                degeneration.
+
+
+
+
+
+           What is the role of elastic fibres?
+             •  To provide elasticity for tissues
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                       13/17
+
+===== PAGE 14 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+             Describe the structure of an elastic fibre.
+             •  Elastin core with microfibrils surrounding
+             • The microfibrils are rich in a protein called fibrillin
+
+
+
+
+
+             Describe the structure of a typical elastin molecule.
+             •   It is usually arranged in a random coil with alternating hydrophobic and
+                   hydrophilic domains.
+             • The coils are cross-linked and can be stretched when needed to,
+               conforming back to their regular shapes when required
+
+
+
+
+
+           What are the hydrophilic domains in elastin rich in?
+             •  Lysine.
+             •  This helps the different regions of elastin to be cross-linked
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                       14/17
+
+===== PAGE 15 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+         How do these regions contribute to the structure of elastin?
+             •  They allow the elastin molecules to be cross-linked with each other
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                       15/17
+
+===== PAGE 16 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+           What is Marfan’s syndrome?
+             •   It is a disorder which involves a mutation in the fibrillin-1 component
+                  of elastin molecules
+                 ◦  Fibrillin is an important component on the microfibrils of elastic
+                         fibres, hence this mutation can drastically reduce the elasticity of
+                   a tissue
+             •  This leads to the formation of diverse manifestations and disarray
+                   within elastic fibres and can lead to increased susceptibility to aortic
+                ruptures
+             •   It affects the cardiovascular, ocular and skeletal systems
+
+
+
+
+
+           What is fibronectin?
+             • A multi-adhesive glycoprotein that interacts with cell surface
+                receptors and other molecules.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                       16/17
+
+===== PAGE 17 =====
+
+18/07/2026, 21:56                                                                  2.9 Extracellular Matrix
+
+
+
+             Describe the structure of a fibronectin molecule.
+             •  Dimeric protein joined using disulphide bonds
+             •  Heparin binding site
+             •  Integrin binding site
+             •  Collagen binding site
+
+
+
+
+
+              Recall three functions of fibronectin.
+             •  Blood clotting
+             •  Regulating cell adhesion and tissue repair
+             •  Linking the extracellular matrix to the actin cytoskeleton
+           What process gives rise to different types of fibronectin?
+             •  Alternative splicing.
+         How does fibronectin link the extracellular matrix to the actin cytoskeleton?
+             • The collagen (ECM) binds onto the fibronectin at the binding site
+             • The integrin also binds onto the fibronectin at the binding site
+             • Th   i  t      i  th   bi d     t  th  d   t       t  i     f th      ti
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-9-Extracellular-Matrix-f8b48fe4044c4ea2b19c79872a2fce37                                                       17/17

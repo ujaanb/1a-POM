@@ -1,0 +1,357 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+    2.8 Cell Replication
+
+             Give a reason why different cells divide at different rates.
+             •  Necessity for renewal (i.e some tissues do not need to be replenished
+                as frequently as others)
+                 ◦  Intestinal epithelial cells ~ 20 hours
+                 ◦  Hepatocytes ~ 1 year
+         Why is it that some cells never divide?
+             • Some cells (i.e neurons and cardiac myocytes) never divide because
+                 they are replenished from the differentiation of progenitor cells and
+                 not from cell division
+
+              Recall the order of the steps in the cell cycle.
+             • G0 (quiescent phase)
+             •  G(ap)1 —> S —> G2 (interphase)
+             •  M(itosis)
+           What happens in the quiescent (G0) phase?
+             • A stage where the cell takes itself out of the cell cycle
+             • The cells are not dormant, but they are performing their functions
+                without replicating
+
+          When does a cell go into the quiescent (G0) phase?
+             •  In the absence of a stimulus, a cell stops dividing and enters the
+                 quiescent (G0) phase
+             •  Cells are not dormant in this phase, but they are simply not dividing
+                        (i.e they continue to perform their functions)
+
+           What is the purpose of the G1 phase in the cell cycle?
+             •   It is where cells get bigger and increase the size of their proteins and
+                 organelles
+
+           What is the purpose of the S phase in the cell cycle?
+             • DNA replication, to prepare it for cell division
+           What is the purpose of the G2 phase in the cell cycle?
+             •  To check the DNA is ready for cell division in mitosis
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                             1/11
+
+===== PAGE 2 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+           What stops a cell from going from the G1 phase to the S phase?
+             •  Lack of nutrients
+             •  Lack of growth factors
+             •  This prevents the cell growing to the required size
+           What stops a cell from going from the G2 phase to the M phase?
+             • DNA damage beyond repair
+             •  Incomplete DNA replication in S phase
+         How does a cell decide to go from the G0 to the G1 phase?
+             • Growth factors stimulate the entry of cells from the G0 to the G1
+               phase
+                 ◦  This is the stimulus required to move a cell out of the G0 phase
+             • The growth factor binds onto the growth factor receptor
+             •  This leads to a cascade of phosphorylation reactions which results in
+                increased protein synthesis or decreased protein degradation
+             • The cell is then ready to make the transition from the G0 to the G1
+                phase.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                             2/11
+
+===== PAGE 3 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+             Describe how growth factors interact with transcription factors.
+             • Growth factors bind onto the respective growth factor receptor on
+                 the cell surface
+             •  This leads to a cascade of phosphorylation reactions which
+                   ultimately can lead to the increase of certain transcription factors
+               and hence altered gene expression
+                 ◦  This is because transcription factors change the rate of
+                      transcription by controlling which genes are expressed and
+                  which are not expressed
+                 ◦  i.e transcription factors can turn on genes for DNA polymerase,
+                     thymidine kinase, cyclins etc.
+             •  This can cause increased growth in the cell
+           What is c-Myc?
+             •   It is a transcription factor that promotes the transition of a cell from
+                 the G0 to the G1 phase of the cell cycle
+                 ◦   It does this by increasing the expression of genes that promote
+                    progression of the cell cycle
+             •   It is used to produce cyclins
+          When is c-Myc typically expressed?
+             • When the growth factors bind onto the growth factor receptors on
+                     cell surfaces, and the signalling cascade of reactions begin to
+                  eventually express c-Myc.
+
+            Diagram showing role of c-Myc in the cell cycle.
+
+
+
+
+
+           What do the amino acids serine, threonine and tyrosine have in common?
+             •  They are all amino acids with -OH groups, making them susceptible
+                 to phosphorylation
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                             3/11
+
+===== PAGE 4 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+           What are cyclin-dependent kinases (CDKs)?
+             •  They are enzymes that control the progression of the cell cycle into
+                 relevant phases
+             •  Different CDKs are used to progress to different stages of the cell
+                 cycle
+                 ◦  i.e S-CDK is used to move from G1 to S phase | M-CDK is used to
+                 move from G2 to M phase
+             •  They are only active when bound to cyclin, and different cyclins are
+               produced at different stages of the cell cycle, when needed (see below)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                             4/11
+
+===== PAGE 5 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+         Why are cyclins given their name?
+             •  Their concentrations fluctuate at different levels throughout the cell
+                  cycle via production and degradation of the protein
+             •  This important in controlling the different stages within the cell cycle.
+             •  For example, M-cyclin is produced in build-up to mitosis, and S-cyclin
+                      is produced in the build-up to the S phase.
+             •  Different cyclins can also induce the production of the next cyclin
+                  required in the cell cycle (see below)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                             5/11
+
+===== PAGE 6 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+           What is cyclin D?
+             •  Cyclin D is a cyclin produced after expression of the c-Myc
+                  transcription factor caused by growth factors and their resulting
+                  signalling cascades
+                 ◦ C-Myc turns on expression of genes that induce progression of
+                     the cell cycle, and Cyclin D is produced by expression of these
+                   genes in the G1/S phase transition
+
+
+
+
+
+           What is the role of cyclin D?
+             •  Cyclin D enables the progression of the cell cycle from the G1 phase
+                 to the S phase by binding onto its cyclin dependent kinase and
+                forming the Cyclin D: Cdk 4/6 complex
+
+           What stops a cell progressing past the M phase of the cell cycle?
+             • Chromosomes being improperly attached to the mitotic spindle
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                             6/11
+
+===== PAGE 7 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+           What is the protein kinase cascade?
+             •   It describes how the activation of a kinase can lead to further
+                   activation of other kinases because the former kinase can
+                 phosphorylate the latter kinase
+             •  This works because kinases are often involved in the regulation of
+                other kinases
+
+
+
+
+
+           What two processes does a cyclin-dependent kinase need to function?
+             •  Binding (interaction) with a cyclin
+             •  Activation (which occurs via phosphorylation)
+           What is the name of the group of enzymes involved in dephosphorylation of
+             substrates?
+             •  Phosphatases
+                 ◦  i.e glucose-6-phosphatase found in the liver to reverse action of
+                    Hexokinase IV
+
+             Describe the difference between the expression of cyclins and cyclin-
+            dependent kinases during the cell cycle.
+             •  Cyclin-dependent kinases (CDKs) are expressed constantly
+                throughout the cell cycle
+                 ◦  However, they are not activated until cyclins bind to them and
+                     they are phosphorylated
+             •  Cyclins are expressed transiently at different levels throughout the
+                     cell cycle
+                 ◦  They are constantly synthesised and degraded
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                             7/11
+
+===== PAGE 8 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+             Describe the process through which CDKs are activated.
+             • CDK is bound to a cyclin which is produced via transcription factor
+                which is expressed via a growth factor which has bound onto the
+               growth factor receptor on the cell surface.
+             • The CDK is now phosphorylated at both the inhibitory and activatory
+                  sites by protein kinases
+             • The CDK is then dephosphorylated at the inhibitory site by
+                  activating phosphatases in order to become activated.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                             8/11
+
+===== PAGE 9 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+             Describe how positive feedback within the CDK mechanism drives the cell
+             cycle forward.
+             • As CDKs are activated, positive feedback leads to the phosphorylation
+                (and hence activation) of inactive phosphatases and likewise
+                  activation of inhibitory kinases
+             •  This means the CDK is continually phosphorylated and
+                dephosphorylated and it remains active, allowing the CDK itself to
+                 phosphorylate other molecules (perform its role)
+             • The cell cycle hence is driven forward.
+
+
+
+
+
+            Diagram showing how induction and degradation of different cyclins at
+              various times drives the cell cycle forward.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                             9/11
+
+===== PAGE 10 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+         How are cyclins degraded?
+             •  Ubiquitination
+             • A molecule called a ubiquitin is added to a residue on the cyclin,
+                  allowing the proteasome to degrade the cyclin
+             •  This causes the cyclin to break down and in turn, deactivate the CDK,
+                     in a process called proteasomal degradation
+
+
+
+
+
+           What is the function of thymidine kinase?
+             •  Thymidine kinases have a key function in the synthesis of DNA and
+                 therefore in cell division
+             •  They work alongside DNA polymerases
+             •  Specifically, thymidine kinase is an enzyme that creates a nucleotide
+              by phosphorylating nucleoside.
+
+           What is a retinoblastoma and where is it found?
+             •   It is a protein that is involved in the regulation of the progression of
+                 the cell cycle
+             •   It is found in all nucleated cells and it acts as a tumour suppressor
+         How do retinoblastomas work?
+             •  They work by binding onto transcription factors and acting as a
+                 “brake” in the cell cycle.
+             •  This is because the transcription factors cannot turn on the genes
+                 required for cell cycle progression
+                 ◦  For example, DNA polymerase and thymidine kinase.
+             •  This is required when the cell is “resting” and doesn’t need to
+                    proliferate
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                          10/11
+
+===== PAGE 11 =====
+
+18/07/2026, 21:56                                                                    2.8 Cell Replication
+
+
+
+         How can the “brake” caused by retinoblastomas be released?
+             •  Activated (G1/S) CDKs can phosphorylate retinoblastomas which
+                causes them to change in shape, and release the bound E2F
+                  transcription factors
+                 ◦  This means target genes such as thymidine kinase and DNA
+                    polymerase are produced by transcription factor activation.
+
+
+
+
+
+           What is the E2F family?
+             •   It describes the family of transcription factors which are involved in
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-8-Cell-Replication-727ddd70fe594a2d986b60994f334670                                                            11/11

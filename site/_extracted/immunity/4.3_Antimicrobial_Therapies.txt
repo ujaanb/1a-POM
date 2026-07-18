@@ -1,0 +1,375 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:22                                                                4.3 Antimicrobial Therapies
+
+    4.3 Antimicrobial Therapies
+
+           What is prontosil?
+             •   It the first example of a sulphonamide antibiotic
+              Recall two other properties of prontosil.
+             •  Bacteriostatic
+             •  Synthetic
+           What is prontosil used for?
+             •  Urinary Tract Infections (UTIs)
+             •  Respiratory Tract Infections (RTIs)
+             •  Bacteraemia (bacteria in the blood)
+           What are sulphonamide antibiotics?
+             • A class of broad-spectrum antibiotics used to treat various types of
+                   bacterial infections.
+
+           What is a drawback of prontosil?
+             •   It is only effective against gram-positive bacteria.
+           What property of gram-negative bacteria makes them more difficult to treat
+             with antibiotics?
+             • The presence of an outer and inner membrane in gram-negative
+                  bacteria makes things difficult
+             •  This is because the outer membrane has different properties to the
+                  inner membrane so requires different treatment to break down.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-3-Antimicrobial-Therapies-3242f461c32040d882ecd77d41c510a7                                                        1/9
+
+===== PAGE 2 =====
+
+18/07/2026, 22:22                                                                4.3 Antimicrobial Therapies
+
+
+
+           What is a beta-lactam?
+             • The most commonly prescribed antibiotic
+             Describe the mechanism through which beta-lactams function.
+             •  They bind to structures on the bacterial cell wall called penicillin
+                binding proteins
+             •  This interferes with the synthesis of the peptidoglycan component of
+               a bacterial cell wall
+
+             Give two examples of beta-lactams.
+             •  Penicillin
+             •  Methicillin
+           What are penicillin-binding proteins?
+             •  These are proteins involved in the synthesis of peptidoglycan (an
+                 important component of bacterial cell walls)
+             •  Beta-lactams bind to these, to inhibit peptidoglycan synthesis and
+               hence weaken bacterial cell walls
+
+           What is an antibiotic?
+             • An antimicrobial agent produced by a microorganism that kills or
+                   inhibits other microorganisms
+             •  Most antibiotics used today are produced by fungi or bacteria.
+             Describe the difference between bactericidal and bacteriostatic antibiotics.
+             •  Bactericidal antibiotics kill bacteria
+             •  Bacteriostatic antibiotics inhibit bacterial growth
+           What is an antiseptic?
+             • An antimicrobial substance used to prevent the growth of microbial
+                agents.
+
+           What is a patient-induced cause of antibiotic resistance?
+             •  Underdosing
+             •  Using an inadequate quantity of antibiotic which results in the
+                  survival of bacteria.
+
+           What is the minimal inhibitory concentration (MIC)?
+             • The lowest concentration of an antibiotic that is required to inhibit
+                  bacterial growth.
+             •  You can look at it as the maximum concentration of antibiotic that a
+                bacterium can grow in
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-3-Antimicrobial-Therapies-3242f461c32040d882ecd77d41c510a7                                                        2/9
+
+===== PAGE 3 =====
+
+18/07/2026, 22:22                                                                4.3 Antimicrobial Therapies
+
+
+
+             Describe the mechanism through which antibiotic resistance occurs.
+
+
+
+
+
+         Why is antibiotic resistance more prevalent in hospitals than in the
+           community?
+             •  Antibiotics are used much more frequently in hospitals, and so the
+                 bacteria is subject to a much heavier selection pressure in this
+                environment
+             •  This means it is much more likely for the prevalence of an
+               advantageous mutation to increase in popularity in hospitals, than in
+                 the community as they are being selected for.
+
+           What is meant by horizontal gene transfer in bacteria?
+             • The exchange of DNA between bacteria in the same generation.
+             •   It is a mechanism through which bacteria can resist antibiotics.
+           What can antibiotic resistance lead to from a clinical point of view?
+             •  Increased mortality (death)
+             •  Increased morbidity (illness)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-3-Antimicrobial-Therapies-3242f461c32040d882ecd77d41c510a7                                                        3/9
+
+===== PAGE 4 =====
+
+18/07/2026, 22:22                                                                4.3 Antimicrobial Therapies
+
+
+
+           What can antibiotic resistance lead to from a financial point of view?
+             •  Increased cost
+                 ◦ Newer drugs, more drugs may have to be used which incurs a
+                      higher financial cost.
+
+           What is peptidoglycan made of?
+             •  Simple sugars and amino acids.
+                 ◦ PEPTIDO - GLYCAN
+           What is a bacterial cell membrane made of?
+             •  Protein and phospholipid.
+              Recall four gram-positive bacteria and what they cause.
+             •  Staphylococcus aureus - wound/skin infections, pneumonia,
+                 septicaemia, infective endocarditis
+             •  Streptococcus pneumoniae - Pneumonia, septicaemia
+             •  Clostridium difficile - Pseudomembranus colidis, antibiotic-
+                 associated diarrhoea
+             •  Enterococcus spp - Urinary Tract Infections (UTI), gut commensal
+             •  Mycobacterium tuberculosis - Tuberculosis
+              Recall four gram-negative bacteria and what they cause.
+             • E Coli - GI infections, neonatal meningitis, urinary tract infections (UTI)
+             •  Salmonella - GI infections, typhoid fever
+             •  Neisseria gonorrhoeae - gonorrhoea
+             •  Acinetobacter baumannii (MDRAB) - Opportunistic infections,
+               wounds, UTI, pneumonia (VAP).
+             • Pseudomonas aeruginosa - Cystic fibrosis, burn wound infections.
+                 Survives on abiotic surfaces.
+
+           What are aminoglycosides?
+             •  They are bactericidal antibiotics
+             Describe the mechanism through which aminoglycosides function.
+             •  They target protein synthesis by causing the wrong amino acids and
+               hence the wrong membrane proteins to be produced
+             •  This leads to the death of bacterial cells as damage has been done to
+                 the cell membrane
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-3-Antimicrobial-Therapies-3242f461c32040d882ecd77d41c510a7                                                        4/9
+
+===== PAGE 5 =====
+
+18/07/2026, 22:22                                                                4.3 Antimicrobial Therapies
+
+
+
+           What is rifampmicin?
+             •  They are bactericidal antibiotics
+             Describe the mechanism through which rifampmicin functions.
+             •   It targets the RpoB subunit of RNA polymerase
+             •  This leads to protein synthesis not proceeding smoothly and hence
+                 the death of the cell
+
+              Recall a side effect of rifampmicin.
+             •   It makes secretions go red/orange
+             •  This leads to problems encouraging patients to comply with the full
+                course
+
+           What is vancomycin?
+             •   It is a bactericidal antibiotic
+             Describe the mechanism through which vancomycin functions.
+             •  Targets cell wall biosynthesis
+           What is linezolid?
+             •   It is a bacteriostatic antibiotic that works against gram-positive
+                   bacteria.
+
+             Describe the mechanism through which linezolid functions.
+             •   It inhibits the initiation of protein synthesis by binding to the 50S
+                   (smaller) ribosomal subunit
+
+           What is daptomycin?
+             •   It is a bacteriostatic antibiotic that works against gram-positive
+                  bacteria
+
+             Describe the mechanism through which daptomycin functions.
+             •  Targets bacterial cell membranes
+           What is an important consideration to make when prescribing linezolid and
+            daptomycin?
+             •  They only work on gram-positive bacteria.
+           What is meant when antibiotics are described as selectively toxic?
+             •   It means that they are selectively more toxic (~ 100 times more) to
+                   bacterial cells than to human cells
+             •  This is because bacterial cells are significantly distinct to human
+                   cells
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-3-Antimicrobial-Therapies-3242f461c32040d882ecd77d41c510a7                                                        5/9
+
+===== PAGE 6 =====
+
+18/07/2026, 22:22                                                                4.3 Antimicrobial Therapies
+
+
+
+           What are the four mechanisms through which antibiotic resistance can
+            occur?
+             •  Altered target site (antibiotic can no longer engage its target)
+             •  Inactivation of antibiotic
+             •  Altered metabolism
+             •  Decreased drug accumulation
+           What are the two ways bacteria can obtain altered target sites?
+             •  Acquisition of a gene that encodes for a different target
+             •  Acquisition of a gene that encodes for a target-modifying enzyme
+                which makes antibiotic ineffective against target
+
+         How does an altered target site lead to antibiotic resistance?
+             •   It can lead to antibiotics not being able to bind onto the relevant
+                 target sites anymore as their structures have changed or the target
+                   site has been relocated
+
+             Describe how an altered target site in MRSA leads to antibiotic resistance.
+             •  i.e MRSA can encode for an alternative penicillin-binding protein
+                (PBP2a).
+             •  Beta-lactams can still bind onto the original PBP, but it has no effect
+                as the PBP2a can still help the MRSA carry out protein synthesis.
+             • The PBP2a also has a low affinity for beta-lactams.
+         How does inactivation of an antibiotic lead to antibiotic resistance?
+             • The bacteria produces an enzyme which leads to the degradation or
+                  alteration of the antibiotic
+             •  This renders it ineffective
+             • An example of this is beta-lactamase
+         How does altered metabolism lead to antibiotic resistance?
+             •  Because antibiotics target central metabolic processes in bacteria (i.e
+                  protein synthesis), a method of bacterial evasion is to find other ways
+                  of obtaining energy/materials from the environment
+             •  Bacteria can also reduce reliance on substances produced from the
+                 targeted pathways, so that any effect that antibiotics have are
+                rendered null.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-3-Antimicrobial-Therapies-3242f461c32040d882ecd77d41c510a7                                                        6/9
+
+===== PAGE 7 =====
+
+18/07/2026, 22:22                                                                4.3 Antimicrobial Therapies
+
+
+
+         How does decreased drug accumulation lead to antibiotic resistance?
+             •  This works by pumps on the surfaces of bacterial cell membranes
+                reducing the intake of antibiotic from the environment, and
+                 increasing the efflux of antibiotic to the environment
+             •  This means the drug does not reach the required concentration to be
+                   effective against the bacterial cell.
+
+           What is a macrolide and how does it work?
+             •   It is an antibiotic used to stop polypeptide chain formation by
+                binding to the 50S ribosomal subunit
+
+           What is a quinolone and how does it work?
+             • An entirely synthetic bactericidal antibiotic which inhibits DNA
+                   replication.
+
+          Name the three sources of antibiotic resistance genes.
+             •  Plasmids - these can code for multiple resistance genes
+             •  Transposons - Integrate DNA from chromosomes to plasmid and vice-
+                 versa
+             • Naked DNA - DNA released by other bacteria is taken up from the
+                environment
+
+             Describe three mechanisms of antibiotic resistance gene uptake.
+             •  Transformation (uptake of extracellular DNA)
+             •  Transduction (phage-mediated DNA transfer)
+             •  Conjugation (pilus-mediated DNA transfer)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-3-Antimicrobial-Therapies-3242f461c32040d882ecd77d41c510a7                                                        7/9
+
+===== PAGE 8 =====
+
+18/07/2026, 22:22                                                                4.3 Antimicrobial Therapies
+
+
+
+           What is a bacteriophage?
+             • A virus that affects bacteria
+             •   It is involved in the horizontal spread of DNA throughout a bacterial
+                  population.
+
+              Recall three ways that antibiotic treatment may fail.
+             •  Biofilm
+             •  Intracellular location
+             •  Slow growth
+             •  Spores
+             •  Persisters
+          Name three ways that non-genetic antibiotic resistance can arise within a
+              population.
+             •  Inappropriate drug choice for bacteria
+             •  Poor penetration of antibiotic into target site
+             •  Inappropriate dosage
+             •  Inappropriate administration (i.e oral or intravenous)
+             •  Presence of other bacteria which are able to kill/break down antibiotic -
+                   collateral resistance
+
+          Name three risk factors for hospital-acquired infections.
+             •  Large number of ill people
+             • Crowded wards
+             •  Broken skin - easy entry
+             •  Transmission by staff - poor hygiene
+         How can we address antibiotic resistance to prevent it arising?
+             •  Removal of selection pressures which are easy to evade (i.e broad
+               spectrum antibiotics)
+
+         How can we react to antibiotic resistance in humans?
+             •  Modifying antibiotics to make them more effective
+             •  Combinations of an antibiotic and inhibitor of bacterial mechanism
+                        (i.e PBPA2)
+             • The problem is, that these are responses to resistance after it has
+                 occurred.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-3-Antimicrobial-Therapies-3242f461c32040d882ecd77d41c510a7                                                        8/9
+
+===== PAGE 9 =====
+
+18/07/2026, 22:22                                                                4.3 Antimicrobial Therapies
+
+
+
+           What are the three broad classes of condition that fungi cause in humans?
+             •  Allergy - allergic reactions to fungal products
+             •  Mycotoxicoses - ingestion of fungi and their toxic products
+             • Mycoses - superficial, subcutaneous or systemic colonisation,
+                 invasion and destruction of human tissue.
+
+           What are three targets for antifungal agents?
+             •  Cell membrane - particularly ergosterol
+             • DNA synthesis - arrested by agents
+             •  Cell wall
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-3-Antimicrobial-Therapies-3242f461c32040d882ecd77d41c510a7                                                        9/9

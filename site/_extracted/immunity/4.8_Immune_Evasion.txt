@@ -1,0 +1,321 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+   4.8 Immune Evasion
+
+           What is the complement system?
+             • A group of about 20 plasma proteins crucial to the innate immune
+                response used to opsonise or lyse bacteria.
+             •  Their goal is always to either opsonise bacteria via C3b or to use
+             membrane attack complexes to kill the bacteria.
+
+           What are the three pathways involved in the complement system?
+             •  Classical pathway
+             •  Alternative pathway
+             •  Lectin pathway
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                            1/10
+
+===== PAGE 2 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+
+
+             Describe the events that occur in the classical pathway.
+             •  Antigen reacts with antibody which activates the C1 component
+             • C1 breaks down C4 into C4a and C4b
+                 ◦ C1 combines with C4b to form C14b
+             • C14b breaks down C2 into C2a and C2b
+                 ◦ C14b combines with C2a to form C3 convertase (C14b2a)
+             • C3 convertase converts C3 into C3a and C3b
+                 ◦ C3 convertase combines with C3b to form C5 convertase
+                  (C14b2a3b)
+             • C5 convertase converts C5 into C5a and C5b
+             • C5b is used to combine with C6,C7,C8 and C9 to form the Membrane
+                Attack Complex (MAC or C5b6789)
+
+
+
+
+
+           Which two antibodies can initiate the classical pathway?
+             •  IgM and IgG
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                            2/10
+
+===== PAGE 3 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+
+
+             Describe the events that occur in the lectin pathway.
+             •  Chemicals called lectins detect glycans on the surfaces of microbes
+             •  This leads to the same cascade (C3 and C5 convertase formation)
+                which ends up in the same response.
+
+           What is the main difference between the classical and lectin pathways?
+             •  Lectin pathway involves the activation of C4b and C2a via binding of
+                  lectins to sugars
+             •  Classical pathway involves the activation of C4b and C2a via binding
+                 of antibodies to antigens
+
+           What is a bacterial endotoxin?
+             • A lipopolysaccharide found in the outer membrane of gram-negative
+                 bacteria, used to trigger the alternative pathway of the complement
+                 system.
+
+             Describe the events that occur in the alternative pathway.
+             • C3 is spontaneously hydrolysed to C3b
+                 ◦  This occurs continuously, leading to regeneration of C3b.
+             •  Factor Bb binds to Factor C3b and this forms a C3 convertase
+              (C3bBb)
+             • The C5 convertase is then generated which allows the MAC to be
+                 generated.
+
+           What role does C3b play in the immune response?
+             •   It activates neutrophils and macrophages which allow them to
+               phagocytose easier
+             •  This is opsonisation so C3b can be referred to as an opsonin
+             Describe the role of the Membrane Attack Complex (MAC) in the
+           complement system.
+             •  This ruptures the bacterial cell wall which causes fluid influx into the
+                   bacterial cell and eventual lysis.
+
+             Describe how the MAC is formed from a C5b molecule.
+             • C5 convertase binds to the bacterial cell wall
+             • C5 convertase produces C5b which also binds to the bacterial cell wall
+             •  This recruits C6, C7, C8 and C9 to make the MAC
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                            3/10
+
+===== PAGE 4 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+
+
+           Image showing the key steps of the complement cascade.
+
+
+
+
+
+             •  Step 2 represents the action of C3b which causes opsonisation of
+               macrophages and neutrophils, leading to phagocytosis
+
+           What role does C5a play in wider immunity?
+             •   It conducts chemotaxis of neutrophils and macrophages to the site
+                  of infection.
+
+           What role do factors C3a, C4a and C5a all play in immunity?
+             •  They are involved in the activation of mast cells and basophils which
+                 leads to the release of inflammatory mediators such as histamine
+              and serotonin.
+
+           What is a pyogenic disease?
+             • A “pus-producing” disease that is characterised by tissue destruction
+                mediated by cytotoxins and hydrolytic enzymes.
+
+              Recall the four types of phagocytic cell.
+             •  Neutrophils
+             •  Monocytes
+             •  Macrophages
+             •  Dendritic cells
+           Which two types of molecules can act as opsonins in the immune response?
+             • C3b
+             •  Antibodies
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                            4/10
+
+===== PAGE 5 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+
+
+         How does C3b interact with phagocytic cells to allow opsonisation of
+            pathogens?
+             • C3b binds onto pathogenic surfaces (antigens)
+             • The phagocytic cells can recognise the C3b using its complement
+                receptor and this sends a signal to begin phagocytosis
+
+         How do antibodies interact with phagocytic cells to allow opsonisation of
+            pathogens?
+             •  Antibodies (IgG/IgM) bind onto the antigen
+             • The phagocytic cell uses its Fc receptor to recognise the antibody and
+                     initiate a phagocytic response.
+
+            Diagram showing the six immune evasion strategies commonly used by
+            pathogens.
+
+
+
+
+
+           What type of bacterium is staphylococcus aureus?
+             •  Gram-positive.
+           What type of infections does staphylococcus aureus cause?
+             •  Skin and soft tissue infections (i.e bacteraemia and sepsis,
+                  endocarditis, osteomyelitis)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                            5/10
+
+===== PAGE 6 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+
+
+           What is MRSA?
+             •  Methicillin-resistant staphylococcus aureus.
+           What are the four methods used by bacteria to evade the immune system?
+             •  Degrade C3
+             •  Inhibit C1 binding
+             •  Inhibit C3 and C5 convertases
+             •  Inhibit C5
+         How does S. aureus act directly on complement factor C3?
+             •   It releases proteases (Aur) that degrade C3 which prevents C3a and
+             C3b formation
+             • C3b is an important opsonin so the effects of this evasion are
+                 increased risk of infection.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                            6/10
+
+===== PAGE 7 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+
+
+         How does S. aureus prevent the formation of C3 convertase?
+             •  Sbi proteins are released by bacteria which bind to antibodies
+             •  This means that C1 cannot recognise the bacteria and so there is no
+                opsonisation
+             • C1 not binding to the bacteria means there is a lack of C4 and C2
+                 conversion which is required to form C3 convertase (C4b2a)
+
+
+
+
+
+         How does S. aureus inhibit C3 and C5 convertases?
+             •   It produces SCIN which binds to C3bBb (alternative pathway form of
+             C3 convertase)
+             •  This reduces its enzymatic capacity meaning C3 is not converted
+                which also prevents formation of C5 convertase.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                            7/10
+
+===== PAGE 8 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+
+
+         How does S. aureus inhibit C5?
+             •   It releases SSL7 which binds to C5 and prevent it from converting
+            C5a→C5b and producing the MAC.
+
+
+
+
+
+         How does the capsule polysaccharide work in bacterial immune evasion?
+             • The thick layer (capsule) forms around the bacteria
+             •  This prevents the antigens from being recognised by the antibodies as
+                 they are hidden
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                            8/10
+
+===== PAGE 9 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+
+
+         How do bacteria interact with Fc regions in immune evasion?
+             • The bacteria can produce proteins (Protein A) which bind onto the
+               Fc region of the antibodies that bind to their antigens
+                 ◦  Normally, antibodies would use their Fab regions to bind
+                    pathogens, and Fc receptors in opsonisation to phagocytic cells
+             •  There is obviously less opsonisation as a result of this
+             • NOTE: Antibody-mediated opsonization: In this process, Fab (fragment
+                 antigen binding) region of the antibody binds to the antigen, and the
+               Fc region of the antibody binds to the Fc receptor on the phagocytic
+                   cells and helps phagocytic cells, which include neutrophils,
+                   eosinophils, macrophages, and natural killer cells
+
+
+
+
+
+         How does staph. aureus cleave antibodies?
+             •   It breaks down plasminogen into plasmin which can be used to digest
+                 antibodies
+             • Some bacteria directly release the proteases which digest antibodies.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                            9/10
+
+===== PAGE 10 =====
+
+18/07/2026, 22:23                                                                    4.8 Immune Evasion
+
+
+
+         How does staph. aureus interact with Fc receptors on phagocytes?
+             •   It can release molecules such as FLIPr that bind onto the Fc receptor
+               and prevent the opsonisation of bacteria.
+
+
+
+
+
+            Diagram summarising how staphylococcus aureus can evade the immune
+             response.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-8-Immune-Evasion-c158def26e47410db9889d0ece9eb3ba                                                         10/10

@@ -1,0 +1,814 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+    3.8 Haemostasis
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                               1/23
+
+===== PAGE 2 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+        Primary Haemostasis
+
+              What is haemostasis?
+                 •  Haemostasis is the “halting/inactivation of blood” following
+                   trauma to blood vessels
+
+                  Recall two reasons why haemostasis is important.
+                 •  To prevent blood loss from normal blood vessels
+                 •  To prevent blood leaking from injured blood vessels
+            How is equilibrium an important aspect of haemostasis?
+                 •  There needs to be a balance between coagulation
+                       factors/platelets and fibrinolytic factors/anticoagulant proteins
+                 •  This is because they both need to be in the right abundance to
+                     prevent blood flow in the area of injury, but to allow blood flow in
+                     other areas of the body.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                               2/23
+
+===== PAGE 3 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+                  Recall three benefits of equilibrium in haemostasis.
+                 •  To allow the stimulation of blood clotting processes following
+                         injury (coagulation - coagulation factors, platelets)
+                 •  To limit the response to injury to a single area in the body
+                           (thrombosis - platelets)
+                 •  To start the process that leads to the breakdown of the clot that is
+                   formed during healing (fibrinolysis - fibrinolytic factors)
+
+
+
+
+
+                 Describe the vague process that occurs in a blood vessel in response
+                  to endothelial cell injury.
+                 •  Vasoconstriction occurs
+                 •  Unstable platelet plug forms in blood vessel to prevent blood loss
+                 •  Stabilisation of the plug with fibrin occurs - coagulation
+                 •  Dissolution of blood clot occurs alongside vessel repair in
+                        fibrolysis
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                               3/23
+
+===== PAGE 4 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+               Diagram showing the haemostatic response to blood vessel injury.
+
+
+
+
+
+              What is primary haemostasis?
+                 •  This is the process through which platelets aggregate together
+                      at the site of injury
+                     ◦  “Unstable platelet plug”
+
+
+
+
+
+              What is secondary haemostasis?
+                 •  This is when stabilisation of the plug with fibrin occurs -
+                COAGULATION
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                               4/23
+
+===== PAGE 5 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+            How are platelets derived from haematopoietic stem cells (HSCs)?
+                 • HSC —> Myeloid progenitor —> Megakaryocyte —>
+                  Thrombocyte (platelet)
+
+                Are platelets nucleated?
+                 •  No.
+             Do platelets have granules?
+                 •  Yes
+              What is the circulation lifespan of a platelet?
+                 •  Around 10 days.
+              What component of platelets allows them to bind to collagen in blood
+                 vessels and where is it located?
+                 •  Glycoproteins
+                 •  They are located in the plasma membrane
+              What are the two types of platelet glycoproteins used to bind collagen?
+                 •  Glp1a - alpha
+                 •  Glp1b - beta
+            How does the action of these two glycoproteins differ?
+                 •  Glp1a allows the platelet to bind directly to collagen
+                 •  Glp1b requires the use of a von Willebrand factor to bind to
+                      collagen
+
+
+
+
+
+              Where is von-Willebrand factor found?
+                 •   It is found in endothelial cells
+                 •  Hence, when there is damage to the endothelial layer, von-
+                    Willebrand factor uncoils and allows binding of the GlpIb
+                     receptor to it
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                               5/23
+
+===== PAGE 6 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+            How does the binding of platelets to collagen encourage platelet-
+                    platelet interaction?
+                 •   It allows the platelet to conform to a more rounded shape
+                 •  This allows it to interact with other platelets better.
+              What does the adhesion of platelets to collagen lead to?
+                 •  Activation of platelets which results from the release of their
+                    storage granule content.
+
+
+
+
+
+              What are the two types of granule released by platelets after adhesion?
+                 •  Alpha granules
+                 • Dense granules
+                 •  There are important molecules stored within the granules of these
+                        platelets
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                               6/23
+
+===== PAGE 7 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+              What is the open canalicular system?
+                 •  This is the system used by platelets to release the contents of
+                    the granules they need to release after adhesion
+                     ◦ The platelet membrane is invaginated to form this system
+
+
+
+
+
+                  Recall the most important dense granule that is released by platelets
+                   following adhesion to collagen.
+                 • ADP
+               Which other molecule is produced following platelet adhesion to the
+                  endothelial membrane?
+                 •  Prostaglandins - specifically thromboxane A2
+            How is thromboxane A2 produced?
+                 •   It is produced by platelets using arachidonic acid
+                     ◦  Arachidonic acid is a component of cell membranes
+              What effect do these molecules have on platelets?
+                 •  They have positive feedback effects which allows them to
+                     increase platelet recruitment, aggregation and activation
+                 •  This forms the platelet plug
+            How do ADP and thromboxane have this effect?
+                 • ADP binds to the p2y12 receptor
+                 • Thromboxane A2 binds to the thromboxane A2 receptor
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                               7/23
+
+===== PAGE 8 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+              What occurs as a result of this platelet activation by ADP and
+               thromboxane A2?
+                 •  Platelet activation leads to a change in the conformation of the
+                         GlpIIb/IIIa (2b/3a) receptor on platelets
+                     ◦  This process is known as “inside out” or “flip-flopping”
+              What does the GlpIIb/IIIa receptor do?
+                 • The GlpIIb/IIIa receptor provides binding sites for fibrinogen
+            How does fibrinogen then act to progress primary haemostasis?
+                 •   It binds to the GlpIIb/IIIb receptor and this leads to “outside-in”
+                       signalling which allows platelets to link together and form the
+                       platelet plug
+
+              What is another role of thromboxane A2, other than activating
+                   platelets?
+                 •   It acts as a vasoconstrictor, and this promotes the formation of
+                       platelets in the initial response to blood vessel injury.
+
+              What is prostacyclin?
+                 •   It is a prostaglandin that is used as a vasodilator in response to
+                     the dissolution of blood clots, inhibiting platelet aggregation
+                     ◦  PGI2 is used in endothelial cells
+            How is prostacyclin produced?
+                 • By endothelial cells from arachidonic acid
+                 •  This makes sense as endothelial cells will be present when the
+                    blood vessel isn’t damaged and conditions need to return back to
+                     normal.
+
+              What is the difference between a prostacyclin and a prostaglandin?
+                 • A prostacyclin is a type of prostaglandin that has vasodilatory
+                      effects
+                     ◦  i.e thromboxane A2 is also a type of prostaglandin, but this
+                       has vasoconstrictory effects
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                               8/23
+
+===== PAGE 9 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+                  Recall the two steps involved in thromboxane A2 synthesis from
+                arachadonic acid.
+                 •  Arachadonic acid → Cyclic endoperoxides
+                     ◦  Catalysed by cyclo-oxygenase
+                 •  Cyclic endoperoxides → Thromboxane A2
+                     ◦  Catalysed by thromboxane synthetase
+
+
+
+
+
+                  Recall the two steps involved in prostacyclin synthesis from
+                arachadonic acid.
+                 •  Arachadonic acid → Cyclic endoperoxides
+                     ◦  Catalysed by cyclo-oxygenase
+                 •  Cyclic endoperoxides → Prostacyclin
+                     ◦  Catalysed by prostacyclin synthetase
+
+
+
+
+
+              What are aspirin and clopidogrel?
+                 •  They are anti-platelet drugs that are used to reduce the risk of
+                    heart attack and strokes for those with cardiovascular disease.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                               9/23
+
+===== PAGE 10 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+            How does aspirin work?
+                 •   It irreversibly blocks the action of Cyclo-Oxygenase (COx)
+                   which is a vital component in the production of thromboxane A2
+                 •  This means that thromoboxane A2 cannot bind to the
+                  thromboxane A2 receptor and cannot activate platelets as it
+                     normally does, reducing the formation of blood clots.
+
+            Why does aspirin not inhibit the action of prostacyclin, since it also
+               needs COx for its synthesis?
+                 •  Endothelial cells are able to produce COx on their own (due to
+                 them having nuclei), meaning that they are not as affected by
+                     the action of aspirin
+                 •  Overall there is hence a net decrease in platelet aggregation
+                 and the formation of blood clots.
+
+            How does clopidogrel work?
+                 •   It works by preventing ADP from binding to its p2y12 receptor
+                 •  Similarly, this prevents the activation of platelets and the
+                       positive feedback loop is not achieved to recruit more and more
+                       platelets to the site of vessel damage
+
+               Diagram showing the contrasting effects thromboxane A2 and
+                  prostacyclin have in haemostasis.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            10/23
+
+===== PAGE 11 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+              What is another function of von Willebrand factor?
+                 •  To carry Factor VIII (Eight)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                             11/23
+
+===== PAGE 12 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+        Coagulation
+
+              What happens in coagulation?
+                 •  Thrombin is generated, and this converts fibrinogen to fibrin,
+                  used to stabilise the platelet plug.
+
+
+
+
+
+            Why is coagulation required?
+                 •  Coagulation is required to stabilise the platelet plug in larger
+                   blood vessels
+                 •  In smaller vessels, the unstable platelet plug is sufficient, but
+                     not in larger ones.
+
+              What are clotting factors?
+                 •  Clotting/coagulation factors are proteins in the blood that help
+                  form blood clots to stop bleeding when there is injury to blood
+                     vessels
+
+              What are the three sites where clotting factors are produced?
+                 •  Liver
+                 •  Endothelial cells - von Willebrand factor.
+                 •  Megakaryocytes (platelet progenitors)
+              Where are most clotting factors made?
+                 •  Liver
+              Where is von Willebrand factor made?
+                 •  Endothelial cells and megakaryocytes
+              What is Factor II?
+                 •  Prothrombin.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            12/23
+
+===== PAGE 13 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+               Which clotting factors are dependent on Vitamin K to function?
+                 •  Factor II (prothrombin)
+                 •  Factor VII
+                 •  Factor IX
+                 •  Factor X
+            Why are these clotting factors dependent on Vitamin K?
+                 •  For the carboxylation of their glutamic acid residues in the liver
+                 •  This allows for their activation and use in haemostasis
+              What is tissue factor used for?
+                 •  Initiation of coagulation after endothelial damage
+              Where is tissue factor located?
+                 •  Underneath endothelial cells, extravascular cells and leukocytes
+                 •   It is exposed after vascular damage
+
+
+
+
+
+              What are the three phases involved in coagulation?
+                 •  Initiation
+                 •  Amplification
+                 •  Propagation
+                 Describe how tissue factor is involved to produce Factor IIa (initiation
+                 phase).
+                 •  Tissue factor binds to Factor 7a
+                 •  This activates Factor 9 to 9a and Factor 10 to 10a
+                 •  This activates Factor 2 (prothrombin) to produce a small
+                 amount of Factor 2a (thrombin)
+
+               Which factor is used to directly generate thrombin from prothrombin?
+                 •  Factor Xa
+                     ◦  Along with its cofactor factor Va (in amplification)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            13/23
+
+===== PAGE 14 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+               Which factors are involved in initiation?
+                 •  VIIa
+                 •  IX/IXa
+                 •  X/Xa
+                 •   II/IIa
+              What does Factor VIIa do in initiation?
+                 •  Factor VIIa binds to Tissue Factor (TF) to initiate the cascade of
+                     reactions in initiation
+
+              What does Factor IX/IXa do in initiation?
+                 •  Factor IX turns into Factor IXa after being activated by factor VIIa
+                     binding to Tissue Factor (TF)
+                     ◦   It does not activate Factor Xa yet, as Factor VIIIa is required
+                             for this
+                     ◦  Factor IXa is hence produced in preparation for it being
+                          required in amplification
+
+              What does Factor X/Xa do in initiation?
+                 •  Factor X turns into Factor Xa after being activated by factor VIIa
+                     binding to Tissue Factor (TF)
+                 •  Factor Xa then converts Factor II into Factor IIa to produce a
+                             little bit of thrombin
+                     ◦  Factor Va is not needed for this initiation
+              What does Factor II/IIa do in initiation?
+                 •  Factor II (prothrombin) is converted to Factor IIa (thrombin) in
+                           initiation by action of Factor Xa
+                 •  This small amount of thrombin produced by initiation can start
+                    the amplification phase
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            14/23
+
+===== PAGE 15 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+              What happens in the amplification phase?
+                 •  Thrombin produced in propagation activates cofactors 5→5a
+                 and 8→8a as well as factor 11→11a and platelets
+                 •  Factor 11 is used to activate Factor 9 to 9a which alongside
+                    Factor 8 can be used to generate 5 times more Factor 10a from
+                      Factor 10
+                 •  This amplifies thrombin production from prothrombin by ~10^5
+                      leading to rapid fibrinogen cleavage into fibrin
+                 •  This stabilises the unstable platelet plug to form an insoluble
+                         fibrin clot
+
+
+
+
+
+               Which factors are involved in amplification?
+                 •  Factor IIa (thrombin)
+                 •  Factor V/Va
+                 •  Factor VIII/VIIIa
+                 •  Factor IXa
+                 •  Factor Xa
+                 •  Factor XI/XIa
+              What does Factor IIa do in amplification?
+                 •  Factor IIa, produced in small amounts during initiation, is used
+                     during amplification to activate Factor V→Va, Factor VIII→VIIIa,
+                    Factor XI→XIa and platelets
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            15/23
+
+===== PAGE 16 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+            How is Factor V activated, and what does Factor V/Va do in
+                   amplification?
+                 • The activation of Factor V→Va is done by Factor IIa (thrombin)
+                 •  Factor Va is a cofactor that assists Factor Xa to convert Factor
+                        II→IIa during amplification
+
+            How is Factor VIII activated, and what does Factor VIII/VIIIa do in
+                   amplification?
+                 • The activation of Factor VIII→VIIIa is done by Factor IIa (thrombin)
+                 •  Factor VIIIa is a cofactor that assists Factor IXa to convert
+                    Factor X→Xa in large amounts during amplification
+
+            How is Factor IX activated, and what does Factor IXa do in
+                   amplification?
+                 • The activation of Factor IX→IXa has already been done by Tissue
+                    Factor (TF) binding to Factor VIIa during initiation
+                 •  Factor XI is used to activate more Factor IX→IXa. More IXa is
+                now present.
+                 •  Factor IXa is used in amplification alongside Factor VIIIa to
+                     convert 10^5 times more Factor X→Xa
+
+            How is Factor X activated, and what does Factor Xa do in amplification?
+                 • The activation of Factor X→Xa has already been done by Tissue
+                    Factor (TF) binding to Factor VIIa during initiation
+                 •  Factor Xa, alongside its cofactor Factor Va, is used to convert
+                       large amounts of Factor II→IIa
+
+              What does Factor XI/XIa do in amplification?
+                 • The activation of Factor XI→XIa is done by Factor IIa (thrombin)
+                 •  Factor XIa is used to activate Factor IX→IXa, so it can then
+                       activate X→Xa
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            16/23
+
+===== PAGE 17 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+                 Describe the importance of Factor VIIIa in coagulation.
+                 •  Factor VIIIa, a cofactor, is one of the essential components,
+                     alongside Factor IXa, required for the generation of 10^5 more
+                    Factor Xa in amplification
+                     ◦  Factor Xa can then be used alongside cofactor Va to make
+                          Factor IIa (thrombin) from prothrombin (Factor II)
+                     ◦  Thrombin then catalyses fibrinogen → fibrin
+
+
+
+
+
+              What happens in the propagation phase?
+                 • As a result of the increased thrombin production, higher
+                  amounts of fibrinogen is converted to fibrin to stabilise the
+                    blood clot and make it insoluble.
+
+              What is a zymogen?
+                 • A proenzyme (i.e Factor II, Factor IX), those that are converted
+                      to active forms such as Factor IIa and Factor IXa
+
+            How is a zymogen converted to its active form?
+                 • By the splitting of one or more peptide bonds.
+                 •  This leads to exposure of the active site of the enzyme, making
+                     the enzyme active
+                 •   It occurs via the action of cofactors V and VIII.
+              What characteristic of platelets allows them to accelerate these
+                  reactions?
+                 • The phospholipid surface.
+                     ◦   It is believed that clotting factors work on the phospholipid
+                         surfaces of platelets
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            17/23
+
+===== PAGE 18 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+              What role does Ca2+ (calcium) play in coagulation?
+                 •  Binding clotting factors (i.e von Willebrand factor) to the
+                    phospholipid surfaces of platelets.
+
+            Why do we need coagulatory inhibitory mechanims?
+                 •  To prevent coagulation spreading and occurring at other sides
+                   around the body that have not been injured
+                 •  This can lead to thrombosis
+                  Recall three coagulatory inhibitors.
+                 •  Antithrombin
+                 •  Protein C
+                 •  Protein S
+            How does antithrombin work?
+                 • A direct inhibitor of thrombin (IIa) and Factor Xa
+
+
+
+
+
+               Which molecule is use to potentiate the action of antithrombin?
+                 •  Heparin
+                 •  Antithrombin binds to endothelial cell associated heparins to
+                   cause potentiation of its effects
+
+              What are proteins C and S?
+                 •  Indirect inhibitors of thrombin generation
+                 •  Protein C acts directly and protein S is its cofactor.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            18/23
+
+===== PAGE 19 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+                  Explain how the protein C pathway works to inhibit coagulation.
+                 •  Thrombin binds to thrombomodulin (endothelial cell receptor
+                       that helps anticoagulation)
+                 •  This activates Protein C
+                 •  Protein C inactivates Factors Va and VIIIa in the presence of
+                     Protein S
+                 •  This means Factor II cannot be converted to Factor IIa any
+                      longer and thrombin is no longer produced from prothrombin
+                     ◦  This is because Factor Va and VIIIa help Factor Xa activate
+                          Factor II to Factor IIa
+
+
+
+
+
+                 •  Clotting hence reduces as thrombin cannot do fibrinogen → fibrin
+              What is the direct role of protein C in the inhibition of coagulation?
+                 •  To inactivate Factors Va and VIIIa which prevents the activation
+                      of Factor II (prothrombin) to Factor IIa (thrombin)
+
+              What is heparin?
+                 • An anticoagulant drug that works as a potentiator of
+                    antithrombin
+
+            How does heparin work?
+                 •   It potentiates the action of antithrombin which leads to the
+                      direct inactivation of Factors Xa and IIa.
+                 •   It does this by its pentasaccharide chain binding to
+                     antithrombin, altering antithrombin’s conformation to make it
+                   have a greater affinity for Factor Xa
+                 •  Inactivation of Factors Xa and IIa both directly lead to no
+                   thrombin being produced and no further clotting
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            19/23
+
+===== PAGE 20 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+                      Is heparin an indirect or direct inhibitor?
+                 •  Indirect
+                 •   It potentiates the action of antithrombin, which is a direct
+                           inhibitor. So heparin itself is indirect
+
+            A heparin chain is only 4 units long. What effect will this have on its
+                  function?
+                 •  Heparin can function to inactivate Factor Xa even when it is short,
+                    but to inactivate Factor IIa, it needs to be longer
+                 • The chain being short will lead to it inactivating Factor Xa, but
+                    not Factor IIa
+
+            How do longer chains of heparin work?
+                 •  Longer chains (pentasaccharides) of heparin can wrap around
+                    antithrombin and thrombin and inactivate both Factors IIa and
+                 Xa
+
+            How is heparin administered?
+                 •  Intravenously or by subcutaneous injection
+              What is warfarin?
+                 • An anticoagulant drug that works as a Vitamin K antagonist
+            How does warfarin work?
+                 •   It works by competing with Vitamin K to interfere with protein
+                      carboxylation
+                 •  This prevents the synthesis of Factors II, VII, IX and X by the
+                          liver
+                 •  This reduces the synthesis of coagulation factors and hence
+                   reduced clotting initiation, activation and propagation
+
+            How is warfarin administered?
+                 •  Orally
+                 •   It takes several days to take effect
+            Why does warfarin take several days to have its effect?
+                 •  Warfarin works by antagonising Vitamin K which prevents
+                      synthesis of new clotting factors
+                 •  This means existing clotting factors will still be able to function
+                           until they run out, at which time the effects of Warfarin will be
+                         visible
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            20/23
+
+===== PAGE 21 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+              What is a DOAC and how does it work?
+                 • DOACs (Direct Oral Anticoagulants), are orally administered
+                    drugs that directly inhibit Factor IIa (thrombin) to prevent the
+                    formation of blood clots.
+                 •  They work more rapidly due to its direct inhibitory effects on
+                     coagulation
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            21/23
+
+===== PAGE 22 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+          Fibrinolytic System and Tests of Coagulation
+
+              What is plasmin?
+                 • The principle fibrinolytic enzyme
+                 •   It is not specific to fibrin, so it can break down other plasma
+                      proteins such as Factors V and VIII
+
+              What does plasmin do?
+                 •  Plasmin is responsible for degrading a variety of plasma
+                     proteins but its specific physiologic role is to degrade fibrin
+                        clots.
+
+            How is plasmin activated?
+                 • By the action of tPA (tissue plasminogen activator) alongside
+                   plasminogen binding to fibrin
+                     ◦  i.e plasminogen binds to fibrin when the fibrin clot is being
+                        broken down
+
+
+
+
+
+            How does plasminogen bind to fibrin?
+                 •  Plasminogen binds to the lysine residues of fibrin
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            22/23
+
+===== PAGE 23 =====
+
+18/07/2026, 22:07                                                                      3.8 Haemostasis
+
+
+
+              What does the breakdown of fibrin lead to?
+                 • The production of FDPs (fibrin degradation products)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-8-Haemostasis-14992aad2c22428197b344058b344670                                                            23/23

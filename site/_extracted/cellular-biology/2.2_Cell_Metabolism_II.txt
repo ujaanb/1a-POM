@@ -1,0 +1,494 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+    2.2 Cell Metabolism II
+
+             Learning Objective
+
+          A session that will explore the entry of acetyl CoA into the TCA Cycle after
+                  its production from pyruvate in glycolysis
+
+            To understand what happens in the TCA Cycle
+
+             1.13-50
+
+             Describe how pyruvate is converted to acetyl CoA.
+
+
+
+
+
+             • NAD+ —> NADH
+             • HS-CoA is just coenzyme A with Sulfur and Hydrogen
+             • The pyruvate dehydrogenase complex catalyses this reaction
+           What happens when acetyl CoA (2C) enters the mitochondrial matrix for the
+          TCA Cycle?
+             •   It reacts with oxaloacetate (4C) to produce citrate (6C)
+             Describe briefly what happens in the TCA Cycle.
+             •  Acetyl CoA (2C) enters from the Link Reaction and reacts with
+                oxaloacetate (4C) to form citrate (6C)
+             • Redox and decarboxylation reactions occur which produce NADH,
+              CO2, GTP and FADH2 molecules using the citrate and convert it back
+                 to oxaloacetate (4C)
+             •  This oxaloacetate (4C) has now been reproduced and can be used in
+                 another round of the TCA Cycle.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                          1/13
+
+===== PAGE 2 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+             Describe the molecules that are produced via one TCA Cycle.
+             • 2x CO2 produced from citrate (6C) —> oxaloacetate (4C)
+             • 3x NADH from different reactions (2 arise alongside CO2 removals)
+             •  1x FADH2 from 4C to 4C reaction
+             •  1x GTP from 4C to 4C reaction
+
+
+
+
+
+         How much ATP (equivalents) can hence be produced via one TCA Cycle?
+             •  12x ATP.
+         How does the TCA Cycle help to produce energy, if no ATP is even
+            produced?
+             • The reduced coenzymes (3x NADH, 1x FADH2) that are produced in
+                 the TCA Cycle help to produce the ATP in oxidative phosphorylation
+                 ◦  They supply the H+ and e- used in the electron transport chain
+           What stops the TCA Cycle from occurring under anaerobic conditions?
+             • The TCA Cycle requires oxidised coenzymes (NAD+/FAD) for it to
+                 proceed, so it can reduce them to NADH/FADH2 during the cycle
+             •  Since these oxidised coenzymes can only be produced via their
+                  reoxidation during oxidative phosphorylation (where oxygen accepts
+                    their electrons), a lack of oxygen would mean the coenzymes continue
+                  to exist in their reduced state
+             • Hence the TCA Cycle requires oxygen to go ahead.
+           Where are the enzymes used in the TCA Cycle stored?
+             •  In the mitochondrial matrix as they are soluble proteins.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                          2/13
+
+===== PAGE 3 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+           What enzyme is the exception to this rule and where is it found?
+             •  Succinate dehydrogenase.
+             •  This enzyme is used to form complex II of the electron transport chain
+               and so is found on the inner mitochondrial membrane
+
+         How do amino acids enter the TCA Cycle?
+             •  Proteins are down into amino acids
+             • The carbon skeletons of these amino acids can form acetyl CoA or
+                other intermediates present in the TCA Cycle
+                 ◦ The intermediates formed can then either be used to make the
+                 same products from the TCA Cycle or in gluconeogenesis
+                     (reverse of TCA Cycle)
+
+           What does the term glucogenic imply?
+             • The amino acids that form TCA Cycle intermediates can produce either
+                glucose or ketone bodies
+             • Those that produce glucose are described as glucogenic
+           What does the term ketogenic imply?
+             • The amino acids that form TCA Cycle intermediates can produce either
+                glucose or ketone bodies (i.e acetyl CoA)
+             • Those that produce ketone bodies are described as ketogenic
+           What is a transamination reaction?
+             • A reaction that involves the transfer of an amine group from one
+                molecule to another.
+
+         How is a transamination reaction useful for amino acid metabolism?
+             •  Transferring amine groups from amino acids to keto acids allows
+              amino acids to be metabolised without harm to the cell
+                 ◦  This is because metabolising amine groups can be toxic to
+                humans
+             •  Overall, it helps us to metabolise amino acids efficiently.
+           What are aminotransferases?
+             • Enzymes that are involved in the catalysis of transamination
+                  reactions.
+
+           Which two molecules are involved in transamination reactions for amino
+             acids?
+             • Amino acids and ketoacids
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                          3/13
+
+===== PAGE 4 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+         How is urea produced in protein metabolism?
+             • When amino acids are metabolised, only the carbon skeleton is
+                 productive (gives us energy)
+             • The amine group is hence not metabolised into the TCA Cycle, but is
+                  instead transferred to the ketoacid via transamination, while the
+               carbon skeleton of the amino acid produces an intermediate
+             • The “other molecule” hence has an amine group on it but gets rid of it
+               and as a result, urea is produced via the urea cycle
+             • The diagram below explains this well, using alanine as an example.
+
+
+
+
+
+           What is the difference between a ketoacid and an amino acid?
+             • A ketoacid has a ketone functional group
+             • An amino acid has an amine functional group
+           What is the role of the glycerol-phosphate shuttle?
+             •  Its role is to transfer NADH (electrons) from the cytosol into the
+                 mitochondrial matrix so that it can be reoxidised in oxidative
+                phosphorylation
+             •   It does this for skeletal muscle and the brain
+             • NOTE: this is done for NADH only and not FADH2 because only
+                   glycolysis products have this issue (of going from cytoplasm to
+                  mitochondrial matrix)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                          4/13
+
+===== PAGE 5 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+             Describe the function of the glycerol-phosphate shuttle.
+             • NADH adds its electrons to Dihydroxyacetone phosphate (DHAP),
+                converting it to glycerol-3-phosphate and NADH becomes oxidised
+                 to NAD+
+                 ◦  This reaction is catalysed by cytoplasmic glycerol-3-phosphate
+                  dehydrogenase
+             •  Glycerol-3-phosphate adds these electrons back to FAD, reducing it
+                  to FADH2 and converting itself back to Dihydroxyacetone phosphate
+              (DHAP)
+                 ◦  This reaction is catalysed by mitochondrial glycerol-3-
+                  phosphate dehydrogenase
+             • FADH2 then passes its electrons onto coenzyme Q (ubiquinone - via
+               complex II in the electron transport chain) where they can be used in
+                   oxidative phosphorylation
+
+
+
+
+
+             Describe the path that the electrons from NADH take through the glycerol-
+            phosphate shuttle.
+             •  Electrons are transferred from NADH to DHAP by cytosolic glycerol-3-
+               phosphate dehydrogenase in order to convert the DHAP to glycerol-
+               3-phosphate
+             • The electrons are then are transferred to FAD by mitochondrial
+                glycerol-3-phosphate dehydrogenase when glycerol-3-phosphate is
+                converted back to DHAP
+             • The FADH2 can then transfer these electrons to coenzyme Q
+                 (ubiquitone) via complex II in the electron transport chain.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                          5/13
+
+===== PAGE 6 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+           What is the role of the malate-aspartate shuttle?
+             •  Its role is to transfer NADH (electrons) from the cytosol into the
+                 mitochondrial matrix so that it can be reoxidised in oxidative
+                phosphorylation
+             •   It does this for the liver, kidney and heart
+         How can oxaloacetate be converted to malate for the malate-aspartate
+              shuttle?
+             •  Reduction via the addition of two hydrogen atoms (H2)
+             Describe the function of the malate-aspartate shuttle.
+             •  Aspartate reacts with alpha-ketoglutarate in a transamination reaction
+                  to form oxaloacetate and glutamate via aspartate transaminase
+             •  Oxaloacetate is reduced to malate via malate dehydrogenase
+                 ◦  During this reaction, the NADH is oxidised to form NAD+ and the
+                     electrons are transferred to the malate
+             •  Malate takes the electrons through the malate-alphaketoglutarate
+                   antiporter whilst alphaketoglutarate moves in the opposite direction
+             •  Malate is then oxidised back to oxaloacetate via malate
+               dehydrogenase and NAD+ is reduced again to form NADH
+                 ◦  Oxaloacetate is then reacted with glutamate to form aspartate
+                  and alphaketoglutarate via aspartate transferase
+                 ◦ The aspartate travels through the aspartate-glutamate
+                      antiporter (while glutamate goes the other way) and another
+                      cycle can begin.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                          6/13
+
+===== PAGE 7 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+           What are antiporters and what are the names of the two present in the
+             malate-aspartate shuttle?
+             •  They allow two molecules to travel in opposite directions through them
+             •  Glutamate-aspartate
+             •  Malate-alphaketoglutarate
+             •  This is necessary because the movement of these molecules are
+                    effectively what facilitates the transfer of the NADH electrons from the
+                  cytosol to the mitochondrial matrix
+
+           Which enzyme in the malate-aspartate shuttle is responsible for the
+              oxidation of NADH in the cytosol and its subsequent reduction in the
+             mitochondria?
+             •  Malate dehydrogenase (MDH)
+
+
+
+
+
+           What is reoxidation of cofactors (what happens)?
+             •  This is when cofactors lose the electrons they have gained previously
+                 (from glycolysis/Krebs Cycle)
+
+         How many ATP molecules are formed by the reoxidation of NADH?
+             • 3
+         How many ATP molecules are formed by the reoxidation of FADH2?
+             • 2
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                          7/13
+
+===== PAGE 8 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+         How else can the intermediates of glycolysis and the TCA Cycle help
+              individuals?
+             •  They can be used to provide building blocks for biosynthetic reactions.
+             •  Formation of cholesterol from acetyl CoA
+             •  Formation of nucleotides from glucose-6-phosphate via the pentose
+               phosphate pathway
+             •  Formation of amino acids from ketoacids (reverse of original
+                 transamination)
+
+
+
+
+
+             Describe the effects that TCA Cycle enzyme defects can have on individuals.
+             •  Malfunction of enzymes involved in the TCA Cycle can cause certain
+                  intermediates to not be produced, and hence the cycle won’t be run
+                through correctly
+             • The cell will hence choose to switch to glycolysis as the main form of
+              ATP production
+
+           What is the name of the shuttle used to transport fatty acids from the
+            cytoplasm to the mitochondria of cells for metabolism?
+             •  Carnitine shuttle
+             Describe the structure of a fatty acid.
+             •   It is a straight-chain hydrocarbon which has a -COOH group on the
+               end of the molecule.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                          8/13
+
+===== PAGE 9 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+            Diagram showing the beta-oxidation cycle.
+
+
+
+
+
+             Describe how fatty acids are prepared for the beta-oxidation cycle.
+             •   Initially, fatty acids are converted to acyl CoA species by acyl CoA
+                synthetase enzymes
+                 ◦ NOTE: Acyl CoA species (i.e acetyl CoA) refer to these acyl
+                    groups on fatty acids attached to Coenzyme A
+             •  They do this through the action of acyl CoA synthetase and use
+                energy from 2 high-energy ATP bonds
+                 ◦  This can come from either the breakdown of ATP to either AMP in
+                  one ATP molecule, or ATP to ADP in two molecules
+
+           Which type of molecule enters the beta-oxidation cycle?
+             •  Acyl CoA species
+                 ◦  This is after they have been converted from their acyl (fatty
+                      acid) forms by acyl CoA synthetase
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                          9/13
+
+===== PAGE 10 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+             Describe what occurs in the beta-oxidation cycle for fatty acids.
+             •  During the beta-oxidation cycle, a series of oxidation + hydrolysis,
+                  oxidation and thiolysis (reaction with HS-CoA to shorten the chain)
+                  reactions occur to the original acyl CoA molecule
+             •  During this process 1x FADH2 and 1x NADH are produced
+             • The acetyl CoA species can also be used to produce more ATP
+                through the Krebs Cycle
+             •  Overall, acyl CoA’s (derived from fatty acids) are broken down to
+                 acetyl CoA (2Cs) and a shortened acyl CoA (by 2Cs as it has lost
+                 acetyl CoA) which can be used in another beta oxidation cycle,
+                  whilst producing 1x NADH and 1x FADH2 in the process
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                        10/13
+
+===== PAGE 11 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+             Describe the role and function of the carnitine shuttle.
+             •  Acyl CoA is generated in the first step of fatty acid beta-oxidation
+             •  Its role is to transport acyl CoA from the cytosol to the mitochondrial
+                   matrix, where it can be metabolised
+             •   It uses enzymes called carnitine acyltransferases to convert carnitine
+                 to acyl carnitine outside and acyl carnitine to carnitine inside so that
+                 the acyl group can be transported into the matrix by a translocase
+             • The acyl group carried by the acyl carnitine is then added to CoA in
+                 the matrix to reform the acyl CoA
+
+
+
+
+
+           What type of genetic disorder is primary carnitine deficiency?
+             •  Autosomal recessive
+             •  Mutations in a gene known as SLC22A5 which encodes a carnitine
+                 transporter result in reduced ability of cells to take up carnitine,
+               needed for the β-oxidation of fatty acids.
+
+         How does primary carnitine deficiency affect individuals?
+             • The transporter deficiency means that less acyl CoA is transported into
+                 the mitochondrial matrix as less acyl carnitine goes through the
+                   carnitine shuttle
+             •  This ultimately means less fatty acids are metabolised as they cannot
+              be metabolised in the cytosol.
+
+         How can a primary carnitine deficiency be treated?
+             •   It can be remedied using carnitine supplements.
+           What type of molecule enters the beta-oxidation cycle?
+             •  Acyl CoA
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                         11/13
+
+===== PAGE 12 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+           What are the products of one beta oxidation cycle?
+             •  1x acetyl CoA (2C)
+             •  1x shortened acyl CoA (minus 2C)
+             •  1x NADH
+             •  1x FADH2
+             Describe what occurs when palmitic acid (16C) is beta-oxidised.
+             •   It is converted to palmitoyl CoA (16C)
+             •   It goes through the beta-oxidation cycle 7 times to produce 8 acetyl-
+             CoA molecules (2C), 7 NADH and 7 FADH2
+             •   It produces 8 acetyl-CoA molecules because the last cycle produces
+               2x acetyl CoA molecules instead of 1x acetyl CoA and 1x shortened
+                  acyl CoA
+             •  These can be used to produce ATP, and A LOT is produced.
+          When and why are ketone bodies formed from acetyl CoA?
+             •  Ketone body formation is an alternative fate for acetyl CoA that
+                  usually occurs during the fasting state
+             •  This is because the TCA Cycle intermediates (such as oxaloacetate)
+                 are usually committed to gluconeogenesis (production of energy
+             when fasting) and so acetyl CoA won’t be able to enter the TCA
+                Cycle under these conditions.
+                 ◦  Acetyl CoA needs to combine with oxaloacetate when it enters
+                     the TCA Cycle
+
+             Describe briefly what lipogenesis is.
+             •   It is the formation of a fatty acid.
+             •  Effectively the reversal of beta oxidation (fatty acid
+                metabolism/breakdown)
+
+           What are the two molecules involved in lipogenesis?
+             •  Malonyl CoA (3C) and acetyl CoA (2C)
+             •  These molecules are used as the building blocks of lipogenesis
+             •  Acyl carrier proteins are used to enable the continuation of
+                  lipogenesis - they act as a base upon which more fatty acids can be
+              added
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                        12/13
+
+===== PAGE 13 =====
+
+18/07/2026, 21:50                                                                   2.2 Cell Metabolism II
+
+
+
+         How many enzymes are involved in lipogenesis and what are their names?
+             •  2.
+             •  Acetyl CoA Carboxylase
+             •  Fatty acid synthase
+             Describe three differences between the synthesis and degradation of lipids.
+           JP
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-2-Cell-Metabolism-II-c22e0f26bc064866933f7cb6a1f874dd                                                        13/13

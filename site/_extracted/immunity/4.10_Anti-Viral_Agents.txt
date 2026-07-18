@@ -1,0 +1,252 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:23                                                                4.10 Anti-Viral Agents
+
+    4.10 Anti-Viral Agents
+
+            Around how many nucleotides and genes does the HIV have?
+             •  10 000 nucleotides
+             •  10 genes
+         How does the Zika virus infect its victims and what complications are
+            caused?
+             • A mosquito (vector) carries the virus and bites a woman during
+               pregnancy
+             •  This affects the brain development of the baby and leads to
+                microcephaly (abnormal smallness of the head)
+
+           What is the best definition of a virus?
+             • An infectious obligate intracellular parasite.
+         How does a virus encode its genetic material?
+             •  Nucleic acid genome (either RNA or DNA)
+           What is a virion?
+             • A viral particle.
+           Which is the only microscope that can be used to see viruses?
+             •  Electron microscope.
+           What is the difference between an enveloped and non-enveloped virus?
+             • An enveloped virus has an outer membrane derived from the host
+                    cell membrane
+             • A non-enveloped virus has no outer membrane and it consists of
+                  purely protein.
+
+           What is the difference between a pleiomorphic and typical shaped
+            enveloped virus?
+             • A pleiomorphic virus has many shapes it can assume
+             • A typical shaped virus can only assume a particular shape - making
+                            it easy to recognise.
+
+           What is a tegument?
+             • A bunch of proteins incorporated inside the outer envelope of a virus.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-10-Anti-Viral-Agents-5715d9f4fad141169ebae6109a63f7bb                                                              1/5
+
+===== PAGE 2 =====
+
+18/07/2026, 22:23                                                                4.10 Anti-Viral Agents
+
+
+
+           What special component do viruses with RNA instead of DNA have?
+             •  Reverse transcriptase enzymes to help them convert RNA back to
+              DNA.
+
+         Why do RNA viruses have a higher mutation rate than DNA viruses?
+             • RNA viruses use their own polymerases to replicate which leads to
+                    this higher rate of mutation
+                 ◦ DNA viruses use host cell machinery
+             •   It is an advantageous characteristic, as the viruses can evolve
+                  quicker.
+
+           What other distinction is there between DNA and RNA viruses?
+             • DNA viruses are much larger than RNA viruses
+             • RNA viruses are around 30 kb pairs big, DNA viruses are about 100kb
+                   pairs big.
+
+           What is negative sense RNA?
+             •  This is RNA derived from the complimentary strand to the mRNA
+                 strand (so tRNA)
+             •  Viruses that carry this form of RNA have to convert the tRNA into
+             mRNA, which can then be translated
+
+           What is the role of an integrase enzyme in the viral replication cycle?
+             •  Integrases are used to incorporate the viral DNA into the host cell
+            DNA genome, so that it can be transcribed together and produce the
+                      viral proteins.
+
+           What is the negative sense strand in RNA?
+             • The strand that is complementary to mRNA
+             • mRNA can be synthesised using the negative sense strand.
+           What is the cytopathic effect?
+             • The death of a host cell caused by a virus when it replicates and
+               causes lysis/apoptosis of the host cell.
+
+           What is a plaque?
+             •   It is a hole in a layer of cells that is caused by the action of a virus
+             when it kills a host cell
+             • The hole is present due to the absence of the cell that was previously
+                     in that position.
+
+           What is the plaque assay used for?
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-10-Anti-Viral-Agents-5715d9f4fad141169ebae6109a63f7bb                                                              2/5
+
+===== PAGE 3 =====
+
+18/07/2026, 22:23                                                                4.10 Anti-Viral Agents
+
+
+
+           What is a syncitium?
+             • A fusion of cells together
+             •  Viruses with surface proteins can usually form syncitia at neutral pH.
+           What are the five ways that the presence of a virus can be detected
+              diagnostically?
+
+             Viruses are small. They range in size from…?
+             •  1 nanometer to 10 micrometers
+              Recall two RNA viruses.
+             •  HIV
+             • SARS-CoV-2
+             •  Zika virus
+             •  Hepatitis C
+           What is the therapeutic index in the context of making treatments against
+              viruses?
+
+           What is a substrate analogue?
+
+           What is a nucleoside analogue?
+
+           What is a Directly Acting Antiviral?
+
+           What is acyclovir?
+
+             Describe the structure of acyclovir.
+
+           Image showing the structure of a normal DNA chain.
+
+         How does the structure of the nucleoside analogue acyclovir allow it to
+            perform its function?
+
+           Which virus is acyclovir used against?
+
+               In which way can acyclovir no longer be effective against herpes virus?
+
+         How is the nucleoside analogue acyclovir initially phosphorylated to form
+            acyclo-GTP?
+
+           What two factors spare cellular DNA from the most potent effects of
+              acyclovir?
+
+         How does the action of Remdesivir differ to that of acyclovir?
+
+           What is Remdesivir used for?
+
+              Recall four nucleoside analogues.
+
+           What is amantadine and what specifically is it effective against?
+
+             Describe how amantadine works.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-10-Anti-Viral-Agents-5715d9f4fad141169ebae6109a63f7bb                                                              3/5
+
+===== PAGE 4 =====
+
+18/07/2026, 22:23                                                                4.10 Anti-Viral Agents
+
+
+
+           What is a limitation of amantadine that has led to increased viral resistance
+              to it?
+
+         How do neuraminidase inhibitors work?
+
+              Recall two neuraminidase inhibitors.
+
+           What side effects can these drugs have?
+
+             Describe the influenza mutation that renders oseltamivir (Tamiflu)
+               ineffective.
+
+           What drug was developed after Tamiflu was found to be ineffective?
+
+         Why was Relenza not such a successful drug as Tamiflu?
+
+         How does Baloxavir work?
+
+         Why is Baloxavir now not effective?
+
+           What does hepatitis C cause?
+
+           Which components of the hepatitis C virus do the drugs usually work
+             against?
+
+           Which components of the HIV mechanism do the drugs usually work
+             against?
+
+         How did Timothy Brown “the Berlin patient” become cured of HIV?
+
+           What is a “biological”?
+
+           What are the two receptors used by HIV to enter host cells?
+             • CD4 receptors
+             • CCR5 / CXCR4 (co-receptors)
+           What is regeneron?
+             • A “biological” against COVID-19
+           What is PrEP?
+             •  Pre-Exposure Prohpylaxis is a treatment for HIV administered to
+                  patients before they are exposed to HIV.
+
+           What effect does Dexamethasone have on hosts?
+             •  Decrease the inflammatory response.
+             •   It is a steroid
+             •  Sometimes in severely ill patients, the inflammatory response is
+                 causing damage to the host, and so immunosuppressors such as
+               dexamethasone can be used to control this response and help the
+                  patient
+
+           What is the difference between an NRTI and an NNRTI?
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-10-Anti-Viral-Agents-5715d9f4fad141169ebae6109a63f7bb                                                              4/5
+
+===== PAGE 5 =====
+
+18/07/2026, 22:23                                                                4.10 Anti-Viral Agents
+
+
+
+           What is the pK of a drug?
+             • The pharmacokinetics (i.e how the body interacts with the drug)
+         Why is it important to consider the pharmacokinetics of a drug when using
+           two or more in treatment?
+
+         How many antiretroviral drugs are usually given to treat HIV and why?
+             • 3+
+             •  This is because we want to reduce the rate at which mutations can be
+                 selected for within the viral population
+
+           NOTE: Diagnosis (i.e which virus the patient is infected with) is very
+             important when considering which anti-viral agent to we need to use. This is
+            because of the specificity of these agents that currently exists.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-10-Anti-Viral-Agents-5715d9f4fad141169ebae6109a63f7bb                                                              5/5

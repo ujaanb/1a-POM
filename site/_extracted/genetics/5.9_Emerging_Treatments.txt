@@ -1,0 +1,240 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:21                                                                  5.9 Emerging Treatments
+
+    5.9 Emerging Treatments
+
+              Explain what a disease caused by an inborn error of metabolism looks like.
+             •  This is a disease where there may be a missing/faulty enzyme which
+                   results in the build up of the wrong product, excess build up of the
+                   right product, or lack of build up of the right product
+
+          An example of a disease caused by an inborn error of metabolism.
+             • An example is phenylketonuria (PKU) where a lack of Phenylalanine
+                hydroxylase leads to the build up of phenylketones
+
+
+
+
+
+             •  Also, MCADD deficiencies
+         How can a disease caused by an error of metabolism be treated?
+             •  Dietary alterations
+                 ◦  i.e if you have MCADD and so cannot metabolise fatty acids, eat a
+                     high carbohydrate diet
+
+              Explain what a disease caused by missing factors looks like.
+             •   It will lead to a disease such as haemophilia - a blood clotting factor
+                  deficiency (Factor VIIIa)
+
+         How is the problem of infected blood samples combatted in haemophilia
+             treatment?
+             •  Heat is used to treat the infected blood sample and kill the viruses
+             • The desired gene can then be cloned and recombined for the patients
+         How can a disease caused by missing factors be treated?
+             •  Inject the patient with the missing factors they need
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-9-Emerging-Treatments-cfbf2dc4a6e44c7dad571420d3cf877b                                                            1/7
+
+===== PAGE 2 =====
+
+18/07/2026, 22:21                                                                  5.9 Emerging Treatments
+
+
+
+             Describe how pharmacological chaperones work.
+             •  Proteins and their intermediates are usually synthesised and folded
+               where they can be packaged off to their destination
+             •  However, sometimes (due to mutations) there can be aberrant folding
+                  of proteins
+             •  Pharmacological chaperones work by binding onto these aberrantly
+                 folded proteins and rescuing them by allowing them to assume a
+                normal shape again.
+
+
+
+
+
+             Describe how pharmacological modulators work.
+             •  These are simpler drugs, in that they can have a variety of different
+                  effects that can allow the patient to be less affected by any defects
+                they may have
+             •  Their effects may be varied, i.e
+                 ◦  Receptor agonists/antagonists
+                 ◦  Ion channel activators/blockers
+             •  For example, CF causes Chloride ion channel defectiveness. A
+                 pharmacological modulator can activate this ion channel
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-9-Emerging-Treatments-cfbf2dc4a6e44c7dad571420d3cf877b                                                            2/7
+
+===== PAGE 3 =====
+
+18/07/2026, 22:21                                                                  5.9 Emerging Treatments
+
+
+
+           What is combination therapy?
+             •  This is a method of treatment which involves combining two drugs
+                together, so their effects can be experienced by the patient
+                simultaneously
+
+
+
+
+
+           What is the difference between a mis-sense and a non-sense mutation?
+             • A mis-sense mutation is a more normal mutation where the change in
+               base sequence leads to a different amino acid being produced and
+               hence unusual protein
+             • A non-sense mutation is a more severe mutation where the change in
+               base sequence leads to a stop codon being produced earlier than
+                 usual
+                 ◦  Hence, no/fewer protein is produced
+         How are aminoglycoside antibiotics able to aid non-sense suppression
+             therapy?
+             •  They can bind onto ribosomes, and replace amino acids that result
+               from mutations with tRNA sequences that are similar
+             •  This means the ribosome is now able to perform stop-codon read-
+                through and still produce the protein
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-9-Emerging-Treatments-cfbf2dc4a6e44c7dad571420d3cf877b                                                            3/7
+
+===== PAGE 4 =====
+
+18/07/2026, 22:21                                                                  5.9 Emerging Treatments
+
+
+
+          NON-SENSE SUPPRESSION IN DUCHENNE MUSCULAR DYSTROPHY.
+
+
+
+
+
+           What do the terms in vivo, ex vivo and in vitro mean?
+             •  In vivo - in the living
+             • Ex vivo - out of the living
+             •  In vitro - in glass
+               In gene therapy, how are dominant and recessive diseases dealt with?
+             •  Dominant genes are deleted
+             •  Recessive genes are altered
+           What is a pronucleus?
+             • The egg nucleus, once it is haploid, is called the female pronucleus.
+             • The sperm nucleus, once it is haploid, is called the male pronucleus.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-9-Emerging-Treatments-cfbf2dc4a6e44c7dad571420d3cf877b                                                            4/7
+
+===== PAGE 5 =====
+
+18/07/2026, 22:21                                                                  5.9 Emerging Treatments
+
+
+
+             Describe the two methods that IVF is used for mitochondrial disease
+             treatment.
+
+            Maternal spindle transfer
+
+             • Chromosomes are removed from an unfertilised egg that has
+               mutated mitochondrial DNA
+             • The chromosomes are added to an unfertilised donor egg which has
+                  healthy mitochondrial DNA
+             •  This fused egg is fertilised in vitro
+             • The egg develops normally to form an embryo
+             • TRANSFER THE CHROMOSOMES INTO CLEAN MITOCHONDRIA
+              CELLS TO BE FERTILISED
+
+             Pronuclear transfer
+
+             • The egg with mutated mitochondrial DNA is fertilised in vitro
+             • The resulting pronucleus is removed
+             • The pronucleus is transferred to a normal egg cell with healthy
+                  mitochondrial DNA and has had its pronucleus removed
+             • The fused egg develops normally
+             • TRANSFER THE FERTILISED PRONUCLEI OUT OF CELLS INTO CLEAN
+              CELLS TO CONTINUE DEVELOPMENT
+             •  i.e either take chromosomes out and fertilise them in a clean cell. or
+                      fertilise the cells first and transfer the pronucleus into the clean cell
+                    after
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-9-Emerging-Treatments-cfbf2dc4a6e44c7dad571420d3cf877b                                                            5/7
+
+===== PAGE 6 =====
+
+18/07/2026, 22:21                                                                  5.9 Emerging Treatments
+
+
+
+          When is gene silencing used?
+             •  Against dominant diseases that result in a “gain-of-function”
+               phenotype
+
+           What are oligonucleotide base treatments used for?
+             • Gene silencing
+                 ◦  This can be in dominant diseases (gain-of-function
+                        specifically), recessive diseases, and non-genetic diseases.
+
+             Describe how an antisense oligonucleotide works.
+             • An antisense oligonucleotide works by binding onto its target region
+                  of mRNA during protein synthesis and preventing translation into
+                 proteins
+                 ◦ The mRNA can also be destroyed once the antisense
+                      oligonucleotide (ASO) has bound to it
+                 ◦ The ASO will also typically bind to the site of pathogenesis
+             •   It can also alter splicing
+         How does siRNA (RNAi) work?
+             •   It binds to target RNA and because it is double-stranded, cleaves it,
+              and prevents it from functioning.
+             •  This prevents protein production via this gene region
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-9-Emerging-Treatments-cfbf2dc4a6e44c7dad571420d3cf877b                                                            6/7
+
+===== PAGE 7 =====
+
+18/07/2026, 22:21                                                                  5.9 Emerging Treatments
+
+
+
+           What is the difference between an antisense oligonucleotide and RNAi
+             (siRNA)?
+             • An antisense oligonucleotide is single-stranded
+             • siRNA is double-stranded
+           What is viral gene therapy?
+             •   It is a technique that can be used to engineer viruses to carry
+                 therapeutic genes to help patients produce proteins they may lack
+
+              Explain how viral gene therapy works.
+             •  Modified DNA is injected into a vector
+             •  Vector is taken into the host cell via endocytosis and is released
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-9-Emerging-Treatments-cfbf2dc4a6e44c7dad571420d3cf877b                                                            7/7

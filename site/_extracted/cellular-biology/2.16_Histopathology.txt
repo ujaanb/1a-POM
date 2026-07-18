@@ -1,0 +1,234 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:03                                                                 2.16 Histopathology
+
+    2.16 Histopathology
+
+           What is the difference between a histopathologist and a cytopathologist?
+             • A histopathologist specialises in tissues
+             • A cytopathologist focuses on cells.
+           What are the four main types of tissue samples that a histopathologist
+             analyses?
+             •  Biopsies
+             •  Frozen section
+             •  Resection specimen
+             •  Post mortems
+                 ◦  These samples are often taken in real-time and upon real-time
+                    examination they can inform the surgical process
+
+           What is a biopsy?
+             • A biopsy, put simply, is a small section of tissue that has been taken
+               from a patient.
+
+          When is a biopsy used?
+             •  They can be used to determine whether tissue is inflamed, normal,
+               cancerous etc.
+                 ◦  i.e what exactly is wrong with this tissue?
+           What is the name of the solution biopsies are commonly placed in?
+             •  Formalin solution.
+           What is the role of this solution?
+             •  Formalin is used to cross-link proteins and fix the biopsy tissue
+         How long does it take to process a biopsy?
+             •  Biopsies are processed in 2-3 days
+           What is the purpose of paraffin wax in biopsy preparation?
+             •  To allow very thin sections to be extracted using a microtome
+           What is a resection specimen?
+             • A resection specimen is a part of tissue that has been removed via a
+                  surgical procedure and can be processed in the same way as a biopsy
+                 ◦  Similar to biospy, but the tissue is taken as part of a surgical
+                   procedure
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-16-Histopathology-5e248ec8c3f64ab8a9a8267dbc713578                                                                1/7
+
+===== PAGE 2 =====
+
+18/07/2026, 22:03                                                                 2.16 Histopathology
+
+
+
+          When is a resection specimen used?
+             •  They can be used to determine the stage at which the disease is at
+                        (i.e has the cancer spread to lymph nodes?)
+
+         How long does it take to process a resection specimen?
+             •  Resection specimen are processed in 5-7 days
+           What is a frozen section?
+             •  Frozen sections are samples taken during surgical procedures that
+                 are examined during real time
+             • The freshly taken tissue is frozen and stained but no preservatives
+                      (i.e formalin) are added
+
+           What is the name of the device used to freeze a frozen section?
+             • A cryostat
+          When is a frozen section used?
+             •  Frozen sections are used to determine the different types of tissue
+                present
+                 ◦  i.e Is it cancerous? Is there another pathological process
+                    ongoing? etc.
+
+         How long does it take to process a frozen section?
+             •  Frozen sections are processed in 30 minutes
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-16-Histopathology-5e248ec8c3f64ab8a9a8267dbc713578                                                                2/7
+
+===== PAGE 3 =====
+
+18/07/2026, 22:03                                                                 2.16 Histopathology
+
+
+
+         How are smears used in cytopathology?
+             • The section is spread over a microscope slide and viewed under a
+               microscope
+             •  Sometimes, a stain is used to help visualise the cells
+                 ◦   it’s like what we do in practicals
+
+
+
+
+
+           What is a fine needle aspirate?
+             • A cytopathology technique that uses a fine needle to penetrate
+                  tissue and obtain a sample that can be viewed under a microscope
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-16-Histopathology-5e248ec8c3f64ab8a9a8267dbc713578                                                                3/7
+
+===== PAGE 4 =====
+
+18/07/2026, 22:03                                                                 2.16 Histopathology
+
+
+
+              Recall an advantage of using a fine needle aspirate.
+             •   It can penetrate relatively inaccessible tissues
+                 ◦  i.e thyroid nodule
+
+
+
+
+
+              Recall a disadvantage of using a fine needle aspirate.
+             •   It looks at cells in isolation - there is no information on tissue
+                 architechture.
+                 ◦  This is unlike smears, which can be used to assess environments
+           Where on an antibody is a conjugate normally added?
+             •  Fc region
+
+
+
+
+
+           What is an antibody conjugate?
+             •  Another molecule that is added to an antibody to help us carry an
+                   alternative purpose
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-16-Histopathology-5e248ec8c3f64ab8a9a8267dbc713578                                                                4/7
+
+===== PAGE 5 =====
+
+18/07/2026, 22:03                                                                 2.16 Histopathology
+
+
+
+         How are antibody conjugates useful?
+             •  Antibody conjugates can be useful tools in telling us how much
+                 antigen is present in a patient’s serum, to deliver chemicals to specific
+                 areas in the body etc.
+             • By binding different molecules to antibodies, we can accomplish
+                    different things.
+
+             Describe four antibody conjugates.
+             • Enzymes - the colourless enzyme substrate is added, and the level
+                 of coloured product informs us how much antibody is present in the
+               serum
+             •  Fluorescent probes - allows the rapid measurement of molecule
+                  levels within samples.
+             •  Magnetic beads - used to purify cell types (attract specific cells and
+              remove them)
+             • Drugs - delivered to specific cell types by binding onto antibody for
+                   that cell type. Can be paired with cytotoxic agents to kill bad cells.
+                 ◦  i.e emtansine which kills HER2 (protein seen in breast cancer)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-16-Histopathology-5e248ec8c3f64ab8a9a8267dbc713578                                                                5/7
+
+===== PAGE 6 =====
+
+18/07/2026, 22:03                                                                 2.16 Histopathology
+
+
+
+           What are the two ways that antibodies can be used to detect other
+            molecules (i.e proteins, lipids, carbohydrates)?
+             •  Direct detection - antibody is labelled and detects an antigen
+                   directly
+                 ◦ The labelled antibody is known as the primary antibody
+             •  Indirect detection - One antibody detects an antigen. Another
+                antibody is labelled and detects this bound antibody
+                 ◦ The labelled antibody is known as the secondary antibody
+
+
+
+
+
+              Recall two uses of manufactured antibodies in this way clinically.
+             •  Blood group serology - determination of blood groups based on
+                 antigens present in blood
+             • Immunoassays - detection of hormones, circulating
+                 antibodies/antigens
+             •  Immunodiagnosis
+                 ◦  In infectious diseases, seeing which antigens are present helps us
+                    diagnose disease (i.e HIV)
+                 ◦  Antibody levels - high antibody levels can be a sign of myeloma
+                 ◦  IgE - in response to allergy
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-16-Histopathology-5e248ec8c3f64ab8a9a8267dbc713578                                                                6/7
+
+===== PAGE 7 =====
+
+18/07/2026, 22:03                                                                 2.16 Histopathology
+
+
+
+             Describe how ELISA can be used to determine the concentration of
+              antigens/antibodies in a sample.
+             •  Antigens are present in a sample
+             •  Antibodies are added to the sample, and bind to these antigens
+             • Enzymes are linked to the antibodies
+                 ◦ Unbound antibodies are washed away
+             •  Colourless substrates are added to the sample, so the enzyme can
+               break it down and make a coloured product
+             • The absorbance of the solution is measured, and using the Beer-
+               Lambert Law, concentration of the antibodies and hence antigens
+                are measured.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-16-Histopathology-5e248ec8c3f64ab8a9a8267dbc713578                                                                7/7

@@ -1,0 +1,140 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 21:50                                                                    2.4 Creatine Kinase
+
+    2.4 Creatine Kinase
+
+           What is the main role of creatine kinase?
+             •  To catalyse the phosphorylation of ADP to ATP via the breakdown of
+                  creatine phosphate.
+
+             Describe the structure of a creatine kinase isoenzyme.
+             •   It is a dimeric structure which consists of two subunits from M or B.
+           What are the three main creatine kinase isoenzyme forms?
+             • MB, MM, BB
+           Where are they found?
+             • BM - cardiac muscle
+             • BB - brain
+             • MM - skeletal muscle
+           What is a special consideration regarding one of the dimeric isoenzymes?
+             • MB is only found in heart muscle cells.
+           What is a coupled enzyme assay?
+             •   It is a test where you measure the activity of an enzyme
+             •  You do this by coupling the enzyme to another one, allowing a series of
+                  reactions to proceed and measuring a product in one of these
+                 reactions to indirectly determine the initial enzyme’s activity
+
+
+
+
+
+         How does measuring levels of different isoforms of creatine kinase help us?
+             •   It can help us to understand where exactly muscle activity is taking
+                 place in the body (i.e in brain, muscle or heart muscle).
+
+           What is the isoelectric point?
+             • The pH at which the charge on a molecule is neutral.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-4-Creatine-Kinase-6d0d3c64225f49db8f850c55bff3d7e7                                                                 1/4
+
+===== PAGE 2 =====
+
+18/07/2026, 21:50                                                                    2.4 Creatine Kinase
+
+
+
+           What is a myocardial infarct, and what causes it?
+             • The death of heart muscle cells, caused by a lack of oxygen, often
+               caused by atherosclerosis
+
+         How does a lack of oxygen lead to cell death?
+             • A lack of oxygen means that oxidative phosphorylation cannot take
+                place and so ATP is not produced in the final step of aerobic
+                   respiration
+             •  This leads to malfunction of vital cellular components such as protein
+             pumps which are crucial to maintaining ion concentrations across
+                     cell membranes (i.e sodium-potassium pump)
+             •  This poor regulation can lead to cell death if ions are imbalanced and
+                    this leads to cells bursting too in a process called lysis
+                 ◦  Cell shrinkage can also lead to cell death
+           What can be measured as an indicator for cell death?
+             •  Levels of certain intracellular proteins (i.e creatine kinase, lactate
+                dehydrogenase)
+             •  Abnormally high levels of these proteins outside cells could indicate
+                 high levels of cell lysis
+
+           What assumption does the statement “the volume of cardiac muscle cell
+            (myocyte) death can be measured by the amount of BM Creatine Kinase
+            Isomer present in the serum” lie on?
+             •  That each myocyte releases an equal amount of creatine kinase
+              when it dies (independent of size)
+
+           What laboratory technique can be used to identify different creatine kinase
+             isoforms and why?
+             •  Gel electrophoresis
+             •  This is because they separate subjects on the basis of charge or
+                molecular weight
+             •  All three isoforms of creatine kinase have different isoelectric points
+               and so will be separated on the basis of charge.
+
+           What three markers can be used as an indication of myocardial infarction?
+             • Serum glutamate oxaloacetate transaminase (SGOT)
+             •  lactate dehydrogenase (LDH)
+             •  Cardiac troponin
+             •  Obviously MB Creatine Kinase.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-4-Creatine-Kinase-6d0d3c64225f49db8f850c55bff3d7e7                                                                 2/4
+
+===== PAGE 3 =====
+
+18/07/2026, 21:50                                                                    2.4 Creatine Kinase
+
+
+
+           What is an immunoassay?
+             •  This is a molecular technique that utilises antibodies to bind onto
+                  specific molecules, that change colour after binding and can be
+              measured
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-4-Creatine-Kinase-6d0d3c64225f49db8f850c55bff3d7e7                                                                 3/4
+
+===== PAGE 4 =====
+
+18/07/2026, 21:50                                                                    2.4 Creatine Kinase
+
+
+
+             Describe how an immunoassay can be used in measuring serum levels of
+              creatine kinase (CK).
+             • A blood/serum sample can be obtained from the patient
+             •  This sample can be mixed with labelled CK that changes colour
+             when bound to the antibodies and it also has native antibodies
+             • The level of binding by the labelled CK can be measured using the
+                 colour saturation produced by this CK binding to antibodies
+             •  Then, using a standard curve we can assess serum levels of CK by
+                 converting saturation to serum CK levels. The lower the colour
+                  saturation, the higher the levels of native CK are.
+                 ◦  This is because native CK is unlabelled, hence if there is a
+                    higher level of native CK, there will be less labelled CK able to
+                    bind to antibodies and change colour due to increased
+                    competition for the antibodies
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-4-Creatine-Kinase-6d0d3c64225f49db8f850c55bff3d7e7                                                                 4/4

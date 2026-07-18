@@ -1,0 +1,218 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:20                                                         5.3 Complex Disease and Pharmacogenetics
+
+    5.3 Complex Disease and
+   Pharmacogenetics
+
+           What is a Mendelian trait?
+             • A trait that is controlled by a single gene. Put simply, it is not a
+               complex trait.
+             •  i.e eye colour
+           What is a complex trait?
+             • A trait that is controlled by multiple genes + the effect of the
+               environment.
+             •  i.e height, weight, intelligence, blood pressure.
+         Why is sickle cell disease thought to be more prevalent amongst those of
+             Afro-Carribean descent?
+             • The sickle cell phenotype was thought to have given protection
+                  against malaria.
+
+           What does the term heritability describe?
+             •   It describes the level of contribution that genetics has to any one
+                given phenotype.
+                 ◦  i.e 0% genetic to 100% genetic
+                 ◦  Most phenotypes fall somewhere in between this scale.
+           What is the difference between monozygotic and dizygotic twins?
+             •  Monozygotic twins arise from the fertilisation of one egg by one
+                sperm, and this zygote splitting into two
+                 ◦  These are identical twins as they have the same genomes.
+             •  Dizygotic twins arise from the fertilisation of two eggs by two sperms,
+                   resulting in the formation of two zygotes
+                 ◦   It is effectively the same as having two siblings who are born at
+                    the same time instead of a couple of years apart.
+                 ◦  These twins are described as fraternal twins.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-3-Complex-Disease-and-Pharmacogenetics-408186534458481e930bef712b798f3c                                         1/6
+
+===== PAGE 2 =====
+
+18/07/2026, 22:20                                                         5.3 Complex Disease and Pharmacogenetics
+
+
+
+         How are twin studies used to estimate heritability?
+             •  Phenotypes are observed in both monozygotic and dizygotic twins
+             • The difference in phenotypic expression between monozygotic
+                twins (who have the same genome) as well as dizygotic twins is
+                observed and then we can estimate heritability
+                 ◦  i.e if a trait is identical in monozygotic but not in dizygotic twins,
+                    then we can estimate that heritability of this trait is pretty high
+
+            Diagram showing how the heritability of different traits are measured using
+             twin studies.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-3-Complex-Disease-and-Pharmacogenetics-408186534458481e930bef712b798f3c                                         2/6
+
+===== PAGE 3 =====
+
+18/07/2026, 22:20                                                         5.3 Complex Disease and Pharmacogenetics
+
+
+
+           Which big underlying assumption may undermine the validity of twin study
+              results?
+             •  That the environmental differences between the two sets of twins
+                are identical
+             •  There are so many environmental differences between the two sets of
+                 twins that it is almost impossible to account for this in the studies.
+
+           What is the most common type of mutation in the human genome?
+             •  Single Nucleotide Polymorphisms (SNPs)
+                 ◦  Each SNP represents a difference in a single DNA building block,
+                       called a nucleotide
+
+         How do association studies work?
+             •  They work by analysing the concordance between a particular SNP
+                 (mutation) and risk of a disease
+             • A group of controls (people without the disease) and sufferers are
+               assembled
+             • We then look for the level of correlation between the type of SNPs
+                 present in the population and how frequently these SNPs cause
+                disease phenotypes.
+
+             Describe how the genetic causes of aggression were studied using
+              association studies.
+             •  There was an X-linked mutation noticed in the gene coding for
+              monoamine oxidase (MAOA)
+             •  This mutation led to monoamines such as adrenaline, noradrenaline,
+                  serotonin, dopamine not being metabolised
+             • The presence of the mutation was associated with aggressive
+                 behaviour in carriers of the mutation
+
+         Why are association studies limited?
+             •  Because there is such a great focus on specific mutations having
+                   specific effects, we may miss out something else that could be a
+                 causative factor
+             •  There is also significant bias to causative factors that we know of (i.e
+                  there may be a causative factor that science hasn’t discovered yet,
+                   that is actually responsible for phenotypic changes)
+             •  Correlation does not equal causation
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-3-Complex-Disease-and-Pharmacogenetics-408186534458481e930bef712b798f3c                                         3/6
+
+===== PAGE 4 =====
+
+18/07/2026, 22:20                                                         5.3 Complex Disease and Pharmacogenetics
+
+
+
+           What are genome-wide association studies (GWAS)?
+             •   It is a hypothesis-free study used to identify as many SNPs as possible
+                   within a wider section of the genome
+             •  i.e there is no hypothesis (X causes Y), but we are simply trying to find
+                         all the different SNPs in the genome which may suggest causation
+
+
+
+
+
+              Recall two benefits of GWAS over association studies.
+             •  They aren’t limited to what we know - we may discover more
+                  biological mechanisms
+             • We can identify individuals at risk of certain conditions due to the
+                presence of particular SNPs.
+
+              Recall two limitations of GWAS.
+             •   It doesn’t identify causal relationships between SNPs and phenotypes.
+             •   It doesn’t account for environmental changes to the genome
+                 (epigenetics)
+             •   It can be hard to predict heritability.
+             • The threshold set may also mean we miss out on identifying very rare
+              SNPs
+
+           What can whole genome sequencing (WGS) give us over GWAS?
+             • WGS allows us to analyse the entire genome which helps us to
+                   identify every SNP
+
+           What does the term pharmacogenetics refer to?
+             • The study of variability in responses to drugs as a result of genetic
+                 differences
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-3-Complex-Disease-and-Pharmacogenetics-408186534458481e930bef712b798f3c                                         4/6
+
+===== PAGE 5 =====
+
+18/07/2026, 22:20                                                         5.3 Complex Disease and Pharmacogenetics
+
+
+
+           Image showing how drugs can affect people in different ways.
+
+
+
+
+
+           What does the term pharmacokinetics refer to?
+             •   It describes the how the body acts on a particular drug
+
+
+
+
+
+             Describe how mutations in proteins involved in drug absorption can lead to
+            adverse effects.
+             •   It can lead to unusually high or low levels of the drug accumulating
+                   in the blood which means that doses that are usually of the right level
+                     in normal people, become all of a sudden too high or low in these
+                    individuals.
+                 ◦ The effects can be mitigated by administering higher or lower
+                   doses of said drug.
+                 ◦  i.e mutations in absorption proteins in the duodenum affecting
+                   drug absorption
+             • SNPs can lead to changes in enzyme activity which can alter the
+                  activation/inactivation of different drugs after consumption
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-3-Complex-Disease-and-Pharmacogenetics-408186534458481e930bef712b798f3c                                         5/6
+
+===== PAGE 6 =====
+
+18/07/2026, 22:20                                                         5.3 Complex Disease and Pharmacogenetics
+
+
+
+           What is a prodrug?
+             • A drug that doesn’t actually have a direct effect on the user itself,
+                 but is instead metabolised to another substance which can have the
+                desired effect.
+             •  i.e codeine is a prodrug that is metabolised to morphine.
+         Why is codeine used instead of morphine directly?
+             •  Codeine has less depressive and sedative side effects
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-3-Complex-Disease-and-Pharmacogenetics-408186534458481e930bef712b798f3c                                         6/6

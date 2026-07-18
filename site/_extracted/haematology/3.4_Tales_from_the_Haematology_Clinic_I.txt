@@ -1,0 +1,394 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+    3.4 Tales from the
+   Haematology Clinic I
+
+           What is anaemia?
+             •  Anaemia is a reduction in the amount of haemoglobin in a given
+               volume of blood below what would be expected in comparison with a
+                  healthy subject of the same age and gender
+             •  Reduction in haemoglobin concentration
+           What other visual characteristic is usually associated with microcytic
+             erythrocytes?
+             •  They are hypochromic (pale)
+         Why is this the case?
+             • The microcytic cells usually have less haemoglobin and so are less red
+                 than normal erythrocytes
+             • The central pallor of the microcytic cells is also typically much
+                  larger (more than the typical 1/3 of area) and so this leads to a paler
+                     cell that has less haemoglobin
+
+           What is a clinical sign seen in patients with low iron?
+             •  Fatigue
+             •  Dizziness
+           What is ferritin?
+             •  Ferritin is a protein that is used to store iron
+                 ◦   It can be tested for when you want to do a test for iron levels
+           What are the three common causes of iron deficiency anaemia?
+             •  Increased blood loss
+             •  Insufficient iron intake
+             •  Increased iron requirements (i.e pregnancy)
+         How can low iron be treated?
+             •  Iron replacement therapy
+                 ◦  i.e Ferrous sulphate tablets
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                          1/11
+
+===== PAGE 2 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+           What is beta-thalassaemia?
+             •  Beta-thalassaemia is an autosomal recessive disorder which affects
+                the blood
+
+           What happens in beta-thalassaemia?
+             •  In normal individuals, the globin protein of haemoglobin consists of
+              two alpha and two beta chains
+                 ◦  This forms HbA
+             •  In individuals with beta-thalassaemia, the globin protein of
+                haemoglobin consists of two alpha and two delta chains
+                 ◦  This forms HbA2
+              Recall two common Full Blood Count characteristics seen in iron deficiency
+           and beta-thalassaemia.
+             •  Both will cause a decrease in mean cell volume (MCV)
+             •  Both will cause a decrease in mean cell haemoglobin (albeit for
+                    different reasons)
+
+              Recall three ways you can distinguish between iron deficiency and beta-
+             thalassaemia.
+             •  Iron deficiency will lead to low ferritin, beta-thalassaemia will not
+             •  Iron deficiency will cause lower total Haemoglobin (Hb), beta-
+                 thalassaemia will not
+             •  Beta-thalassaemia will cause a higher RBC count, iron deficiency will
+               cause a lower RBC count
+             •  Beta-thalassaemia has HbA2, iron deficiency does not
+                 ◦  Alpha-thalassaemia however, has normal HbA
+           Image showing differences between iron deficiency and thalassaemia trait.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                          2/11
+
+===== PAGE 3 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+           What is transferrin?
+             • A protein produced by the liver that regulates iron absorption into the
+                blood
+
+           What causes changes in transferrin levels?
+             •  High iron levels indicate low transferrin levels
+             • Low iron levels indicate high transferrin levels
+           What could cause a defect in haem synthesis?
+             •  Iron deficiencies
+           What is the name given to the reduced synthesis of globin?
+             •  Thalassaemia
+             •  Beta-thalassaemia is when you have less beta chains of globin, and so
+                haemoglobin synthesis is impaired
+                 ◦ The alpha chains then combine with delta chains to compensate
+                        for this lack
+
+         How is vitamin B12 absorbed in the body?
+             •  Vitamin B12 combines with intrinsic factor made in the gastric parietal
+                   cells to form B12-IF
+             •  B12-IF then binds to receptors in the ileum
+              Recall three causes of vitamin B12 deficiency.
+             •  Inadequate intake
+             •  Malabsorption (i.e Coeliac disease)
+             •  Inadequate secretion of intrinsic factor (pernicious anaemia)
+             •  Lack of hydrochloric acid in the stomach (achlorhydria)
+           What is a symptom associated with vitamin B12 deficiency?
+             •  Pins and needles
+             •  Fatigue (seen in all anaemia)
+             •  Vitamin B12 and folate is required for the essential functioning of the
+                  central nervous system (CNS)
+
+         How do sickle cells form?
+             •  They result from the polymerisation of Haemoglobin S, which is less
+                  soluble than haemoglobin A
+                 ◦  Only happens in deoxyhaemoglobin
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                          3/11
+
+===== PAGE 4 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+         How is haemoglobin S formed?
+             •  Haemoglobin S is formed when one or more copies of an abnormal
+                 beta-globin chain are inherited
+
+           What is polychromasia?
+             •   It is when there is an increased blue ‘tinge’ to an erythrocyte
+                 (polychromasia - many colours)
+             •   It indicates that the red cell is young and reflects increased
+                  erythropoeisis as a result of haemolysis
+
+           What is another special consideration about polychromatic cells?
+             • The cells are typically larger than normal red blood cells.
+           What are target cells?
+             •  Erythrocytes with an accumulation of haemoglobin in the central
+                    pallor.
+                 ◦  i.e they have a “target” in the middle due to this haemoglobin
+
+
+
+
+
+             Describe the mutation that occurs in erythrocytes that leads to sickle cell
+            anaemia.
+             • A negatively charged glutamate residue is replaced by an uncharged
+                  valine residue at position 6 on the beta-globin chain
+             •  This makes the (haemo)globin more hydrophobic, and hence sticky.
+           Where does this mutation occur?
+             • On the beta-globin chain
+           What two medications do patients with sickle cell disease need to take?
+             •  Penicillin V
+             •  Folic acid
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                          4/11
+
+===== PAGE 5 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+         Why do people with sickle cell anaemia need to take Penicillin V?
+             •  Patients with HbSS are functionally hyposplenic due to infarction of
+                 the spleen,
+                  usually by the age of 5 years. This puts them at increased risk of
+                  infections by encapsulated bacteria.
+                 ◦ The spleen is involved in immune defence
+             •  To reduce this risk they require vaccination against and to take daily
+                 prophylactic (preventative) antibiotics
+
+         Why do people with sickle cell anaemia need to take folic acid?
+             •  In haemolytic anaemias such as HbSS the increased red blood cell
+                 turnover and
+                 production increases the folic acid requirement.
+                 ◦  Folic acid is required for erythropoiesis
+           What is a megaloblast?
+             • An abnormal erythroblast that is larger than normal.
+           What is megaloblastic anaemia?
+             •  Anaemia that is caused by vitamin B12/folic acid deficiencies
+           What is haemolytic anaemia?
+             • A condition where red blood cells are destroyed at a much faster
+                  rate than they are replaced.
+
+           What is a reticulocyte?
+             • An immature blood cell that can develop into a mature one
+                  (erythrocyte)
+             •  Levels can increase with red cell production, as more erythrocytes are
+                being developed.
+
+           What is reticulocytosis and how is it caused?
+             •   It is an increased number of reticulocytes
+             •   It may be due to increased bleeding or erythrocyte destruction
+                 (haemolysis)
+
+           What is a poikilocyte?
+             • A red blood cell that has an abnormal shape.
+           What is the distinct property of Haemoglobin S that impairs its function?
+             •   It has a much lower affinity for oxygen than haemoglobin A
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                          5/11
+
+===== PAGE 6 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+           What are Howell Jolly Bodies?
+             • Remnants of DNA from nuclei that haven’t been fully expelled by
+                 erythroblasts during their maturation in the bone marrow
+
+             Describe the pathophysiology of sickle cell disease.
+             •  Deoxyhaemoglobin is present when O2 has been released from
+               haemoglobin to tissues
+                 ◦  Gets worse in states of hypoxia, such as exercise
+             •  This causes polymerisation of HbSS within red blood cells, leading to
+                    “sickle cells” forming
+             •  This causes increased intravascular haemolysis and vaso-occlusion
+             •  Severe intravascular haemolysis can lead to anaemia, gallstones,
+                  jaundice and folic acid deficiency
+             •  Vaso-occlusion can lead to infarctions of various tissue such as brain,
+                  spleen, kidney, bone, retina and lung
+
+
+
+
+
+           What effect does hookworm have on sufferers?
+             •   It is an infection that feeds on the blood, hence reducing blood levels.
+           What is haemoglobin A2?
+             •   It is an abnormal form of adult haemoglobin that typically forms in
+                   larger amounts in thalassaemia sufferers.
+
+           What is hepcidin?
+             • A protein that is used to regulate iron levels in the body.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                          6/11
+
+===== PAGE 7 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+          When are hepcidin levels increased/reduced?
+             •  Increases in iron levels in the plasma and iron storage stimulate the
+                production and release of hepcidin from hepatocytes
+             •  This blocks further iron absorption from the diet and its further
+                storage in the small intestine
+             • When there is a need for erythropoiesis, hepcidin levels are reduced
+               and iron absorption is increased into these cells.
+
+             Describe the mechanism through which hepcidin works to inhibit iron
+              absorption.
+             •  Hepcidin binds to its receptor ferroportin, which prevents the efflux
+                 of iron from duodenal enterocytes (intestinal cells) into the blood
+                    after absorption from the small intestine
+                 ◦ The enterocytes eventually die and the iron is lost into the gut
+                  lumen and not absorbed into the blood
+
+         How many genes do we have that code for alpha globin?
+             •  Four
+               In alpha thalassaemia, what is the silent carrier state?
+             • An individual with one abnormal alpha globin gene is said to be a
+                   silent carrier of alpha thalassemia
+             •  They will typically not have any health problems
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                          7/11
+
+===== PAGE 8 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+               In alpha thalassaemia, what is the thalassaemia trait?
+             • An individual with two abnormal alpha globin genes is said to have
+                thalassaemia trait
+             •  They can either have the cis trait, on the same chromosome, or the
+                  trans trait, on different chromosomes
+
+
+
+
+
+               In alpha thalassaemia, what is Haemoglobin H disease?
+             • An individual with three abnormal alpha globin genes is said to have
+               Haemoglobin H disease
+             •  This can result in splenomegaly, bone deformities and fatigue
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                          8/11
+
+===== PAGE 9 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+               In alpha thalassaemia, what is the hydrops fetalis/alpha thalassaemia major?
+             • An individual with all four abnormal alpha globin genes is said to have
+               hydrops fetalis
+             •  Most individuals with this condition die shortly after birth
+
+
+
+
+
+         How many genes do we have that code for beta globin?
+             • Two.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                          9/11
+
+===== PAGE 10 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+           What are the two types of beta thalassaemia?
+             •  Beta thalassaemia trait/minor where no real health problems are
+                experienced
+             •  Beta thalassaemia major (Cooley’s anaemia) where the lack of beta-
+                  globin causes a life-threatening anaemia and haemoglobin function is
+                  greatly impaired
+
+
+
+
+
+           What is haemoglobin E trait?
+             •  This is a mutant form of beta-globin
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                        10/11
+
+===== PAGE 11 =====
+
+18/07/2026, 22:06                                                          3.4 Tales from the Haematology Clinic I
+
+
+
+           What is E beta thalassaemia?
+             • When combined with the beta-thalassaemia trait
+             •  This leads to E beta thalassaemia
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-4-Tales-from-the-Haematology-Clinic-I-baebf1218ef84968a28d504190c17229                                         11/11

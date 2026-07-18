@@ -1,0 +1,270 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:03                                                                2.14 Enzyme Kinetics
+
+    2.14 Enzyme Kinetics
+
+           What is the role of enzymes in our bodies?
+             •  To act as catalysts, ensuring that the many biochemical reactions
+                  taking place in our body do so at a rate that can support life.
+
+           What is Michaelis constant (Km)?
+             • The concentration of substrate which allows an enzyme to function at
+                    half its maximal rate
+             •   It can be used to compare relative enzyme activity
+           What is Vmax?
+             • Vmax of enzyme is the maximum rate of reaction
+                 ◦ Maximum rate of substrate processing by enzymes
+
+
+
+
+
+           What is the purpose of a reaction buffer?
+             • The buffer maintains the pH of the reaction mixture and supplies
+               potassium (K+) or ammonium (NH4+) ions for optimal enzyme
+                   activity
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-14-Enzyme-Kinetics-547fa7270cbb440584be3165773bbf0e                                                              1/8
+
+===== PAGE 2 =====
+
+18/07/2026, 22:03                                                                2.14 Enzyme Kinetics
+
+
+
+             Describe the steps involved to set up this practical used to determine Km
+           and Vmax of chymotrypsin.
+             • Add relevant volume of reaction buffer to cuvette using pipette
+             • Add relevant volume of GPNA stock solution (substrate) to cuvette
+                 using pipette
+             •  Mix together with thumb placed on top of the cuvette opening
+             •  Place the cuvette in the spectrophotometer, calibrating so the
+               absorbance reads zero
+             • Add relevant volume of enzyme to cuvette using pipette
+             •  Place cuvette in spectrophotometer immediately, starting a timer
+               and measuring absorbance at time intervals
+             •  Vary the concentrations of the GPNA stock solution in order to
+               assess the enzyme activity at different substrate concentrations
+                 ◦ Keep the enzyme concentration constant at all GPNA
+                     concentrations
+                 ◦ NOTE: As you decrease the volume of GPNA, you must increase
+                    the volume of buffer solution being added to the cuvette
+
+           What is the general purpose of spectrophotometry?
+             •  To measure the concentration of a solution
+             • Absorbance is measured, and using the Beer-Lambert Law,
+                concentrations can be obtained
+
+                                                   ℓ where                 ◦  Beer Lambert Law = A = E × c ×
+                     ▪ A = absorbance
+                     ▪ E = extinction coefficient (8.8)
+                     ▪ c = concentration of absorbing solution
+                         ℓ = path length (length of cuvette, not wavelength)                     ▪
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-14-Enzyme-Kinetics-547fa7270cbb440584be3165773bbf0e                                                              2/8
+
+===== PAGE 3 =====
+
+18/07/2026, 22:03                                                                2.14 Enzyme Kinetics
+
+
+
+             Describe how the Beer-Lambert Law can be used experimentally to interpret
+             the results of this practical.
+
+                                               ℓ where             •  Beer Lambert Law = A = E × c ×
+                 ◦ A = absorbance
+                 ◦ E = extinction coefficient (8.8)
+                 ◦ c = concentration of absorbing solution
+                     ℓ = path length (length of cuvette, not wavelength)                 ◦
+             •  Concentration is the only variable in this equation, and this changes
+               depending on the activity of the enzyme in solution and production
+                 of p-nitroalanine (product). Hence, the greater the enzyme activity,
+                 the greater the concentration and hence absorbance on the
+                spectrophotometer will read.
+             • Absorbance is converted to concentration using the Beer-Lambert
+              Law
+             • A graph can be plot of concentration against time, and then, a
+                  reciprocal graph of initial rate of reaction against different substrate
+                concentrations can be plot to obtain Km and Vmax
+
+           What is chymotrypsin?
+             •  Serine protease found in the digestive system of mammals.
+             Describe the structure of chymotrypsin.
+             •  Arranged in three peptide chains (A, B and C) linked by disulphide
+                bridges
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-14-Enzyme-Kinetics-547fa7270cbb440584be3165773bbf0e                                                              3/8
+
+===== PAGE 4 =====
+
+18/07/2026, 22:03                                                                2.14 Enzyme Kinetics
+
+
+
+           Image showing how chymotrypsin cleaves peptide bonds (hydrolysis).
+
+
+
+
+
+           What property on proteins does chymotrypsin show specificity for?
+             •  Bulky hydrophobic side chains (see below benzene)
+
+
+
+
+
+           What reaction are we measuring in this practical?
+             • Breakdown of GPNA into N-glutaryl-L-phenyl alanine and p-
+                   nitroaniline
+                 ◦ We are measuring p-nitroaniline in the spectrophotometer
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-14-Enzyme-Kinetics-547fa7270cbb440584be3165773bbf0e                                                              4/8
+
+===== PAGE 5 =====
+
+18/07/2026, 22:03                                                                2.14 Enzyme Kinetics
+
+
+
+         Why are we are measuring p-nitroaniline in the spectrophotometer?
+             • We are measuring p-nitroaniline in the spectrophotometer because it
+               produces a yellow colour, and hence absorbance
+                 ◦  This helps us to monitor product formation
+           What is V0?
+             •   Initial rate of reaction
+           What is Km?
+             • Km is known as Michaelis Constant and is defined as the
+                concentration of substrate at which a particular enzyme at a
+                  particular concentration works at half its maximal velocity.
+             •   It helps us to compare the relative strength of enzyme-substrate
+               complexes
+
+           What does a high/low Km show?
+             • A high Km shows typically weak binding between enzymes and
+                substrates and hence low enzymatic activity
+             • A low Km shows typically strong binding between enzymes and
+                substrates and hence high enzymatic activity
+
+           What is a Lineweaver-Burk plot?
+             • A double reciprocal plot used to determine Km and Vmax
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-14-Enzyme-Kinetics-547fa7270cbb440584be3165773bbf0e                                                              5/8
+
+===== PAGE 6 =====
+
+18/07/2026, 22:03                                                                2.14 Enzyme Kinetics
+
+
+
+             Describe how a Lineweaver-Burk plot helps us to determine Km and Vmax.
+             • The x-intercept = -1/Km
+             • The y-intercept = 1/Vmax
+             •  x-axis = 1/substrate concentration
+             •  y-axis = 1/initial rate of reaction
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-14-Enzyme-Kinetics-547fa7270cbb440584be3165773bbf0e                                                              6/8
+
+===== PAGE 7 =====
+
+18/07/2026, 22:03                                                                2.14 Enzyme Kinetics
+
+
+
+           Image showing how the Lineweaver-Burk plot can help us to calculate Km
+           and Vmax.
+             • The first figure is a regular rate of reaction against substrate
+                 concentration graph.
+             • The second figure shows a Lineweaver-Burk plot.
+
+
+
+
+
+             •  1 / V = 1 / initial rate of reaction (V for velocity)
+             •  1 / [S] = 1 / substrate concentration
+           What is the turnover number (Kcat) of an enzyme?
+             • The number of bonds that a single enzyme can cleave in a second
+                 ◦  i.e the number of molecules that a single enzyme can process in
+                  a given unit of time
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-14-Enzyme-Kinetics-547fa7270cbb440584be3165773bbf0e                                                              7/8
+
+===== PAGE 8 =====
+
+18/07/2026, 22:03                                                                2.14 Enzyme Kinetics
+
+
+
+         How can the turnover number (Kcat) of an enzyme be calculated?
+             •  Turnover number (Kcat) = Vmax / enzyme concentration
+                 ◦  This is because Vmax measures the maximum rate at which
+                   product formation occurs (and hence maximum rate at which
+                 enzyme acts on substrate) and enzyme concentration tells us
+                how many enzymes are involved this product formation
+
+           Which equation which relates the absorbance of a solute to its
+             concentration?
+
+                                               ℓ where             •  Beer Lambert Law = A = E × c ×
+                 ◦ A = absorbance
+                 ◦ E = extinction coefficient
+                 ◦ c = concentration of absorbing solution
+                     ℓ = path length                 ◦
+           What effect does a competitive antagonist (one that binds in or near the
+            enzyme’s active site) have on Km and Vmax?
+             •   It increases Km but has no effect on Vmax
+             •  This is because the enzyme’s function has not been affected, but the
+                  substrate concentration required to bind to a given concentration of
+              enzyme has increased as the enzyme’s affinity for the substrate has
+               decreased due to increased competition for the active site (hence
+                 the name competitive inhibitor)
+
+           What effect does a non-competitive antagonist have on Km and Vmax?
+             •  Non-competitive inhibitors have no effect on Km but act to lower
+             Vmax
+             •  This is because they induce conformational changes on the enzyme
+                which causes a reduction in the Vmax, but do not actually change
+                the affinity of substrate molecules binding to enzymes, so the same
+               amount of substrate is required to induce similar effects
+
+           Graph showing the effect that competitive antagonists have on Lineweaver-
+            Burk plots.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-14-Enzyme-Kinetics-547fa7270cbb440584be3165773bbf0e                                                              8/8

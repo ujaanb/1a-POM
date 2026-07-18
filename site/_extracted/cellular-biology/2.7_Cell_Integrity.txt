@@ -1,0 +1,301 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 21:51                                                                      2.7 Cell Integrity
+
+    2.7 Cell Integrity
+
+           What is the difference between hypoxia and anoxia?
+             •  Hypoxia is diminished oxygen levels
+             •  Anoxia is total oxygen lack
+           What is substrate-level phosphorylation?
+             •   It is the production of ATP by the transfer of a high-energy phosphate
+                group from one intermediate substrate to ADP
+
+             Give an example of substrate-level phosphorylation in glycolysis.
+             •  Step 7
+             •  1,3-bisphosphoglycerate —> 3-phosphoglycerate
+             • ADP + Pi —> ATP
+           Where in the mitochondria does the TCA Cycle occur?
+             •  Mitochondrial matrix
+           Where in the mitochondria does oxidative phosphorylation occur?
+             •  In the inner mitochondrial membrane.
+             • Numerous folds within the cristae increase the surface area where it
+               can take place.
+
+         Why does the reoxidation of FADH2 produce 2 molecules of ATP but NADH
+            produces 3?
+             • The electron transport chain has complexes/membrane proteins which
+                 are used to pump protons into the intermembrane space to generate
+              ATP via the action of ATP synthase
+             • FADH2 electrons enter at complex II in the electron transport chain,
+               and bypass complex I, one of the complexes that pump
+                aforementioned protons
+             •  This means that less ATP is synthesised via the reoxidation of
+             FADH2 as NADH electrons instead enter the chain at complex I as
+           NADH results in more H+ pumped into the intermembrane space
+
+           What is ubiquinone?
+             • An alternative name given to coenzyme Q (the key coenzyme
+                  required for procession of the electron transport chain)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-7-Cell-Integrity-2ca02282098f4f239ea8044d7a8932fe                                                                   1/8
+
+===== PAGE 2 =====
+
+18/07/2026, 21:51                                                                      2.7 Cell Integrity
+
+
+
+           What is succinate dehydrogenase?
+             •   It is an enzyme that is found in the inner mitochondrial membrane that
+             makes up complex II of the electron transport chain.
+             • NOTE: Each complex is actually an enzyme
+         How does succinate dehydrogenase perform its function?
+             •   It passes electrons directly to coenzyme Q (ubiquinone) via the
+                  action of cofactor FADH2
+             •  In the process, it also passes protons to coenzyme Q to form QH2
+            Diagram showing the electron transport chain.
+             • H+ from the cofactors enters the electron transport chain and is
+             pumped out into the intermembrane space by complexes I,III and IV.
+
+
+
+
+
+           What is a redox couple?
+             • A substrate that can exist in both oxidised and reduced forms (i.e
+              NAD+/NADH, FAD/FADH2)
+
+           What is reduction potential?
+             • The ability of a redox couple to accept or donate electrons.
+           What does a negative/positive redox potential mean?
+             •  Negative means the couple is more likely to donate electrons and has
+               a greater reducing power than hydrogen
+             •  Positive means the couple is more likely to accept electrons and has
+               a greater oxidising power than hydrogen
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-7-Cell-Integrity-2ca02282098f4f239ea8044d7a8932fe                                                                   2/8
+
+===== PAGE 3 =====
+
+18/07/2026, 21:51                                                                      2.7 Cell Integrity
+
+
+
+           What happens to electrons as they are pumped across the electron
+              transport chain?
+             •  They lose energy
+           Where does the energy go?
+             •  To be used to pump protons to the intermembrane space and form a
+                 concentration gradient across the inner membrane
+             •  This allows protons to move across the membrane, and energy from
+                   this movement is transferred to the F1 subunit of ATP synthase to
+             make ATP
+
+             Explanation of energy transfers occurring during oxidative phosphorylation.
+             •  Electrons move across electron carrier proteins (complexes) - this
+              movement generates energy
+             •  Energy is transferred to pump protons to the intermembrane space
+             •  Protons move down the electrochemical/concentration gradient, this
+                generates energy
+             •  This energy is transferred to the F1 subunit of ATP synthase to be
+              used in ATP production.
+
+           Where is ATP synthase located?
+             • On the inside of the inner mitochondrial membrane
+           What are the two portions that make up ATP synthase called?
+             • F0 (membrane bound) and F1 (projecting into matrix).
+
+
+
+
+
+           What smaller subunits make up these two portions respectively?
+             • F0 - a, b and c
+             •  F1 - alpha, beta and gamma
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-7-Cell-Integrity-2ca02282098f4f239ea8044d7a8932fe                                                                   3/8
+
+===== PAGE 4 =====
+
+18/07/2026, 21:51                                                                      2.7 Cell Integrity
+
+
+
+           What happens to ATP synthase when protons move into the mitochondrial
+             matrix?
+             • The F1 subunit starts to rotate.
+                 ◦  This is because the alpha, beta and gamma subunits have varying
+                           affinities for ADP, Pi and ATP subunits
+             •  Conformational energy then flows from the rotation of this catalytic
+                subunit (F1) and is transferred to ADP and Pi, allowing them to make
+             ATP
+             • The energy is ultimately converted to chemical energy which remains
+                 present in phosphoanhydride bonds of ATP.
+             •  This is chemiosmosis
+
+
+
+
+
+         How does ATP synthase decide whether to make or consume ATP?
+             •   It depends on the direction of proton flow across the inner
+                 mitochondrial membrane
+             •  Protons flowing from space to matrix will trigger the making of ATP
+             •  Protons flowing from matrix to space will trigger the consumption of
+                 ATP.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-7-Cell-Integrity-2ca02282098f4f239ea8044d7a8932fe                                                                   4/8
+
+===== PAGE 5 =====
+
+18/07/2026, 21:51                                                                      2.7 Cell Integrity
+
+
+
+           What is the purpose of the oxygen electrode?
+             •  To measure the concentration of oxygen within a solution
+                 ◦  This hence allows us to measure oxidative phosphorylation by
+                    monitoring the consumption of oxygen
+
+           Which metals are present at the cathode and anode?
+             •  Cathode - platinum
+             • Anode - silver
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-7-Cell-Integrity-2ca02282098f4f239ea8044d7a8932fe                                                                   5/8
+
+===== PAGE 6 =====
+
+18/07/2026, 21:51                                                                      2.7 Cell Integrity
+
+
+
+           What happens at the platinum cathode?
+             • O2 + 4H+ + 4e- → 2 H2O
+             • Oxygen is reduced to water
+           What happens at the silver anode?
+             • 4 Ag0 + 4Cl- → AgCl + 4e
+             •  This is to complete the circuit, so there is current running through it
+         How does the oxygen electrode allow us to measure the rate of oxidative
+             phosphorylation?
+             •   It is a device that allows us to measure oxygen levels in a solution
+             • By measuring the rate of oxygen consumption in mitochondria, we can
+               measure the rate of oxidative phosphorylation
+
+           What does respiratory control describe in oxidative phosphorylation?
+             •   It describes how ADP and inorganic phosphate control the rate of
+               oxygen consumption in oxidative phosphorylation
+             •  This allows the body to adjust the rate of oxygen consumption
+                 according to how much energy is required by the body
+
+         How is oxygen then reduced to water in oxidative phosphorylation?
+             • The e- from the electron transport chain and the H+ that move across
+                 the inner mitochondrial membrane are added to O2 to form water
+
+           What is a metabolic poison?
+             • A molecule that interrupts the movement of e- across the electron
+                  transport chain, or interrupts the movement of H+ across the inner
+              membrane to generate ATP
+             •  Both methods stop ATP from being synthesised which is their purpose.
+         How do cyanide (CN-) and azide act as metabolic poisons?
+             •   It binds to the haem group in complex IV of the electron transport
+                 chain which prevents electrons from flowing through
+             •  This ultimately stops ATP from being formed.
+         How does malonate act as a metabolic poison?
+             •  Malonate slows down the flow of electrons from complex II
+                 (succinate dehydrogenase) to coenzyme Q (ubiquinone)
+             •   It does this by inhibiting the oxidation of succinate to fumarate (step
+             6 of TCA Cycle).
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-7-Cell-Integrity-2ca02282098f4f239ea8044d7a8932fe                                                                   6/8
+
+===== PAGE 7 =====
+
+18/07/2026, 21:51                                                                      2.7 Cell Integrity
+
+
+
+         How can dinitrophenol (DNP) be used to induce weight loss?
+             • DNP works by pumping protons across the inner mitochondrial
+              membrane and ensuring that the energy produced from this
+             movement is not used by ATP synthase to make ATP
+             •  This then means that a lot of protons pumped are actually wasted (not
+               used to make ATP), and more protons hence need to be pumped than
+                 usual to make the same amount of ATP
+             •  This means more electrons need to be pumped across the electron
+                  transport chain, more cofactors need to be reoxidised and hence
+               produced and so more fuel (glucose, fatty acids) needs to be
+                metabolised to produce similar amounts of ATP
+
+         Why is DNP no longer prescribed?
+             • The difference between the dose which is considered effective and
+                   that which is considered fatal is so slight
+             • Many patients ended up dying or suffering fatal injury before it was
+               banned in 1937
+
+           What is non-shivering thermogenesis?
+             •   It is a process which (like DNP) uncouples ATP from proton pumping in
+                response to low body temperatures
+
+         How does non-shivering thermogenesis work?
+             • An alternative proton channel called UCP-1 is activated in response to
+               low temperatures
+             •  Protons are pumped through this channel following an electrochemical
+                  gradient and instead of the energy from this movement being used to
+                form ATP via ATP synthase, it is dissipated as heat energy
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-7-Cell-Integrity-2ca02282098f4f239ea8044d7a8932fe                                                                   7/8
+
+===== PAGE 8 =====
+
+18/07/2026, 21:51                                                                      2.7 Cell Integrity
+
+
+
+           What is rotenone and how does it work?
+             •   It is also a metabolic poison which works by preventing electron
+                  transfer from complex I to coenzyme Q (ubiquinone)
+
+           What is oligomycin and how does it work?
+             •   It binds to the stalk of ATP synthase and prevents H+ flowing
+                through it
+             •  This obviously stops ATP synthesis via the enzyme
+           What is cytochrome C?
+             •  Cytochrome C is an electron transport chain protein that transfers
+                 electrons between complex III and complex IV of the chain.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-7-Cell-Integrity-2ca02282098f4f239ea8044d7a8932fe                                                                   8/8

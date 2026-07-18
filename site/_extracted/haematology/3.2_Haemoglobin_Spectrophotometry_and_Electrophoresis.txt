@@ -1,0 +1,360 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:06                                                  3.2 Haemoglobin Spectrophotometry and Electrophoresis
+
+    3.2 Haemoglobin
+   Spectrophotometry and
+    Electrophoresis
+
+           What is the purpose of electrophoresis?
+             •  To separate molecules on the basis of their charge or molecular
+                weight
+
+         How many RBCs are typically in one litre of blood?
+             •  3.5 x 10^12
+                 ◦  Each RBC has about 640 million haemoglobin molecules
+           What is the function of a haem group in haemoglobin?
+             •  To carry oxygen.
+           What does a haem group in haemoglobin contain?
+             • Fe2+ surrounded by a porphyrin ring.
+
+
+
+
+
+         How does haemoglobin aid in the transportation of oxygen?
+             • The Fe2+ of the haem group can bind to oxygen and form
+               oxyhaemoglobin
+             • The O2 is then transported from the lung to whichever tissue requires it
+             •   It detaches from the Fe2+ and deoxyhaemoglobin is reformed.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-2-Haemoglobin-Spectrophotometry-and-Electrophoresis-37d85d0fb815409cbaed7d0fb6d62383                            1/9
+
+===== PAGE 2 =====
+
+18/07/2026, 22:06                                                  3.2 Haemoglobin Spectrophotometry and Electrophoresis
+
+
+
+             Describe how the protein (globin) part of a haemoglobin molecule is
+              structured.
+             •   It usually forms using four of eight possible functional globin chains
+             •  These chains are arranged in “clusters” based on the genes involved in
+                 the coding.
+             •  These are alpha clusters and beta clusters
+           Which globin chains are used to form haemoglobin A (normal adult
+            haemoglobin)?
+             • 2 alpha and 2 beta subunits
+
+
+
+
+
+           What is haemoglobin A2?
+             • A form of adult haemoglobin that is typically found in higher
+              amounts in sufferers of beta-thalassaemia
+                 ◦  All of us have haemoglobin A2, just in lower amounts
+           Which globin chains are used to form haemoglobin A2 (adult haemoglobin)?
+             • 2 alpha and 2 delta chains
+
+
+
+
+           Which globin chains are used to form haemoglobin F (foetal haemoglobin)?
+             • 2 alpha and 2 gamma subunits.
+                 ◦ “gamma” sounds like “mama” which is what babies say
+
+
+
+
+
+           What is myoglobin?
+             • An oxygen-binding protein found in muscle cells
+          When referring to oxygen and haemoglobin binding to each other, what
+           does P50 mean?
+             • The partial pressure value at which 50% of haem groups are able to
+              be bound to oxygen.
+                 ◦  Partial pressure is often measured in torr
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-2-Haemoglobin-Spectrophotometry-and-Electrophoresis-37d85d0fb815409cbaed7d0fb6d62383                            2/9
+
+===== PAGE 3 =====
+
+18/07/2026, 22:06                                                  3.2 Haemoglobin Spectrophotometry and Electrophoresis
+
+
+
+           Which of myoglobin and haemoglobin have a higher affinity for oxygen and
+          how can we use P50 to determine this?
+             •  Myoglobin (the sigmoid curve has shift to the left)
+             • The P50 value of myoglobin is much lower than than of
+                haemoglobin. This means a higher proportion of myoglobin binds to
+               oxygen at lower partial pressures.
+                 ◦  However, it also means myoglobin is poor at releasing oxygen
+                    under these lower partial pressures
+
+
+
+
+
+             Describe the mechanism through which haemoglobin is able to bind with
+            oxygen and release it relevantly.
+             •  Pressure is very high (~ 100 torr) in the lungs, and at these levels,
+               oxygen is very easily saturated (bound) by haemoglobin where oxygen
+                      is collected from
+             • When it reaches the tissues around the body, the pressure is much
+                 lower and so a lot of this oxygen is released to where it is required, but
+                not all of it is
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-2-Haemoglobin-Spectrophotometry-and-Electrophoresis-37d85d0fb815409cbaed7d0fb6d62383                            3/9
+
+===== PAGE 4 =====
+
+18/07/2026, 22:06                                                  3.2 Haemoglobin Spectrophotometry and Electrophoresis
+
+
+
+             Describe what is meant by “positive cooperativity” when it comes to oxygen
+             binding by haemoglobin.
+             • When one haem group is able to bind onto oxygen, this makes it
+                 easier for the other haem groups to also bind oxygen, until all the
+             haem groups are bound/saturated.
+
+           What is 2,3-BPG (2,3-bisphosphoglycerate)?
+             •   It is an allosteric effector (allo - other, steros - structure) which
+                binds to deoxyhaemoglobin at a site distant from the haem groups
+             •   It is found in red blood cells and is used to stabilise the structure and
+               reduce the haemoglobin’s oxygen affinity (at lower pressures)
+
+           What is an allosteric effector?
+             • A component which can bind to another component to alter the latter’s
+                  structure whilst having a functional impact on the latter component.
+
+             Describe the importance of 2,3-BPG (2,3-bisphosphoglycerate).
+             •   It is important because without it, oxygen affinity at the lower
+                pressures found in the tissues would be too high, and so oxygen
+                detaching from the structure would be a difficult process.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-2-Haemoglobin-Spectrophotometry-and-Electrophoresis-37d85d0fb815409cbaed7d0fb6d62383                            4/9
+
+===== PAGE 5 =====
+
+18/07/2026, 22:06                                                  3.2 Haemoglobin Spectrophotometry and Electrophoresis
+
+
+
+         How is 2,3-BPG generated?
+             • By the Rapoport-Luebering shuttle.
+                 ◦   It is generated from 1,3-bisphosphoglycerate seen in step 6 of
+                      glycolysis
+
+
+
+
+
+           What is the change in gene expression that occurs to allow the production
+              of haemoglobin A after birth in foetuses?
+             •  Instead of alpha and gamma chains being the predominantly
+               produced protein chains, alpha and beta chains become the most
+                predominantly produced
+
+
+
+
+
+         Why is haemoglobin F produced in foetuses?
+             •  To help facilitate the transfer of oxygen from the maternal RBCs to
+                the foetal RBCs.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-2-Haemoglobin-Spectrophotometry-and-Electrophoresis-37d85d0fb815409cbaed7d0fb6d62383                            5/9
+
+===== PAGE 6 =====
+
+18/07/2026, 22:06                                                  3.2 Haemoglobin Spectrophotometry and Electrophoresis
+
+
+
+         How does haemoglobin F help with this maternal-foetal oxygen exchange?
+             •   It has a gamma chain which has an amino acid alteration compared to
+                 the beta chain present in haemoglobin A
+             •  This means that it has a lower affinity for 2,3-BPG than haemoglobin
+            A
+                 ◦  Since 2,3-BPG is an allosteric effector that decreases
+                   haemoglobin’s affinity for oxygen, a lower affinity from HbF for
+                   2,3-BPG means it has a higher O2 affinity
+             •  This aids with the uptake of oxygen from maternal RBCs.
+
+
+
+
+
+           What is the Bohr effect?
+             •   It describes how H+ and CO2 (products of lactate regeneration and
+                 pyruvate decarboxylation) can act as allosteric effectors by binding
+                 to oxyhaemoglobin
+             •  They do this by decreasing the affinity of oxyhaemoglobin for
+               oxygen and aiding greater release into tissues at lower pressures
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-2-Haemoglobin-Spectrophotometry-and-Electrophoresis-37d85d0fb815409cbaed7d0fb6d62383                            6/9
+
+===== PAGE 7 =====
+
+18/07/2026, 22:06                                                  3.2 Haemoglobin Spectrophotometry and Electrophoresis
+
+
+
+              Explain the different Bohr effects using the graph below.
+
+
+
+
+
+               Answer
+
+             Describe the mutation that causes the erythrocyte abnormality seen in
+               sickle cell anaemia.
+             •  Glutamate is altered to valine at position 6 in the haemoglobin
+                 polypeptide sequence.
+             •  Glutamate is a negatively charged (hydrophilic) amino acid but valine is
+                  neutral
+             •  This means that the haemoglobin chain in non-sufferers is more
+                 negative than that in sickle cell anaemia sufferers
+
+             Describe how electrophoresis can help us to discover this abnormality.
+             •  Negatively charged specimen (i.e normal HbA) will move to the positive
+                 electrode in electrophoresis and vice-versa
+             • Once we notice that a sample of haemoglobin does not move to the
+                   positive electrode as much as it should (i.e HbS which stays in middle),
+             we can begin to suspect an alteration in the amino acid sequence
+                which has affected the polarity of the protein.
+
+               In electrophoresis of haemoglobin samples, what is the medium we used?
+             •  Cellulose acetate.
+           What is the pH of the buffer solution and why?
+             •  9.5.
+             • We use this pH because the haemoglobin has an overall negative
+                charge in these conditions and so migrates to the anode.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-2-Haemoglobin-Spectrophotometry-and-Electrophoresis-37d85d0fb815409cbaed7d0fb6d62383                            7/9
+
+===== PAGE 8 =====
+
+18/07/2026, 22:06                                                  3.2 Haemoglobin Spectrophotometry and Electrophoresis
+
+
+
+           Which surface of the glossy and matt filter paper should you apply solution
+           on in gel electrophoresis?
+             •  Matt surface
+           What was the purpose of our first spectrophotometry experiment where we
+           measured the absorbances of oxyhaemoglobin at different wavelengths?
+             •  To identify the wavelength which gives us the highest absorbance
+               and hence would be best to use when analysing oxyhaemoglobin
+                concentrations for the next experiment
+
+              Explain what we did in our second experiment to determine the
+            oxyhaemoglobin concentrations of two unknown solutions.
+             • We used a variation of known concentrations of haemoglobin
+                  solution and measured their absorbances
+                 ◦  i.e 0.2mg/ml, 0.4mg/ml, 0.6mg/ml, 0.8mg/ml, 1.0mg/ml
+             •  This was done to create a standard curve of these known
+               oxyhaemoglobin concentrations (x-axis) against absorbance (y-
+                  axis)
+             • We then got the two solutions of unknown oxyhaemoglobin
+                concentration, measured their absorbances and using the standard
+                curve we could determine their oxyhaemoglobin concentrations
+
+              Explain how spectrophotometry can be used in the study of proteins.
+             •  Studying the absorbance of different proteins can help us to
+               understand their concentrations (using the Beer-Lambert Law)
+             •  Understanding the concentrations of substances in non-suffering
+                   individuals and comparing them to those in sufferers, can help us to
+                understand abnormalities in different clinical contexts.
+
+           What is the Beer-Lambert Law?
+             •   It explains how the absorbance of a solution is directly proportional
+                 to the concentration of the absorbing material within it and to the
+                distance (or path length) travelled by the light through the sample.
+
+                                                   ℓ             •   It describes the equation A = E × c ×
+             • A is the absorbance of the solution
+             • c is the concentration of the absorbing substance (typically in mol/L)
+                 ℓ is the path length (in cm)             •
+             • E is the extinction coefficient, a constant for the substance being
+               measured at that particular wavelength.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-2-Haemoglobin-Spectrophotometry-and-Electrophoresis-37d85d0fb815409cbaed7d0fb6d62383                            8/9
+
+===== PAGE 9 =====
+
+18/07/2026, 22:06                                                  3.2 Haemoglobin Spectrophotometry and Electrophoresis
+
+
+
+           What is a pulse oximeter used for?
+             •  To measure oxygen saturation (what proportion of haemoglobin is
+              bound to oxygen)
+             • Normal oxygen saturation is between 96% and 99%
+                 ◦   If there is low oxygen saturation (<94%), this means more
+                   haemoglobin is unbound to oxygen and this could be indicative
+                      of hypoxaemia (low blood oxygen)
+
+         Why are low levels of carbon monoxide so dangerous to the body?
+             •  Haemoglobin has a 200-fold greater affinity for carbon monoxide
+                 than oxygen
+             •  This means it can readily outcompete the oxygen for binding to the
+             haem groups of haemoglobin
+             •  This can lead to insufficient oxygen being delivered to cells and tissues
+                around the body, and hence death
+                 ◦  Levels of 0.2% carbon monoxide can lead to death within an hour
+                      or two.
+
+           What is methaemoglobin (MetHb)?
+             •  This is a form of haemoglobin that contains the oxidised, ferric form
+                 of iron (Fe3+) instead of the normal ferrous Fe2+
+                 ◦   It is generated when this Fe2+ is oxidised to Fe3+
+           What are the clinical consequences of having methaemoglobin and why?
+             • Fe3+ binds to oxygen more strongly than Fe2+
+             •  This means that methaemoglobin’s (Fe3+) affinity for oxygen is
+             much higher, even at lower partial pressures
+             •  This is impaired oxygen binding, and can lead to not enough oxygen
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-2-Haemoglobin-Spectrophotometry-and-Electrophoresis-37d85d0fb815409cbaed7d0fb6d62383                            9/9

@@ -1,0 +1,327 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:22                                                                   4.7 Immune Tolerance
+
+    4.7 Immune Tolerance
+
+              Recall two reasons why immune regulation is important.
+             •  To avoid excessive lymphocyte activation and tissue damage
+             •  To prevent action against self-antigens
+           What is autoimmunity?
+             • An immune response against “self”
+           What are the two types of autoimmunity?
+             •  Systemic (i.e Type I diabetes which attacks insulin)
+             •  Organ-specific (i.e multiple sclerosis which attacks general nerve
+                     cells)
+
+              Recall three autoimmune diseases.
+             •  Rheumatoid arthritis (organ-specific)
+             •  Psoriasis (organ-specific)
+             •  Lupus (systemic)
+             •  Grave’s disease (systemic)
+             •  Type I diabetes
+             •  Multiple sclerosis
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-7-Immune-Tolerance-4c610c44df6f47dbbc36f70907643f80                                                              1/8
+
+===== PAGE 2 =====
+
+18/07/2026, 22:22                                                                   4.7 Immune Tolerance
+
+
+
+            Speaking in general terms, what causes autoimmune diseases?
+             • An imbalance between immune activation and control
+             •  For example, too much activation and too little control can lead to
+               autoimmune diseases
+
+
+
+
+
+           What are the two underlying causative factors of autoimmune diseases?
+             • Genes that increase susceptibility (i.e certain HLA types can cause the
+           MHC to function abnormally)
+             •  Environmental influences (these influences often combine with the
+               genes to push them to activation)
+
+           What problem arises when attacking self antigens that doesn’t exist when
+              attacking foreign antigens?
+             •  Self-antigens are always present, which means there is a constant
+                loop of feedback towards B or T cells which instructs them to
+                continue attacking or targeting host cells.
+             •  This means the lymphocytes never receive the signal (signal is a lack
+                  of antigen) to stop attacking pathogens and to die/convert into
+             memory cells
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-7-Immune-Tolerance-4c610c44df6f47dbbc36f70907643f80                                                              2/8
+
+===== PAGE 3 =====
+
+18/07/2026, 22:22                                                                   4.7 Immune Tolerance
+
+
+
+             Describe how anaphylaxis arises from a peanut allergy (peanut used as an
+             example).
+             •  Peanut is consumed by host
+             •  Peanut antigen binds to the constant region of IgE antibody (located
+               on mast cell)
+             •  Mast cell releases lots of inflammatory mediators which drives
+                 anaphylaxis
+
+         How can T cells be involved in the causation of allergic reactions?
+             • T cells are involved in delayed hypersensitivity which is when a
+                  smaller rash (for example a bee sting) becomes much bigger over
+                time due to the rush and accumulation of T cells at the site
+
+         How are sepsis and hypercytokinemia linked?
+             •  Bacteria from the gut gets into the bloodstream
+             •  This leads to a positive feedback loop of the lymphocytes attacking
+                these bacteria and it leads to damage of organs and tissues
+
+            Diagram explaining how increasingly effective responses against pathogens
+          come at a higher risk of autoimmunity.
+
+
+
+
+
+           What are the three things that need to occur for a T cell to go from a naive
+                cell to an effector cell?
+             •  Recognition of antigen
+             •  Surface contact with MHC Class I on APC
+             • APCs producing cytokines that activate T cells
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-7-Immune-Tolerance-4c610c44df6f47dbbc36f70907643f80                                                              3/8
+
+===== PAGE 4 =====
+
+18/07/2026, 22:22                                                                   4.7 Immune Tolerance
+
+
+
+              Extra information on cancer drugs and PD-1.
+             •  PD-1 is a surface protein on T cells that is used to turn them off and
+              make them inactive
+             •  Over time, PD-1 increases and active T cell levels decrease
+             •  Anti-PD-1 drugs are taken for cancer patients which allow all T cells to
+              become active
+                 ◦ The issue is, since we cannot control the number of T cells which
+                 become active, there is a high risk of diseases such as Crohn’s
+                     disease and severe skin conditions occurring as the level of
+                       active T cells becomes abnormally high.
+
+           What are the three possible outcomes of the immune response to infection?
+             •  Resolution - the pathogen has been successfully dealt with and there
+              was no significant damage to the body
+             •  Repair - The pathogen has caused damage in certain areas of the
+               body and fibroblasts as well as collagen are used to replace the tissues
+                     in these areas
+                 ◦  This can often lead to certain tissues becoming weaker over time,
+                             i.e in COPD where the lungs become weaker, leading to breathing
+                          difficulties in sufferers
+             •  Chronic inflammation - There is ongoing inflammation at the site of
+                   infection and there are attempts to repair the damaged tissue
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-7-Immune-Tolerance-4c610c44df6f47dbbc36f70907643f80                                                              4/8
+
+===== PAGE 5 =====
+
+18/07/2026, 22:22                                                                   4.7 Immune Tolerance
+
+
+
+           What is tolerance in immunological terms?
+             • A deliberate unresponsiveness to an antigen that is induced by the
+               exposure of lymphocytes to that antigen
+
+           What is the difference between central and peripheral tolerance?
+             •  Central tolerance describes tolerance that occurs before B and T cells
+                have been secreted into circulation
+             •  Peripheral tolerance describes tolerance that occurs after B and T cells
+                have been secreted into circulation
+
+           What happens in central tolerance?
+             • The cells that can be used to be destructive against “self”/ human
+                antigens are deleted and destroyed before entering into circulation
+               and causing potential damage.
+
+             Describe how central tolerance works in B cell selection.
+             •  Differentiated B cells in the bone marrow go around the bone marrow
+               and patrol for self antigens
+             •   If the bone marrow notices that a B cell receptor recognises a self
+                  antigen, then it destroys it before it is released into the bloodstream
+
+             Describe how central tolerance works in T cell selection.
+             •  Those T cells that are unable to bind onto MHCs, or that bind to
+            MHCs too strongly, are removed from the thymus and not released
+                  into circulation
+             •  AIREs (Autoimmune Regulators) are transcription factors which are
+                then used to express the genes of peripheral tissue antigens in the
+               thymus
+             • The expression of these genes allows us to see which T cells
+                recognise the self-antigens and destroy them accordingly.
+
+         Why is central tolerance for B cells simpler than for T cells?
+             • B cells bind to antigens that are free in circulation meaning that
+                whether this happens in the bone marrow or not can be used to select
+               between B cells
+             • T cells only bind to antigens in circulation on MHC molecules so this
+              makes things more difficult
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-7-Immune-Tolerance-4c610c44df6f47dbbc36f70907643f80                                                              5/8
+
+===== PAGE 6 =====
+
+18/07/2026, 22:22                                                                   4.7 Immune Tolerance
+
+
+
+         How can mutations in AIRE affect hosts?
+             •  AIRE will hence no longer be able to produce the self-antigens
+             •   It can lead to the lack of adequate T cell selection as the thymus no
+                longer knows which T cells attack self-antigens
+             •  This results in multi-organ autoimmunity
+         How is peripheral tolerance useful?
+             •   If any T or B cells that attack self antigens slip through central
+                 tolerance by accident, they can be destroyed via peripheral tolerance
+
+           What is affinity maturation?
+             •   It is a process where a B cell receptor can produce antibodies which
+                bind onto a pathogen much better after repeated exposure
+             •   It happens when the BCR is constantly modified to produce slightly
+                  different antibodies and the lymph nodes select those that are best
+                         fit for the antigens
+             •   It occurs in germinal centres
+           What is a consequence of affinity maturation?
+             • The modification of the antibodies can lead to certain B cells
+                 recognising self antigens and attacking self cells.
+
+             Describe how anergy works in peripheral tolerance.
+             •  This is when the MHC on the surface of host cells doesn’t contain the
+               necessary stimulatory molecules to activate naive T cells.
+             •  This means that these self-attacking T cells aren’t activated and are
+                   less likely to be activated in future.
+
+             Describe how ignorance works in peripheral tolerance.
+             •  This is where the concentration of a self antigen is too low for T cells
+                  to be destroyed (i.e they are ignored)
+             •  This happens in immunologically privileged areas (i.e CNS, eye,
+                   brain) where the risk of autoimmunity is greater than the risk of
+                 actual infection
+
+             Describe how AICD (activation induced cell death) works in peripheral
+              tolerance.
+             •  Dendritic cells work to turn T cells off instead of turning them on via
+                apoptosis
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-7-Immune-Tolerance-4c610c44df6f47dbbc36f70907643f80                                                              6/8
+
+===== PAGE 7 =====
+
+18/07/2026, 22:22                                                                   4.7 Immune Tolerance
+
+
+
+           What are regulatory T cells and what do they do?
+             •  They are a subset of CD4 T cells which are used to stop the immune
+                response when necessary
+             •  They do this by releasing the cytokine Interleukin-10 (IL-10) which
+               can inactivate lymphocytes.
+
+           What is FoxP3?
+             •   It is a transcription factor expressed to develop CD4 regulatory T
+                   cells
+             • An absence of FoxP3 leads to a reduction in the amount of CD4
+                 regulatory T cells
+
+              Recall two functions of Interleukin-10.
+             •   It is an anti-inflammatory cytokine
+             •   It blocks the synthesis of pro-inflammatory cytokines (i.e IL-6, IL-8,
+               TNF)
+             •   It down-regulates macrophage functions.
+           What are the two types of T regulatory cells?
+             •  “Natural” regulatory T cells (nTreg)
+                 ◦  Develop in thymus
+             •  Inducible regulatory T cells (iTreg)
+                 ◦  Develop in periphery
+             Describe how cytokines work.
+             •  They are the chemicals which effectively dictate which cells are made
+                     in a particular immune response
+             •  They can be inflammatory or anti-inflammatory
+             •  They can control the immune response to react in the appropriate
+              manner
+
+             Describe how chemokines work.
+             •  Chemokines work by driving movement of cells to different areas in
+                the body (chemotaxis)
+             •  This is done as different chemokines have different receptors on their
+                  surfaces.
+             •  For example, a naive T cell can go to a lymph node via action of a
+              chemokine, see the antigen it is training to be effective against and go
+              back to the site of infection via a chemokine
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-7-Immune-Tolerance-4c610c44df6f47dbbc36f70907643f80                                                              7/8
+
+===== PAGE 8 =====
+
+18/07/2026, 22:22                                                                   4.7 Immune Tolerance
+
+
+
+           What component of a T cell allows it to produce cytokines?
+             •  Transcription factors in the nucleus.
+           What is a T follicular helper cell (TfH)?
+             •  This is a specific type of CD4 T helper cell that plays a critical role
+               by helping B cells produce antibody against foreign pathogens
+             •  They communicate with B cells using their cytokines to help them do
+                    this
+
+         How are T cells directly involved in the production of antibodies?
+             • When T cells differentiate, they produce cytokines, and different
+                 cytokines are produced by different T cells
+             •  These cytokines then tell the B cells to differentiate into B effector
+                    cells but specifically they instruct them on which antibody (Ig class) to
+              make
+                 ◦  For example, if there is a viral infection, Th1 helper cells are
+                   produced which produce cytokines that result in IgG production,
+                  and this is the antibody that is most effective against viruses.
+
+            Diagram of a mast cell.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-7-Immune-Tolerance-4c610c44df6f47dbbc36f70907643f80                                                              8/8

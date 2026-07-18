@@ -1,0 +1,187 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:24                                                          4.14 Immune Response to Infection
+
+    4.14 Immune Response to
+    Infection
+
+              Recall three microbe associated molecular patterns (MAMPs).
+             •  Lipopolysaccharides from gram-negative bacteria
+             •  Peptidoglycan from all bacteria
+             •  Beta-glucan cell wall on fungi
+             •  Surface glycoproteins and nucleic acids from viruses
+              Recall three pattern/danger associated molecular patterns (PAMPs/DAMPs).
+             • ATP released from dead cells
+             •  Alarmins - chemicals released as a result of cell death
+             •  Specific cytokines/interleukins
+         Why are natural killer cells described to be part of the innate immune
+             response, even though they are lymphocytes?
+             •  Because they respond very quickly and in an antigen-independent
+              manner
+
+           What is an advantage of the adaptive immune system over the innate?
+             • A lot more microbe-associated molecular patterns (antigens) can be
+                detected by the adaptive system
+             •  About 1000 molecular patterns are detected by the innate in
+                comparison to ~10^7 by the adaptive
+
+                 Is blood sterile (lacks viruses and bacterial presence)?
+             •  Yes. Blood is completely sterile and you would be in the ICU if it wasn’t.
+               In the immune response, which are the first types of cells to reach the site of
+              infection?
+             •  Neutrophils
+             •  They are followed by macrophages after neutrophilic release of
+                  cytokines.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-14-Immune-Response-to-Infection-fcabc533e8cd458ca04adc3d031db716                                                 1/6
+
+===== PAGE 2 =====
+
+18/07/2026, 22:24                                                          4.14 Immune Response to Infection
+
+
+
+           What happens to neutrophils and macrophages when they interact with
+            pathogens?
+             •  They become activated
+             •  This is because they are normally naive as they come from bone
+                marrow, but their gene expression changes after interaction with
+                pathogens.
+
+         How can the immune system distinguish between dead and live pathogens?
+             • Dead pathogens have much less RNA than live pathogens
+           Image showing the different molecules produced in response to different
+            pathogens.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-14-Immune-Response-to-Infection-fcabc533e8cd458ca04adc3d031db716                                                 2/6
+
+===== PAGE 3 =====
+
+18/07/2026, 22:24                                                          4.14 Immune Response to Infection
+
+
+
+             Describe how interferon-γ can lead to the activation of macrophages.
+             • The macrophage binds to a pathogen and releases cytokines, which
+                  activates lymphocytes
+             • Lymphocytes produce interferon-γ
+             •  Interferon-γ is important as it can activate the macrophage, allowing
+                            it to cause enhanced phagocytosis, increased cytokine production,
+                 expression of cell surface molecules, and antigen presentation (hence
+             T cell activation)
+                 ◦   It also allows the macrophage to express certain antimicrobial
+                  genes for molecules such as reactive oxygen species (i.e bleach
+                        for killing cells)
+             •  Interferon-γ is hence vital to controlling infection and the transition
+                from the innate to adaptive immune response
+
+           Which type of interferons are used only against viruses?
+             • Type I (IFNα/β)
+             • Type II (IFNγ) and Type III (IFNλ) also work against viruses but have
+                 other functions too (Type II = antibacterial, Th1 skewing | Type III =
+                      antiviral, mucosal immunity)
+
+         Why do interferons have their name?
+             •  Because they were discovered to interfere with viral replication.
+           What is pyroptosis?
+             • A type of cell death which involves the influx of water into cells via their
+                pores which causes them to burst
+             •  This leads to inflammation as well as fevers (increased body
+                temperature)
+
+             Describe how Natural Killer (NK) cells are involved in the immune response.
+             •  Natural Killer cells detect infected cells and this leads to them
+                   triggering apoptosis in the infected target cell.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-14-Immune-Response-to-Infection-fcabc533e8cd458ca04adc3d031db716                                                 3/6
+
+===== PAGE 4 =====
+
+18/07/2026, 22:24                                                          4.14 Immune Response to Infection
+
+
+
+           Image showing humoral and cellular innate immune responses.
+
+
+
+
+
+             • As seen here, the complement system can be used to opsonise
+                 bacteria (using C3b) which leads to enhanced phagocytosis, or it
+               can produce reactive oxygen species, which lead to their lysis
+                (through MAC).
+
+           Which two cytokines work antagonistically in bacterial and fungal infections?
+             •  Interferon-γ (IFNγ) is used for bacterial infections
+             •  IL-17 is used for fungal infections
+              Recall which cytokines are involved in Th1, Th2 and Th17 immunity.
+             •  Th1 - IFN-γ
+             • Th2 - IL-4, IL-5, IL-13
+             •  Th17 - IL-17, IL-22
+              Recall which type of leukocyte are targeted by these T helper cells and
+            which pathogens each of these T cells are produced against.
+             •  Th1 - Macrophage - intracellular pathogens (i.e viruses)
+             • Th2 - Eosinophils - Helminths, parasites
+             •  Th17 - Neutrophils - extracellular bacteria and fungi
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-14-Immune-Response-to-Infection-fcabc533e8cd458ca04adc3d031db716                                                 4/6
+
+===== PAGE 5 =====
+
+18/07/2026, 22:24                                                          4.14 Immune Response to Infection
+
+
+
+             Table showing how different phagocytes release different cytokines which
+             lead to different lymphocytes being produced.
+
+
+
+
+
+           Image showing the sequence and timing of events in the cellular immune
+             response.
+
+
+
+
+
+             • As we can see here, the immune response progresses from
+              complement and phagocytes within a few hours, to B and T
+               lymphocytes after about two days, to effector T cells and plasma
+                   cells (and hence antibodies) after about five days
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-14-Immune-Response-to-Infection-fcabc533e8cd458ca04adc3d031db716                                                 5/6
+
+===== PAGE 6 =====
+
+18/07/2026, 22:24                                                          4.14 Immune Response to Infection
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-14-Immune-Response-to-Infection-fcabc533e8cd458ca04adc3d031db716                                                 6/6

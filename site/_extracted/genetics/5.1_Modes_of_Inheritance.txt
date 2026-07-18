@@ -1,0 +1,153 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:08                                                                  5.1 Modes of Inheritance
+
+    5.1 Modes of Inheritance
+
+           What are autosomes?
+             • The 22 non sex chromosomes
+
+
+
+
+
+          When is a genetic disorder described as autosomal dominant?
+             • When you only need one copy of the allele to cause the relevant
+               change in phenotype.
+
+           What gene is responsible for controlling brown eye colour?
+             • OCA-2
+              Recall the three types of autosomal dominant disorders.
+             •  Gain-of-function - mutation causes production of newly-functioning
+                  protein
+             •  Dominant negative - mutation causes protein product to interact
+                    differently with other molecules
+             •  Haploinsufficient - one copy of a gene is inactivated or deleted and the
+                 remaining functional copy of the gene is not adequate to produce the
+               needed gene product to preserve normal function.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-1-Modes-of-Inheritance-e6f4d45cc544429199fa37efb6f1aa9c                                                            1/5
+
+===== PAGE 2 =====
+
+18/07/2026, 22:08                                                                  5.1 Modes of Inheritance
+
+
+
+           What is meant by the term “haploinsufficiency?”
+             •  There is a loss of one allele, and the remaining allele cannot produce
+               enough protein to ensure regular function (i.e collagen)
+
+             Describe the mutation that occurs in Huntington’s disease.
+             • A repeat expansion of the CAG (glutamine) residue
+         How does this mutation affect sufferers?
+             • The abnormal intracellular Huntington protein gains a pathological
+                  function and can lead to cell death
+
+           What happens in hypertrophic cardiomyopathy and how does it affect
+              sufferers?
+             •   It is abnormal thickening of the heart muscles
+             •   It can lead to a reduced volume of the heart chambers and cause
+               sudden cardiac death
+
+           What type of mutation typically causes recessive disorders?
+             •  Loss-of-function
+           What is a loss-of-function mutation?
+             • A type of mutation in which the altered gene product lacks the
+                molecular function of the wild-type gene
+
+           What is consanguinity?
+             • The fact of being descended from the same ancestor.
+           What effect does consanguinity have on probability of inheriting disorders?
+             •   It increases the risk of inheriting autosomal recessive disorders only.
+             Describe the mutation that causes cystic fibrosis.
+             •  Mutations occur on the gene that encodes for the chloride ion channel
+               (chromosome 7)
+
+           What does this mutation lead to, and what type of mutation is it?
+             •  Defective chloride ion channel
+             •  This is a loss-of-function mutation
+              Recall a structural distinction between X and Y chromosomes.
+             • X chromosomes are much larger than Y chromosomes
+             •  This means they contain around 1000-1300 genes but Y only contain
+                about 150 genes
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-1-Modes-of-Inheritance-e6f4d45cc544429199fa37efb6f1aa9c                                                            2/5
+
+===== PAGE 3 =====
+
+18/07/2026, 22:08                                                                  5.1 Modes of Inheritance
+
+
+
+         Why are X-linked disorders effectively dominant in men?
+             • Men only have one copy of the X-chromosome so they only need one
+               copy of an allele for a phenotype to be expressed through the sex
+               chromosomes.
+
+         Why are sons of fathers with X-linked dominant disorders not affected?
+             •  Sons only inherit the Y-chromosome from their fathers
+             •  They inherit their X-chromosome from their mothers.
+           Where do we inherit our mitochondria from?
+             • From our mothers.
+           What characteristic of mitochondrial conditions makes them difficult to
+              predict within a family?
+             •  Heteroplasmy
+             •  This leads to a high level of uncertainty as to which symptoms will be
+                   exhibited, how early the onset will be etc.
+
+           What is heteroplasmy?
+             •   It is when there is more than one type of mitochondrial DNA
+              (mtDNA) within one cell
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-1-Modes-of-Inheritance-e6f4d45cc544429199fa37efb6f1aa9c                                                            3/5
+
+===== PAGE 4 =====
+
+18/07/2026, 22:08                                                                  5.1 Modes of Inheritance
+
+
+
+         How does mitochondrial replication increase mitochondrial disease
+                variability?
+             •  Mitochondria undergo what is known as binary fission and this leads to
+                 the gain or loss of mutated genes across generations in replication
+             •  There are also multiple mitochondria within cells with different genes,
+               so it is difficult to predict the number of mutated mitochondria that
+                       will be present in an offspring
+                 ◦  This is because mitochondrial replication occurs as random
+                    segregation
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-1-Modes-of-Inheritance-e6f4d45cc544429199fa37efb6f1aa9c                                                            4/5
+
+===== PAGE 5 =====
+
+18/07/2026, 22:08                                                                  5.1 Modes of Inheritance
+
+
+
+          NOTE FOR READING PEDIGREE DIAGRAMS.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-1-Modes-of-Inheritance-e6f4d45cc544429199fa37efb6f1aa9c                                                            5/5

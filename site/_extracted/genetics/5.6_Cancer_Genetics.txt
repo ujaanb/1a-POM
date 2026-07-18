@@ -1,0 +1,141 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:21                                                                    5.6 Cancer Genetics
+
+    5.6 Cancer Genetics
+
+       BE ABLE TO EXPLAIN HALLMARKS OF CANCER
+
+           What is cancer?
+             •  Cancer is a condition where cells in a specific part of the body grow
+              and reproduce uncontrollably.
+             • The cancerous cells can invade and destroy surrounding healthy
+                  tissue, including organs.
+
+           What is tumour heterogeneity?
+             • Tumour heterogeneity describes how differences can exist both
+                 within tumours and between different types of tumour.
+
+
+           What is the difference between intratumour and intertumour heterogeneity?
+             •  Intratumour heterogeneity describes how different groups of cells
+                   called “sub-clones” can come together and constitute a single
+               tumour
+             •  Intertumour heterogeneity describes how no two people have the
+             same cancer
+
+           What is the difference between a driver and a passenger mutation?
+             •  Driver mutations are those that drive cancer initiation and
+                progression
+             •  Passenger mutations are those that do not drive cancer initiation
+              and progression
+
+           What is a cancer risk gene?
+             •   It is a gene that is at high risk of suffering from a driver mutation.
+             •  These genes are normally protective against cancer, but once they
+                 mutate, we become at risk of cancer
+             •  There are approximately 743 cancer risk genes
+           What is a proto-oncogene?
+             • A normal, benign gene that codes for a protein that promotes cell
+               growth and proliferation
+             • When there is a driver mutation in a proto-oncogene, it becomes an
+              oncogene
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-6-Cancer-Genetics-7cd977ba85f44b4caf0d2a6dfce41544                                                                 1/4
+
+===== PAGE 2 =====
+
+18/07/2026, 22:21                                                                    5.6 Cancer Genetics
+
+
+
+           What causes a proto-oncogene to become an oncogene?
+             • A driver mutation.
+             •  i.e a driver mutation can occur in the KRAS gene which causes it to
+                  continually proliferate and lead to cancer.
+
+           What is a tumour suppressor gene?
+             • A type of normal gene that produces a protein that helps to limit cell
+               growth and proliferation
+             • p53 is an example of a tumour suppressor gene, as it makes the
+               tumour protein which suppresses proliferation
+                 ◦ p53 → p21 protein → binds to CDK-cyclin complex cell
+                         proliferation is stopped
+
+           What is the Knudson hypothesis?
+             • The hypothesis that states that both alleles for tumour suppressor
+               genes need to be inactivated to cause phenotypic changes.
+             •   It is also known as the two-hit hypothesis
+           Image showing the hallmarks of cancer.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-6-Cancer-Genetics-7cd977ba85f44b4caf0d2a6dfce41544                                                                 2/4
+
+===== PAGE 3 =====
+
+18/07/2026, 22:21                                                                    5.6 Cancer Genetics
+
+
+
+           What is a germline mutation?
+             •  Mutations that occur in the germ cells (egg or sperm)
+             •  They are passed on from parents to offspring
+           What is a somatic mutation?
+             •  Mutation in any cells that aren’t in the germ cells (not egg or sperm)
+             •  They are not passed on from parents to offspring
+         Why is it difficult to treat cancers?
+             • The difficulty arises from a problem with selectively targeting cancer
+                   cells, without targeting normal host cells.
+
+         How can this be worked around (relatively)?
+             •  Chemicals can be engineered to kill fast dividing cells
+             • The problem is, some healthy cells (i.e hair follicles, GI tract cells) are
+                  also fast dividing
+             •  This is why chemotherapy can lead to side effects such as vomiting,
+                  hair loss etc.
+
+              Recall three treatments for cancer.
+             •  Surgery
+             • Chemotherapy
+             •  Radiotherapy
+             •  Targeted therapy
+             • Immunotherapy
+         How is Whole Genome Sequencing used in genetic screening?
+             •   It can be used in pre-malignant monitoring to detect when a person
+                     is at risk of cancer (i.e due to family history)
+             •   It can be used to diagnose and classify cancer in those who already
+               have it
+             •   It can be used in pharmacogenomics to determine the best possible
+                treatment for patients who already have cancer
+
+           What is the Cancer Gene Census (CGC)?
+             •  This is an ongoing effort to catalogue all genes that have been
+                 causally linked to cancer
+
+           NOTE: Different types of cancer genes require different number of driver
+            mutations to lead to cancers.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-6-Cancer-Genetics-7cd977ba85f44b4caf0d2a6dfce41544                                                                 3/4
+
+===== PAGE 4 =====
+
+18/07/2026, 22:21                                                                    5.6 Cancer Genetics
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/5-6-Cancer-Genetics-7cd977ba85f44b4caf0d2a6dfce41544                                                                 4/4

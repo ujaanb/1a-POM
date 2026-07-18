@@ -1,0 +1,585 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+    3.1 Red Blood Cells
+
+           What is haemopoiesis?
+             • The formation and development of blood cells
+           What are pluripotent haemopoietic stem cells (HSCs)?
+             • Stem cells from which all types of blood cells can differentiate from.
+           Which type of blood cell typically has the shortest lifespan?
+             •  Neutrophil (7-10 hours)
+          DIAGRAM SHOWING BLOOD STEM CELL HIERARCHY.
+
+
+
+
+
+           What is an erythrocyte?
+             • Red blood cell (RBC)
+           What is a leukocyte?
+             •  White blood cell
+           What is a thrombocyte?
+             •  Platelet
+           What is the main function of an erythrocyte?
+             • Oxygen transport.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                             1/16
+
+===== PAGE 2 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+           What are the two essential characteristics of haematopoietic stem cells?
+             •  They self-renew (they continue to increase in number after usage to
+                 avoid depletion)
+                 ◦  i.e some daughter HSCs do not differentiate, and instead they
+                    remain as HSCs to avoid depletion in numbers
+             •  They can differentiate to form any blood daughter cell through
+                    different paths
+
+           Where does haematopoiesis occur in foetuses?
+             • Mesoderm (middle layer of the three germ layers) (<3 weeks old)
+             •  Liver takes over from 6-8 weeks
+             • Bone marrow takes over from 10 weeks onwards til adulthood
+
+
+
+
+
+           Where does haematopoiesis occur in children?
+             •  Mainly in the bone marrow
+           Where does haemopoeisis occur in adults?
+             •  Mainly in the bone marrow
+             •  Specifically the pelvis, vertebrae and sternum.
+           What is the difference between the sites of haematopoiesis in adults and
+              children?
+             •  In children, haematopoiesis occurs in all bone marrow
+             •  In adults, haematopoiesis occurs in the bone marrow found at the
+                   pelvis, vertebrae and sternum
+
+           What is a mesenchymal cell?
+             • Mesenchymal stem cells (MSCs) are connective tissue cells that
+               have the ability to self-renew and also exhibit multilineage
+                   differentiation.
+                 ◦  i.e haematopoietic stem cells
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                             2/16
+
+===== PAGE 3 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+           What causes leukaemia or bone marrow failure in haemopoeisis?
+             • When the regulation usually performed by growth factors/transcription
+                  factors is disrupted, the balance between proliferation and
+                   differentiation is upset
+                 ◦  This means there may be an abnormal amount of blood cells
+           What are haemopoeitic growth factors?
+             •  They are glycoprotein hormones which bind to cell surface receptors
+               and regulate HSCs
+                 ◦  They do this by inducing an intracellular cascade of reactions
+                       that leads to altered gene expression by transcription factors
+
+           What is the function of haemopoietic growth factors?
+             •  They are involved in the regulation of proliferation and differentiation
+                 of HSCs which is key to the function of a mature blood cell
+                 ◦  i.e determine which type of blood cell is eventually formed, and
+                       rate of proliferation
+             •   If this is not regulated, it could lead to leukaemias and bone marrow
+                    failures
+
+           Which growth factor is used to regulate proliferation of red blood cells?
+             •  Erythropoeitin (EPO)
+           Which growth factor is used to regulate proliferation of platelets?
+             •  Thrombopoeitin (TPO)
+           Which growth factor is used to regulate proliferation of granulocytes?
+             •  Granulocyte colony stimulating factor (G-CSF)
+             •  Granulocyte-macrophage colony stimulating factor (G-M CSF)
+           What is a progenitor in differentiation?
+             • A cell from which a variety of daughter cells can arise depending on
+                 the paths taken.
+
+           What are the two main progenitors that stem to form haemopoeitic cells?
+             • Lymphoid cell progenitors
+             •  Myeloid cell progenitors
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                             3/16
+
+===== PAGE 4 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+           Image showing the difference between lymphoid and myeloid differentiation
+             paths.
+
+
+
+
+
+         Why do we not tend to see nucleated red blood cells in the blood?
+             • A blast cell in the bone marrow has a high nucleus:cytoplasmic ratio
+             •  This property is lost as the red cells differentiate and move into the
+                  circulation
+
+              Recall one structural characteristic of blast cells.
+             •  They have larger nucleus:cytoplasmic ratio than normal blood cells.
+           What is a reticulocyte?
+             • Any red blood cell that is slightly immature
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                             4/16
+
+===== PAGE 5 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+              Recall two structural characteristics of reticulocytes.
+             •  They have a larger ribosomal size, and hence the RNA content is
+                higher in them (picked up by methylene blue stain)
+                 ◦  This is because the organelles have not disappeared yet in a
+                       reticulocyte, but they should have disappeared in a fully
+                      differentiated cell
+                 ◦ RNA content is higher due to ribosomal RNA (rRNA)
+             • The cells themselves are also larger than normal red blood cells.
+           What is a polychromatic red blood cell?
+             •  This is an immature red blood cell (reticulocyte) that is much larger
+                than usual and is characterised by its blue/gray/purple tint colour on
+               a blood film
+             • The nucleus:cytoplasmic ratio may also be larger, as a result of the
+                immaturity of the cell
+
+
+
+
+
+              Recall the differentiation path that a red blood cell takes from HSC to
+              erythrocyte.
+             • HSC —> Myeloid progenitor —> Proerythroblast —> Erythroblast —>
+                Erythrocyte
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                             5/16
+
+===== PAGE 6 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+              Recall the four components required for erythropoeisis.
+             •  Iron
+             •  Vitamin B12
+             •  Folic acid
+             •  Erythropoeitin
+
+
+
+
+
+           What is anaemia?
+             •  Anaemia is a reduced concentration of haemoglobin in a given
+               volume of blood.
+             •   It is usually caused by lower rates of red blood cell production, which
+                 leads to the above effect
+             •  This can mean oxygen is not transported around the body as
+                   efficiently as there are less binding sites
+
+           What are the three mechanisms through which anaemia is caused?
+             •  Increased destruction of erythrocytes
+             • Reduced production of erythrocytes
+                 ◦  Both will eventually lead to a decrease in haemoglobin
+                     concentrations.
+             •  Increased blood loss (i.e menstrual/gastrointestinal bleeding)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                             6/16
+
+===== PAGE 7 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+             Deficiency of which three molecules can lead to anaemia?
+             •  Iron
+             •  Vitamin B12
+             •  Folic acid (folate)
+             •  This is because they are all essential molecules for erythropoiesis.
+           What are the two main causes of microcytic anaemia?
+             •  Iron deficiencies
+             •  Decreased iron availability
+              Recall three causes of iron deficiency.
+             •  Increased blood loss (i.e menstruation, gastrointestinal bleeding,
+               hookworm)
+             • Reduced dietary intake
+             •  Increased iron requirements elsewhere in the body
+                 ◦  i.e pregnancies, young children who are growing
+           What is meant by anaemia caused by decreased iron availability?
+             •   It means the patients are not iron deficient, but their RBCs are
+                unable to access the iron properly
+                 ◦  This is associated with chronic diseases and inflammation
+           What is often seen in the blood films of patients with iron
+             deficiencies/reduced iron availability other than microcytosis?
+             •  Alongside the microcytic properties, the red blood cells are also
+               hypochromic due to the reduction in haemoglobin (red pigment)
+                production
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                             7/16
+
+===== PAGE 8 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+           What is the main cause of macrocytic anaemia and what does this lead to in
+           RBCs?
+             •  B12/folic acid deficiencies
+                 ◦  This is because B12 and folic acid are required for thymidine
+                 and hence DNA production and so RBCs are unable to divide
+                      properly
+             •  This is megaloblastic anaemia
+           Where is erythropoietin (EPO) produced?
+             • By the cortical cells of the kidney
+          When is erythropoietin produced, and how is this effective?
+             •  In response to hypoxia (low oxygen levels) or anaemia
+             •  This leads to a good demand-supply feedback loop as it will in turn
+                 lead to increased haemoglobin presence in the blood, which can
+                 transport oxygen to where it is needed.
+
+
+
+
+
+           What are the two major functions of iron in the body?
+             • Oxygen transport in haemoglobin (binds to oxygen using Fe)
+             •  Production of mitochondrial proteins
+                 ◦  i.e cytochromes a, b and c in electron transport chain
+                 ◦  cytochrome P450 in hydroxylation reactions for drug metabolism
+             Describe the difference between ferric and ferrous iron.
+             •  Ferrous iron is in the Fe2+ state and is derived from animal meat
+             •  Ferric iron is in the Fe3+ state and is found in other foods
+         Why is ferric iron converted to ferrous iron and what is required for this
+            process to occur?
+             •  Ferrous iron is more easily absorbed in the duodenum
+             •  Vitamin C can be used to convert ferric iron to ferrous iron
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                             8/16
+
+===== PAGE 9 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+         Why is ferrous iron better absorbed than ferric iron?
+             •  Iron in haem is in the ferrous state (Fe2+) and haem iron is the best
+               absorbed form
+             • Fe3+ iron (ferric) is not found in haem and so is not well absorbed
+           Where is iron absorbed in the body?
+             • The duodenum (inside small intestine)
+         How much iron is normally absorbed in the body?
+             •  1-2 mg per day
+                 ◦ The normal Western diet contains 10-20 mg of iron per day
+           What is ferritin?
+             •  Ferritin is a protein inside cells that stores iron.
+           What is the name of the molecule used to regulate iron absorption in the
+           body?
+             •  Hepcidin
+           What is hepcidin?
+             •   It is a protein that is used to regulate iron absorption by small
+                  intestine and release by macrophages
+
+           What effect does hepcidin have?
+             •  Hepcidin, when upregulated, works to inhibit further iron absorption
+                 to the blood
+
+          When is hepcidin upregulated/downregulated?
+             • When ferritin (iron) stores are full, hepcidin is upregulated in the
+                        liver. This decreases absorption of iron into the blood.
+             •  But when iron is needed (i.e for erythropoeisis), there is
+                downregulation of hepcidin and iron absorption is increased.
+
+             Describe the mechanism through which hepcidin works to inhibit iron
+              absorption.
+             •  Hepcidin binds to its receptor ferroportin, which prevents the efflux
+                 of iron from duodenal enterocytes (intestinal cells) into the blood
+                    after absorption from the small intestine
+                 ◦ The enterocytes eventually die and the iron is lost into the gut
+                  lumen and not absorbed into the blood
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                             9/16
+
+===== PAGE 10 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+           What happens to hepcidin production in states of inflammation and what
+            can this lead to in some sick patients?
+             •  Hepcidin is increased
+             •  This can lead to less iron being absorbed into the blood due to
+                hepcidin action on ferroportin affecting enterocytes.
+             •  This leads to decreased iron availability for the red blood cells and
+               hence they can become anaemic as a result of inflammation
+                 ◦  This is because they have less iron to use for haemoglobin
+                     production
+             •  In sick patients such as those with chronic diseases where
+                 inflammation is prolonged, they can suffer from anaemia of
+                inflammation/anaemia of chronic disease as a result of this hepcidin
+                  upregulation causing reduced iron availability
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                          10/16
+
+===== PAGE 11 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+           What else can cause anaemia in patients with chronic inflammation, other
+             than hepcidin upregulation?
+             •  Pro-inflammatory cytokines can lead to less iron absorption as well
+                as reduced EPO production, both of which are needed in
+                 erythropoiesis
+
+
+
+
+
+           What are vitamin B12 and folic acid essential for in erythropoiesis?
+             •  Thymidine and hence nucleotide and hence DNA production.
+             •  Lack of DNA production means that red blood cells cannot be
+               produced from the haematopoietic stem cells via cell differentiation
+                 ◦ The differentiation process is impaired due to lack of DNA
+             • The cells become megaloblastic, as they grow continuously but
+               cannot divide
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                           11/16
+
+===== PAGE 12 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+              Recall five foods through which vitamin B12 can be obtained.
+             •  Fish
+             • Red meat
+             •  Milk
+             • Eggs
+             • Cheese
+             • Almonds
+             •  Crab
+             •  Chicken
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                          12/16
+
+===== PAGE 13 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+              Recall five foods through which folic acid (folate) can be obtained.
+             •  Dark leafy green vegetables
+             •  Citrus fruits
+             •  Okra
+             •  Celery
+             • Corn
+             •  Asparagus
+             •  Carrots
+             • Beans and peas
+             •  Brussels sprouts
+             •  Broccoli
+             •   It is typically hard to become folate deficient through diet
+
+
+
+
+
+           Which group of people can easily become vitamin B12 deficient?
+             • Vegans
+                 ◦  Their diets exclude main sources of vitamin B12
+         How do people typically become folic acid (folate) deficient?
+             •  Through increased folate requirements in
+                 ◦  Pregnancy
+                 ◦  Increased red blood cell destruction in sickle cell anaemia leads
+                      to more folate being required to make more red blood cells
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                          13/16
+
+===== PAGE 14 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+           Where is folic acid absorbed in the body?
+             •  In the duodenum (small intestine)
+         How is vitamin B12 absorbed in the body?
+             •  Vitamin B12 is cleaved by hydrochloric acid in the stomach
+             •  This vitamin B12 binds to Intrinsic Factor to form B12-IF
+             •  B12-IF travels to the ileum (final portion of the small intestine) where
+                            it is finally absorbed
+
+         How else can vitamin B12 deficiency arise?
+             •  Lack of intrinsic factor (IF) secretion - pernicious anaemia
+             •  Malabsorption of B12-IF in ileum caused by coeliac disease/surgery
+             •  Lack of acid in the stomach
+                 ◦  This means B12 cannot be cleaved
+         How and where are red blood cells destroyed?
+             • By phagocytic cells (macrophages) in the spleen.
+           What happens to the iron when red blood cells are destroyed?
+             •   It is recycled as it returns to the bone marrow.
+         How long is the regular erythrocyte lifespan?
+             •  120 days.
+           What three things can cause impaired erythrocyte function?
+             •  Impaired membrane integrity (shape of erythrocyte and ability to
+                 contain cell contents)
+             •  Haemoglobin structure and function (to carry oxygen)
+             •  Cellular metabolism (RBCs need ATP)
+           What is haemolysis?
+             • The destruction (lysis) of blood cells.
+                 ◦   It can arise due to the blood cell being dysfunctional
+           What is the shape of an erythrocyte, and how does this help it perform its
+              function?
+             •  Biconcave
+             •  This helps it to manouevre its way through narrow blood vessels
+           What property of the erythrocyte allows it to maintain this shape?
+             •  Cytoskeleton
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                          14/16
+
+===== PAGE 15 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+           What are spherocytes, and how do they come about?
+             •  They are cells that are approximately spherical in shape
+             •  They come about by the loss of cell membrane on an erythrocyte
+               caused by disruption in the vertical linkages of the membrane
+             •  This means less of the cell membrane is able to wrap around the
+                contents of the cell, and the wrapping becomes far tighter, causing
+                 the cell to become smaller and rounder.
+                 ◦  There is loss of cell membrane without the loss of an equivalent
+                  amount of cytoplasm so the cell is forced to round up
+             •  They come about in hereditary spherocytosis (autosomal dominant)
+           What do spherocytes look like on a blood film?
+             •  Consequently, the cells lack central pallor as the cytoplasm takes up
+              more of the area of the cell due to the tight packing of cellular
+                contents
+
+
+
+
+
+           What is the fate of spherocytes?
+             •  Haemolysis
+                 ◦  They are prematurely removed by the spleen.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                          15/16
+
+===== PAGE 16 =====
+
+18/07/2026, 22:06                                                                    3.1 Red Blood Cells
+
+
+
+           What is an elliptocyte and how do they arise?
+             • An elliptocyte is a thin, long “pencil” shaped red blood cell
+             •  They come about by the loss of cell membrane on an erythrocyte
+               caused by disruption in the horizontal linkages of the membrane
+                 ◦  They can also arise from iron deficiencies (RIGHT)
+
+
+
+
+
+           What is the difference is the pathogenesis of spherocytes and elliptocytes?
+             •  Spherocytes come about by the loss of cell membrane on an
+                 erythrocyte caused by disruption in the vertical linkages of the
+             membrane
+             •  Elliptocytes come about by the loss of cell membrane on an
+                 erythrocyte caused by disruption in the horizontal linkages of the
+             membrane
+
+           What role does glucose-6-phosphate dehydrogenase (G6PD) play to help
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-1-Red-Blood-Cells-b6fd374c6f544e2f8af942d9094233be                                                          16/16

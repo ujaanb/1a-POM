@@ -1,0 +1,551 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+    3.9 Blood Transfusion
+
+           What determines an individual’s blood group?
+             • The combination of antigens on the surface of their red blood cells.
+           What two conditions can be caused by antibodies acting against red blood
+               cells?
+             •  Haemolytic transfusion reactions (HTRs)
+             •  Haemolytic disease of the foetus and newborn (HDFN)
+           What happens in haemolytic transfusion reactions (HTR)?
+             • The antigens on the transfused red blood cells are recognised as
+                 foreign which leads to haemolysis of these cells using antibodies from
+                the patient’s plasma
+
+           What happens in haemolytic disease of the foetus and newborn (HDFN)?
+             •  Antibodies from the mother cross the placenta and recognise the
+                    foetal RBCs as foreign which leads to haemolysis in the fetus
+             •  This only occurs when the mother has a different blood group to the
+                   foetus.
+
+           What are the two types of ABO antibody that can act against RBCs?
+             •  Naturally occurring
+             •  Acquired alloantibodies
+           What are naturally occurring antibodies?
+             •  These are ABO antibodies (i.e anti-A, anti-B) that exist naturally in
+              humans and are used to combat antibodies on foreign RBC blood
+                groups
+
+          When are naturally occurring antibodies first produced?
+             • When the host encounters them in young age from food and
+               microorganisms
+             •  This is because these sugars are very similar to those found on the
+                antigens of RBCs
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                          1/13
+
+===== PAGE 2 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+           What type of antibody is usually a naturally occurring antibody?
+             • IgM
+
+
+
+
+
+           What is a consequence of foreign blood group transfusion caused by
+               naturally occurring antibodies?
+             •  Haemolytic transfusion reaction (HTR)
+             •  This is because the antibodies recognise the foreign antigens and
+               cause agglutination as well as intravascular haemolysis as they kill
+                 the foreign RBCs
+
+          When are acquired alloantibodies initially produced?
+             • As a result of active immunisation (alloimmunisation) to ‘non-self’
+            RBC antigens following exposure to RBCs from another individual
+             •  i.e
+                 ◦ When an unfamiliar blood group is transfused to a host
+                 ◦ When an unfamiliar fetal blood group crosses the placenta into
+                     the mother’s bloodstream.
+
+           What type of antibody is usually an acquired alloantibody?
+             •  IgG.
+
+
+
+
+
+           Which antibody can cross the placenta to cause HDFNs?
+             •  IgG - acquired alloantibody
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                          2/13
+
+===== PAGE 3 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+           What is the difference between HTRs caused by naturally occurring
+             antibodies and acquired alloantibodies?
+             • HTRs caused by naturally occurring antibodies lead to massive
+                  intravascular haemolysis
+                 ◦  This is because IgM antibodies are capable of fully activating
+                 complement
+             • HTRs caused by acquired alloantibodies lead to mild intravascular
+                 haemolysis and delayed HTRs
+
+           What are the four main blood groups within the ABO blood group system?
+             •  A, B, AB and O
+           Which antigens are expressed by each of the cells in the blood groups?
+             • A (A antigen)
+             • B (B antigen)
+             • AB (both A and B antigen)
+             • O (neither antigen)
+           What does the A gene code for?
+             • The A gene codes for an enzyme that adds N-acetyl galactosamine
+                (GalNac) to the common H antigen resulting in the A antigen
+
+           What does the B gene code for?
+             • The B gene codes for an enzyme that adds galactose (Gal) to the
+            common H antigen resulting in the B antigen
+
+           What does the O gene code for?
+             • The O gene produces an inactive enzyme so the H antigen remains
+              unchanged and neither A nor B antigen can be formed . The O gene
+                      is recessive.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                          3/13
+
+===== PAGE 4 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+           Image showing the differences between A, B and O blood groups.
+
+
+
+
+
+           Which blood group is more prevalent in the British Caucasian population?
+             • Groups A and O
+           Which blood group is more prevalent in the South East Asian population?
+             • Group B
+           Which blood group is more prevalent in the African population?
+             • Group O
+         Why may there be differences in the prevalence of blood groups in different
+             areas?
+             •  Different blood groups can give you different survival advantages in
+                    different areas
+             •  This is because selection pressures are different, and the
+                advantageous areas varies with geographical distribution
+
+              Recall two ways that blood groups can alter susceptibility to infection.
+             •  Receptors on RBCs can allow colonisation and invasion of
+               pathogens
+             •  “False receptors” on RBCs can prevent pathogens binding to tissue
+           What is Landsteiner's law?
+             •   It is a law that states that whichever ABO antigens are lacking on a
+                given person's RBCs, that person will always have the
+                corresponding antibody.
+                 ◦  This is explained due to the exposure to these antigens on food
+                  and microorganisms at a young age.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                          4/13
+
+===== PAGE 5 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+              Recall two reasons why IgG antibodies that cross the placenta don’t even
+           end up causing HDFN most of the time.
+             •  Foetal RBCs have poorly developed antigens which don’t bind well
+                 to antibodies
+             • ABO antigens are found on numerous other cells (not just red cells)
+               so any IgG ABO antibodies that have crossed the placenta can be
+               ‘mopped-up’ by these cells without causing damage to fetal RBCs
+             •  Those antibodies that cross usually disappear after a few months as
+                 the baby begins to develop its own antibodies.
+
+           Which blood group can be donated universally to all patients and why?
+             •  Group O
+             •  These contain neither A or B antigens and so there is no risk of causing
+                acute HTRs.
+
+          When is a platelet unit described as “high-titre negative”?
+             • When there is a low concentration of anti-A or anti-B antibodies in
+                   their plasma and they are unlikely to attack ABO antigens on RBCs.
+             •  This is because platelets are usually administered with plasma
+                    (platelets are found in plasma)
+             • On the contrary, high-titre platelets are contain lots of anti-A or anti-
+            B antibodies that are likely to attack ABO antigens
+
+           Which should be used, high-titre or high-titre negative platelets and why?
+             •  High-titre negative platelets
+             •  This is because their plasma contains a lower concentration of anti-
+            AB antibodies than high-titre platelets which means lower risk of HTR
+             • NOTE: This only matters if the donor’s plasma group does not match
+                 the recipient’s plasma group. If the groups were matching, we’d have
+               no concern as no matter how many antibodies are present in the
+                 plasma, they would not attack the host ABO antigens as the blood
+                groups are the same.
+
+           What is FFP?
+             •  Fresh-frozen plasma.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                          5/13
+
+===== PAGE 6 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+           What is the universal plasma donor group and why?
+             • Group AB plasma as it contains no antibodies
+             •  This is because Group AB individuals have both A and B antigens in
+                   their blood, so it would make no sense for them to naturally produce
+                  antibodies against these antigens
+
+           What is main type of antigen under the Rh system?
+             • The D antigen.
+                 Is the gene for this antigen dominant or recessive?
+             •  Dominant
+             •  This means the RhD positive phenotype is coded for by a dominant
+                     allele.
+
+           What is the name of antibodies that act against antigen D?
+             •  Anti-D antibodies
+           What type of antibodies are anti-D antibodies?
+             •  IgG
+          Do RhD negative individuals have naturally occurring anti-D antibodies?
+             •  No.
+             •  They only develop anti-D antibodies on exposure to anti-D antigen
+         How long after exposure to antigen D does it take antibodies to appear?
+             •  2-5 months.
+           What is anti-D immunoglobulin and when is it used?
+             •   It is a treatment commonly used for pregnant RhD negative women to
+                 prevent the destruction of blood cells in their RhD positive foetus
+
+         How does anti-D immunoglobulin work?
+             •  Foetal RhD positive RBCs are destroyed when a mother’s anti-D
+                 antibodies cross the placenta into the foetus
+             •  Anti-D immunoglobulin works by destroying any cells that have
+                antigen D on them in the mother’s circulation, preventing the
+               mother from producing anti-D antibodies and eliminating the risk of
+                    this cross-placental cell death.
+             • NOTE: This only works in some cases, as the mother will need
+                   additional monitoring in other cases
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                          6/13
+
+===== PAGE 7 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+           Which Rh blood phenotype can be transfused to anyone?
+             • RhD negative
+             •  This is because RhD negative RBCs have no antigen D on them and so
+                  there is no risk of HTRs. Also, RhD positive individuals have no
+                  antibodies that work against antigen D so this is insignificant anyway
+
+         Why do platelets for blood transfusion need to be of the same RhD group as
+             the host, even though platelets do not express the RhD antigen?
+             • Some of the components of the platelet units can contain RhD
+                  positive RBCs that can lead to development of antibody
+                  (alloimmunisation) in RhD negative patients
+
+         How does forward grouping work when testing for ABO antigens?
+             • The A and B antibodies are added to the patient’s red cells once at a
+                 time and agglutination when an antibody is added indicates the
+               presence of a red blood cell antigen for that antibody
+
+         How does reverse grouping work when testing for ABO antigens?
+             • The A and B antigens are added to the patient’s serum antibodies
+               once at a time and agglutination when an antigen is added indicates
+                 the presence of a antibody for that antigen
+
+             Figure showing how forward and reverse grouping works.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                          7/13
+
+===== PAGE 8 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+         How do we test for RhD groups?
+             • The anti-D reagent is added to the red cells.
+             •  Agglutination will occur in RhD positive individuals but no agglutination
+                occurs in RhD negative individuals.
+
+
+
+
+
+           What is the purpose of antibody screening and how does it work?
+             • Red blood cells that contain all of the clinically relevant antigens are
+              added to the patient’s serum
+             •  Agglutination will occur when antibody interacts with antigen which
+                helps us know which acquired alloantibodies are present in the
+                  patient’s serum and transfuse based on this knowledge
+             •  Anti-human globulin needs to be added as a second reagent to make
+                the agglutination visible in this case.
+
+           What is the purpose of a cross-match and how does it work?
+             •   It is used in red-cell transfusions to assess a recipient’s compatibility
+                  with the donor’s red cels
+             • The red cells are added to the patient’s serum and agglutination is
+                looked out for
+             •  Agglutination means there is the presence of an antibody which will
+                   reject the red cells and hence incompatibility
+             • No agglutination means there is no antibody which will reject the red
+                    cells and hence compatibility
+
+           What is the difference between antibody screening and cross-match
+              testing?
+             •  Cross-match is different from antibody screening because whilst
+                antibody screening looks for the presence of all acquired
+                  alloantibodies, but cross-match only looks to see if the antibodies
+                 against the transfused RBC antigen is present
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                          8/13
+
+===== PAGE 9 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+           What is the difference between “group and screen” and “infection” testing?
+             • Group and screen testing involves the testing for antibodies which
+             may cause rejection
+                 ◦   It also confirms the ABO and Rh blood groups of the patient
+             •  Infection testing is more directed at blood-borne viruses and
+                  infections that may pose a threat to the recipient.
+
+           Image showing tests done on blood donors in the UK.
+
+
+
+
+
+          ZONE BELOW
+
+           What is apheresis?
+             • A technique used to separate blood components from each other
+             Describe how apheresis works.
+             •  Blood from the donor passes through the machine which separates
+                out the particular component required (e.g. red cells, platelets, or
+                plasma) and returns the remainder of the blood to the donor.
+
+         Why are red cell transfusions usually required?
+             • Red cell transfusions are required to increase the haemoglobin
+                concentration in the recipient’s blood
+             •  1 unit of red cells usually results in an increase in the haemoglobin by
+                10g/L in an average adult (weighing 70kg)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                          9/13
+
+===== PAGE 10 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+         How are red cells stored?
+             • Red blood cells (RBCs) are stored in a fridge at 4ºC.
+           What is the shelf-life of red blood cells?
+             • 35 days.
+         Why are platelet transfusions usually required?
+             •  Platelet transfusions are required for the treatment of bleeding or to
+               reduce the risk of bleeding in patients with low platelet counts
+                 (thrombocytopenia) or platelet dysfunction (e.g. due to certain drugs
+               such as antiplatelet medication)
+
+           What are the two main methods of platelet donation?
+             •  Pooled platelets - platelets separated from 4 whole blood donations
+                 are pooled together to make up 1 unit of platelets
+                 ◦  i.e the primary aim of the donation was not platelet donation
+             •  Apheresis - a single donor donates 1 unit of platelets through
+                apheresis
+                 ◦  i.e the primary aim of the donation was platelet donation
+         How are platelets stored?
+             •  Platelets are stored at room temperature (22ºC)
+             •  Platelets require constant agitation to ensure the platelets are
+                continuously oxygenated within their gas permeable containers.
+
+           What is the shelf-life of platelets?
+             •  7 days.
+         Why are FFP transfusions usually required?
+             • FFP contains all the coagulation factors so transfusions of FFP are
+                  usually conducted to reduce the risk of bleeding.
+             •   It can be used in patients with coagulopathies such as increased
+              PT/APTT
+
+               In response to what is FFP usually used?
+             •  Acquired coagulopathy
+                 ◦  i.e disseminated intravascular coagulation (DIC) which is
+                   abnormal blood clotting caused by injury
+             •  Inherited coagulopathy
+                 ◦  i.e abnormal clotting due to a factor deficiency such as Factor V
+                      deficiency
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                        10/13
+
+===== PAGE 11 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+           What is the shelf-life of FFP/cryoprecipitate?
+             • 3 years.
+         How is FFP/cryoprecipitate stored?
+             • FFP must be stored at 4ºC
+             •  However, it has a shelf-life of 3 years at -25ºC
+                 ◦ Once thawed, FFP must be used within 24 hours
+         Why are cryoprecipitate transfusions usually required?
+             •  Cryoprecipitate contains fibrinogen, Factor VIII, von Willebrand
+                  factor (VWF) and Factor XIII.
+             •  Cryoprecipitate transfusions can hence be used to treat or reduce the
+                   risk of bleeding
+
+           Which coagulation factors are found in cryoprecipitate?
+             •  Fibrinogen
+             •  Factor VIII
+             • von Willebrand factor (VWF)
+             •  Factor XIII.
+               In response to what is cryoprecipitate usually used?
+             • Low fibrinogen
+             •  Fibrinogen dysfunction.
+           What are the two main methods of cryoprecipitate donation?
+             •  Pooled donations - 5 whole blood units put together
+             •  Single donation
+         How is cryoprecipitate made?
+             •  Cryoprecipitate is made by slow thawing of FFP overnight until there
+                     is a precipitate.
+             •  This precipitate is then re-suspended in a small volume of plasma
+               and frozen to maintain the activity of the clotting factors.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                         11/13
+
+===== PAGE 12 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+           Image showing the use of all the blood component transfusions.
+
+
+
+
+
+           What is the use of human albumin solution (HAS)?
+             •  To increase plasma/albumin levels of the recipient.
+             •   It can be done
+                 ◦  To restore plasma volume in patients with plasma volume loss
+                        e.g. due to burns or trauma
+                 ◦  To replace plasma in plasma exchange e.g in the treatment of
+                  autoimmune disorders
+                 ◦  To initiate diuresis in patient with low albumin
+           What is the use of immunoglobulin solution?
+             •  This contains antibodies to viruses that need to be fought against in
+                 the recipient
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                        12/13
+
+===== PAGE 13 =====
+
+18/07/2026, 22:08                                                                   3.9 Blood Transfusion
+
+
+
+           What are the two types of immunoglobulin solution?
+             • Normal immunoglobulin
+                 ◦  This contains antibodies to viruses that are common in the
+                     population.
+             •  Specific immunoglobulins
+                 ◦  This is made from selected donors with high antibody levels to
+                    the target of treatment
+
+           What are clotting factor concentrates?
+             •  These are concentrates used to replenish the level of a single or
+                 multiple clotting factors
+                 ◦  i.e Fibrinogen concentrates, single factor concentrates
+           What do Prothrombin complex concentrates (PCCs) contain?
+             •  Factors II, VII, IX and X.
+           What can Prothrombin complex concentrates (PCCs) be used to combat?
+             •  Prothrombin complex concentrates (PCCs) can be used to reduce
+                the effect of anticoagulants such as warfarin.
+             •  This is because it contains all the liver-synthesised clotting factors
+                 that rely on Vitamin K for carboxylation, and so it can counter the
+                 effects of warfarin as a vitamin K antagonist
+
+           What is an alternative to cryoprecipitates that can be used to replace
+              fibrinogen in patients?
+             •  Fibrinogen concentrates provide an alternative to cryoprecipitate for
+                  replacing fibrinogen
+
+         Why are FFP and cryoprecipitate frozen?
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-9-Blood-Transfusion-43ca5d89e9324fe0a6b5644e8ac99561                                                        13/13

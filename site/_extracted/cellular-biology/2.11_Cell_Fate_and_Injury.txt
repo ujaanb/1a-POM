@@ -1,0 +1,367 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+    2.11 Cell Fate and Injury
+
+           What are the two mechanisms through which normal cells can become
+               injured/die?
+             • A stimulus which directly causes cell death (injurious stimulus)
+             • An inability for a group of cells to adapt as too much demand has been
+                placed on them.
+
+
+
+
+
+           What is the difference between lethal and sublethal cell injury?
+             •  Lethal cell injury directly leads to death
+             •  Sublethal cell injury does not directly lead to death and the injury may
+              be reversible, or progress to cell death eventually
+
+           What is hypertrophy?
+             • The enlargement of cells.
+           What is infarction?
+             •  Cell death due to ischaemia (lack of oxygen supply)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                          1/11
+
+===== PAGE 2 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+              Recall five stimulatory causes of cell injury.
+             • Oxygen deprivation
+             •  Genetic defects (i.e sickle cell)
+             •  Aging (i.e acquisition of increasingly volatile cells over time)
+             •  Nutritional imbalance (i.e lack of key ions/vitamins or simply calories)
+             •  Infectious agents
+             •  Immunological reactions
+             •  Chemical agents (weed killers, drug chemicals)
+             •  Physical agents (i.e trauma, gunshot wounds, radiation)
+           Which four intracellular processes are particularly vulnerable to cell injury?
+             •  Cell membrane integrity
+             • ATP synthesis
+             •  Protein synthesis
+             •  Genetic apparatus integrity (i.e DNA)
+                 ◦  These processes are so integrally related. For example, a lack of
+                 ATP synthesis means the Na+/K+ ATPase cannot function
+                      correctly and cell membrane integrity is affected
+
+         Why can we not assume that a normal looking cell (cell that looks alive) is
+              functional?
+             •  Cells undergoing the process of death usually lose their function
+                before actually dying and undergoing the morphological changes
+                seen.
+             •  This means a cell can be dead before looking dead, which is an
+                 important thing to note.
+
+           What is atrophy?
+             • The shrinkage in the size of a cell.
+             •   It can lead to the related organ also becoming smaller.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                          2/11
+
+===== PAGE 3 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+               In which pathology can brain atrophy be seen?
+             •  Advanced brain dementia.
+
+
+
+
+
+           What is the difference between physiological and pathological?
+             •  Physiological means processes that occur in normal, healthy people
+             •  Pathological means processes that occur in people with diseases
+           What is hypertrophy?
+             •  Increase in the size of cells which can lead to the increase in organ size
+             •   It can be physiological (seen in normal people)
+                 ◦  i.e uterus expands during pregnancy
+             •  Or pathological (part of a disease process)
+           What causes hypertrophy?
+             •  Increased functional demand
+             •  Specific hormonal stimulation
+              Recall an example of physiological hypertrophy.
+             •  Increased demand placed on muscle cells (i.e in athletes)
+             • The uterus during pregnancy
+              Recall an example of pathological hypertrophy.
+             •  People with hypertension/valve disorders
+                 ◦  This leads to left ventricular hypertrophy which is a result of the
+                            left ventricle pumping blood that is of such high pressure
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                          3/11
+
+===== PAGE 4 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+           What is hyperplasia?
+             • An increase in the number of cells in an organ which can lead to an
+                 increase in the organ’s size.
+             •   It can be hormonal (i.e endometrial gland proliferation during
+                pregnancy driven by oestrogen) or compensatory (i.e in response to a
+                  stimulus)
+             •  Pathological hyperplasias are seen in cancer.
+           What causes physiological hyperplasia?
+             • Hormone production
+             • Compensatory mechanisms
+                 ◦  i.e cell proliferation in response to damage
+           What causes pathological hyperplasia?
+             •  Excessive hormone production
+             •  Excessive growth factor production
+              Recall an example of physiological hyperplasia.
+             • The uterus during menstrual cycle after the lining has broken down
+             •  Hepatocyte regeneration in injured liver
+              Recall an example of pathological hyperplasia.
+             •  Carcinomas (cancers of epithelial tissue)
+           What is metaplasia?
+             • A reversible change where one adult cell type is replaced by another
+              Recall an example of physiological metaplasia.
+             •  In pregnancy when the inner columnar epithelial cells of the cervix
+                 are replaced by squamous epithelial cells during pregnancy. This is
+               due to the pH of the vagina
+                 ◦  This change is reversed after pregnancy.
+              Recall an example of pathological metaplasia.
+             • A pathological metaplasia is seen in Barrett’s oesophagus where the
+              squamous cells of the oesophagus are replaced by columnar ones
+                from the stomach.
+             •  In some cases, it is reversible
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                          4/11
+
+===== PAGE 5 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+           What is dyplasia?
+             • The state where cells show the genetic and cytological features of
+                malignancy, but don’t invade the surrounding tissue.
+             • The intermediate step between cells transforming from normal cells
+                 to cancerous cells.
+
+
+
+
+
+             •  In the image, cells on the right show signs of cancer (i.e big nuclei,
+                 increased mitosis) but they are still constrained within their cell
+             membranes and aren’t invading other tissues
+
+           What is a distinct characteristic of cells that are cancerous (or pre-
+             cancerous)?
+             •  They have larger nuclei, so can often look darker on light microscopes
+                 (C)
+
+
+
+
+
+             •  B: Metaplasia . C: Dysplasia
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                          5/11
+
+===== PAGE 6 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+           What is alcoholic fatty change?
+             • When the consumption of alcohol leads to the formation of fatty
+                areas in the liver
+             •  After a period of non-consumption, the changes will reverse.
+
+
+
+
+
+             •  Image showing fatty changes occurring to hepatocytes
+           What is ballooning degeneration?
+             •  Cells become much larger (hence the name ballooning) as a result of
+              damage to the cytoskeleton of the cells
+                 ◦  This damage can be induced by alcohol intake
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                          6/11
+
+===== PAGE 7 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+           What is the cell cytoskeleton?
+             •  This describes the structures within a cell that allow it to maintain its
+                  structure and internal organisation
+                 ◦  This is similar to a human skeleton and the role it plays in humans
+
+
+
+
+
+           What is necrosis?
+             •  Cell death that is associated with inflammation.
+           What are the four types of necrosis?
+             •  Coagulative
+             •  Liquefactive
+             •  Caseous
+             •  Fat
+           What is coagulative necrosis?
+             • A type of cell death that occurs when blood flow to cells stops or
+               slows (ischaemia)
+                 ◦ The dead cells often leads to hardening of the tissue
+                      (coagulation)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                          7/11
+
+===== PAGE 8 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+         How is coagulative necrosis identified microscopically?
+             •  Cells will often lose their nuclei
+             •  Myocardial infarct seen below
+
+
+
+
+
+           What is liquefactive necrosis?
+             • Where the tissue becomes liquefied as a result of cell death
+             •   It is common in the brain
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                          8/11
+
+===== PAGE 9 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+         How is liquefactive necrosis identified microscopically?
+             •  Liquid (white) can be seen to cover the majority of the tissue
+
+
+
+
+
+           What is caseous necrosis?
+             • A “cheesy” type of necrosis where the tissue becomes “oozy and
+                 structureless”
+
+
+
+
+
+         How is caseous necrosis identified microscopically?
+             •  Granular necrotic material is associated with the caseous areas
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                          9/11
+
+===== PAGE 10 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+           What is fat necrosis?
+             • The type of necrosis that causes the abnormal breakdown of fatty
+                  tissue which leads to liquefication of this fatty tissue
+             •   It is usually caused by the inappropriate activation of lipases in wrong
+                   tissue
+                 ◦  i.e pancreatitis where lipases act in pancreas instead of
+                 duodenum
+
+
+
+
+
+         How is fat necrosis identified microscopically?
+             •  Soapy calcium deposits (blue)
+             •  This is caused by lipases breaking triglycerides → glycerol + FFAs
+             • FFAs combine with calcium to form unabsorbable Ca-fatty acid
+               soaps
+                 ◦ FUN FACT: Ca2+ can hence cause weight loss in humans as FFAs
+                     won’t be absorbed.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                       10/11
+
+===== PAGE 11 =====
+
+18/07/2026, 22:01                                                                2.11 Cell Fate and Injury
+
+
+
+           What separates apoptosis from necrosis?
+             • The confluence of inflammation with cell death in necrosis.
+             •  This is caused by the leakage of cellular contents caused by cell
+              membrane degradation seen in necrosis that is not seen in apoptosis
+
+
+
+
+
+             Describe the process of apoptosis.
+             • The cell breaks down but no leakage - an apoptotic body is formed
+             •  Macrophages/phagocytes then come along to phagocytose these
+                    cells.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-11-Cell-Fate-and-Injury-848c32b8d0ff4a6797fce48ca07535ab                                                        11/11

@@ -1,0 +1,195 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:21                                                                   4.1 Microbial Infection
+
+    4.1 Microbial Infection
+
+           What are the five main microbial agents?
+             •  Viruses
+             •  Bacteria
+             •  Fungi
+             •  Protozoa
+             •  Helminths
+           What type of organisms are each of these agents?
+             •  Viruses - not cells in their own right
+             •  Bacteria - prokaryotes (no distinct nucleus)
+             •  Fungi - (single-celled) eukaryotes
+             •  Protozoa - (single-celled) eukaryotes
+             •  Helminths - (multicellular) eukaryotes
+         Why are viruses described as ‘obligate parasites?’
+             •  Because they have to infect hosts and use their material in order to
+                reproduce and survive.
+             •  This means they are not found anywhere else in the environment other
+                 than in hosts.
+
+           What are the two mechanisms used by viruses to divide?
+             •  Cytolysis or budding out of cells
+           What is the difference between cytolysis and budding?
+             •  Cytolysis is a method of viral particle release after replication which
+                causes the death of the infected host cell
+             •  Cytopathy is a method of viral particle release after replication which
+              does not cause the death of a host cell, but releases particles via
+                budding.
+
+           What advantage does budding have over cytolysis?
+             • The virus can continue to divide and replicate whilst the host does not
+                 recognise it as a pathogen.
+
+           What is a retrovirus?
+             • A virus that has an RNA genome.
+             •  This means it requires reverse transcriptase.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-1-Microbial-Infection-8dee2f84e0ba46ed8484165964797e7c                                                             1/5
+
+===== PAGE 2 =====
+
+18/07/2026, 22:21                                                                   4.1 Microbial Infection
+
+
+
+           What is one of the most important steps to take in eradicating an infectious
+             disease?
+             •  Implementing an efficient vaccine programme.
+           What is special about the genetic makeup of prokaryotes?
+             •  They contain one copy of each chromosome, instead of two like us
+             •  This means that a mutation to a gene is increasingly likely to have
+                 serious phenotypic effects.
+
+           What is different between the cytoskeleton of prokaryotes and eukaryotes?
+             •  Prokaryotes have a poor cytoskeleton (most of it comes from the
+                 peptidoglycan cell wall)
+             •  They don’t have the actin cytoskeleton
+         How do prokaryotes divide?
+             • By binary fission.
+           What is the difference between gram-negative and gram-positive bacteria?
+             •  Gram-positive bacteria have thicker cell walls with more
+                peptidoglycan than gram negative bacteria
+             •  This can be seen because the gram-positive bacterial cell walls retain
+                the purple crystal violet stain when it is applied but gram-negative
+              do not
+             •  Gram-negative bacteria have peptidoglycan which is sandwiched
+               between two membranes, but there is only one of these membranes
+                   in gram-positive bacteria.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-1-Microbial-Infection-8dee2f84e0ba46ed8484165964797e7c                                                             2/5
+
+===== PAGE 3 =====
+
+18/07/2026, 22:21                                                                   4.1 Microbial Infection
+
+
+
+           What role does the capsule play in bacteria?
+             •   It can allow them to escape phagocytosis by hosts as well as other
+                  destructive immune processes as well as protecting them from
+                  desiccation (drying up)
+
+           What role does the pili play in bacteria?
+             •   It can be used to attach to certain surfaces
+         How can bacteria move other than using their flagella?
+             •  Using the actin cytoskeleton
+              Recall two hospital acquired bacterial infections.
+             •  Clostridium difficile (C. diff)
+             •  Methicillin-resistant Staphylococcus aureus (MRSA)
+         How do bacterial genomic mutations spread faster than human genomic
+             mutations, despite the fact that both organisms have the same point
+             mutation rates (mutations per number of genes)?
+             • The rate at which bacteria reproduce is astronomically faster than
+              humans - they have a shorter generation time
+             • A new bacterial generation can take as short as 20 minutes to develop,
+                 but in humans, the average generation takes about 26 years to form.
+             •  This means that mutations that occur in bacteria are spread to
+                  offspring much more frequently, compared to in humans where the
+                spread can take a number of years.
+             •  Also, the haploid nature of bacterial cells means that a mutation
+                spreads far more easily to offspring and can have phenotypic effects
+              more easily, compared to in humans where we have copies of each
+               gene from mum and dad
+
+           What is a cutaneous infection?
+             • One that has its effect through the deep tissue in the skin
+             •  For example, it can cause swelling or deep inflammation of skin tissues
+           What is a visceral infection?
+             • One that has its effect through the organs in the body
+         How do protozoa divide?
+             • By binary fission or trophozoite formation
+             •  Trophozoites are growing stages which result in bursting and the
+                  release of protozoa into the environment.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-1-Microbial-Infection-8dee2f84e0ba46ed8484165964797e7c                                                             3/5
+
+===== PAGE 4 =====
+
+18/07/2026, 22:21                                                                   4.1 Microbial Infection
+
+
+
+           What is a trophozoite?
+             • A trophozoite is the activated, feeding stage in the life cycle of
+                   certain protozoa such as malaria-causing Plasmodium falciparum
+
+           What are the two forms that fungi can exist in?
+             •  Yeasts or filaments.
+             Give two examples of viral infections.
+             •  HIV
+             •  Smallpox
+             •  Ebola
+             •  HTLV-1
+             Give three examples of bacterial infections.
+             •  Mycobacterium tuberculosis (TB)
+             •  Helicobacter pylori - peptic & gastric ulcers
+             •  Pathogenic E. Coli - (urinary tract infections, food poisoning,
+                  meningitis etc.)
+             •  Clostridium difficile
+             •  Methicillin resistant staphylococcus aureus
+             Give an example of a fungal infection.
+             •  Athlete’s foot
+             Give two examples of protozoa.
+             •  Malaria
+             •  Leishmania
+             Give three examples of helminths.
+             • Roundworms
+             •  Flatworms
+             • Tapeworms
+             • Hookworms
+           What characteristic of helminths can make them easier to avoid?
+             •  They are visible to the naked eye.
+           What does the term ‘viral tropism’ refer to?
+             •  Viral tropism is the range of hosts that viruses can bind onto
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-1-Microbial-Infection-8dee2f84e0ba46ed8484165964797e7c                                                             4/5
+
+===== PAGE 5 =====
+
+18/07/2026, 22:21                                                                   4.1 Microbial Infection
+
+
+
+           What is a bacillus?
+             •   It is a gram-positive, rod shaped bacteria.
+           What is a nosocomial infection?
+             • An infection acquired in a hospital.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-1-Microbial-Infection-8dee2f84e0ba46ed8484165964797e7c                                                             5/5

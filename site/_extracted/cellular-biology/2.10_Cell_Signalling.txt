@@ -1,0 +1,215 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 21:57                                                                 2.10 Cell Signalling
+
+    2.10 Cell Signalling
+
+             Describe how the body responds to hypoglycaemia.
+             •  Glucagon is released by alpha cells in the Islet of Langerhans
+                 (pancreas)
+             •  Glucagon travels from pancreas to blood vessels
+             •  This stimulates glycogenolysis (breakdown of glycogen) and
+                gluconeogenesis (generation of glucose) in the liver, increasing blood
+                glucose levels.
+
+           What is meant by “endocrine signalling”?
+             •  This describes how secreted hormones travel from one tissue in the
+               body to another distant target cell via the bloodstream
+             •  For example, insulin is secreted by the pancreas to act on the liver.
+             Describe how the body responds to hyperglycaemia.
+             •  Insulin is released by beta cells in the Islet of Langerhans (pancreas)
+             •  This prevents further glucagon secretion in the pancreas, preventing
+                   further increase of blood glucose levels.
+
+           What is meant by “paracrine signalling”?
+             • The action of a hormone on an adjacent target cell.
+              Recall two other examples of paracrine signalling.
+             •  Nitric oxide produced by endothelial cells in blood vessels, acting on
+              smooth muscle cells in blood vessels to cause vasodilation
+             •  Osteoclast activating factors produced by adjacent osteoblasts (bone
+                  remodelling).
+
+             Describe an example of signalling between membrane attached proteins.
+             •  Blood-borne virus detected by antigen-presenting cell (APC)
+             • APC digests pathogen and expresses MHC Class II molecules on its
+                 surface
+             •  This leads to T Cell receptor (TCR) interacting with this MHC and
+                binding to the antigen
+
+           What is meant by autocrine signalling?
+             •  Signalling molecules being released by one cell and binding onto the
+             same cell, acting on it.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-10-Cell-Signalling-cef0b0a4577244aa9a952deb069a317d                                                                1/6
+
+===== PAGE 2 =====
+
+18/07/2026, 21:57                                                                 2.10 Cell Signalling
+
+
+
+             Describe how the process of neurotransmission between the presynaptic
+           and postsynaptic axon terminals occurs.
+             • The action potential is propagated by the depolarisation (Na+ influx)
+               and repolarisation (K+ efflux) of the presynaptic membrane
+             • The action potential leads to Ca2+ influx into the presynaptic axon
+                  terminal and exocytosis
+             • The neurotransmitter binds to the postsynaptic receptors
+             • The postsynaptic receptors are activated and signal is transmitted.
+           Where on cells are postsynaptic receptor molecules located?
+             • On cell membranes
+              Recall the four types of postsynaptic neurone receptor.
+             •  Ionotropic receptor
+             •  G-protein coupled receptor
+             •  Enzyme-linked receptor
+             •  Intracellular receptor
+           What is meant by the term “ligand” in cell signalling?
+             • A hormone, protein, molecule
+             •  Just anything that can bind to a receptor
+             Describe how ionotropic receptors work.
+             •  Ligand binds onto the receptor
+             •  This causes an ion channel protein to open a pore in the cell
+              membrane
+             • The pore causes ions to travel in and out of cells depending on the
+                concentration gradient.
+
+           What is an alternative name for a G-protein coupled receptor and why is
+              that name given to it?
+             • 7-TM (transmembrane) receptor
+             •  This is because it crosses the membrane seven times.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-10-Cell-Signalling-cef0b0a4577244aa9a952deb069a317d                                                                2/6
+
+===== PAGE 3 =====
+
+18/07/2026, 21:57                                                                 2.10 Cell Signalling
+
+
+
+           What are the three constituents present in a G protein?
+             •  Alpha
+             •  Beta and gamma which stay together
+             • GDP is also bound to this complex
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-10-Cell-Signalling-cef0b0a4577244aa9a952deb069a317d                                                                3/6
+
+===== PAGE 4 =====
+
+18/07/2026, 21:57                                                                 2.10 Cell Signalling
+
+
+
+             Describe how G-protein coupled receptors work.
+             •  Ligand binds onto the receptor which activates it and causes it to
+              change conformation
+             •  This allows the previously unassociated heterotrimeric G-protein to
+                bind to the receptor
+                 ◦ NOTE: multiple G-proteins bind to the receptor as a result of
+                  one G protein binding
+             • GDP molecule is exchanged for a GTP molecule and the G-protein is
+                  activated
+             • The G-protein then separates into its alpha and the beta-gamma
+                subunits
+             • The alpha subunit, attached to the GTP molecule, then moves to the
+                 target protein
+                 ◦ GTP is dephosphorylated to GDP using internal GTPase, this
+                   energy is used to move the alpha-GTP complex to the target
+                     protein
+             •  Effects are then induced depending on the identity of the target
+                 protein
+             • The alpha subunit then rebinds to the beta and gamma subunits and
+                reforms the G-protein
+             • The process stops when the ligand is no longer bound to the cell
+                surface
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-10-Cell-Signalling-cef0b0a4577244aa9a952deb069a317d                                                                4/6
+
+===== PAGE 5 =====
+
+18/07/2026, 21:57                                                                 2.10 Cell Signalling
+
+
+
+           What are the two most prominent types of G-protein?
+             • Gs and Gi.
+             •  s for stimulate (adenylyl cyclase activity), i for inhibit (adenylyl cyclase
+                     activity).
+
+           What is the third type of G-protein?
+             •  Gq.
+           What is adenylyl cyclase?
+             •  This is one of the target proteins that G proteins can act on during
+                 the cascade of reactions
+
+           Which G proteins act on adenylyl cyclase and what effects do they have?
+             • Gs - stimulates adenylyl cyclase expression
+             •  Gi - inhibits adenylyl cyclase
+           What does adenylyl cyclase do?
+             •   It stimulates conversion of ATP to cAMP (cyclic adenosine
+              monophosphate)
+             • cAMP stimulates protein kinase A production
+             •  This protein kinase A (PKA) has various intracellular effects within
+                    cells.
+             •  i.e increased protein kinase A can be used to release adrenaline
+              Recall two examples of G-protein coupled receptors.
+             •  Beta1-adrenergic receptor
+             •  M2-muscarinic receptor
+           What is the beta1-adrenergic receptor used for?
+             •  Adrenaline binding
+                 ◦  This can induce effects such as increasing heart rate
+           What is the M2-muscarinic receptor used for?
+             •  Acetylcholine binding
+                 ◦  This can induce effects such as decreasing heart rate
+           What does the Gq protein do?
+             •  Stimulates phospholipase C
+             •  Converts PIP to IP3 and DAG
+             •  IP3 causes Ca2+ release which is useful for exocytosis
+             • DAG activates PKC (protein kinase C)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-10-Cell-Signalling-cef0b0a4577244aa9a952deb069a317d                                                                5/6
+
+===== PAGE 6 =====
+
+18/07/2026, 21:57                                                                 2.10 Cell Signalling
+
+
+
+         How does an enzyme-linked receptor work?
+             •  At least two ligands bind to the receptor which causes clustering of
+                receptors
+             • The clustering activates the enzymes that are linked to the receptors
+             • The active enzymes then phosphorylate the receptor
+             •  Phosphorylation leads to the binding of signalling proteins to the
+                 cytoplasmic domain of the receptor
+             •  These signalling proteins recruit other signalling proteins and signal
+                     is generated throughout the cell.
+
+              Recall two examples of enzyme-linked receptors.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-10-Cell-Signalling-cef0b0a4577244aa9a952deb069a317d                                                                6/6

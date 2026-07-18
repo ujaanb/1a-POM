@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+*.pyc
+__pycache__/
+.venv/
+venv/
+docs/diagrams/plantuml.jar
+docs/diagrams/*.png
+docs/diagrams/*.svg

@@ -1,0 +1,190 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:06                                                               3.3 Red Blood Cell Parameters
+
+    3.3 Red Blood Cell Parameters
+
+      Venepuncture
+
+              What is the antecubital fossa?
+                 • The anatomical space between the forearm and anatomical arm
+                    (around the elbow joint)
+                     ◦  You can use this region as a landmark for venepuncture
+              What is the name of the piece of equipment wrapped around the arm
+                  to stop the flow of blood before venepuncture?
+                 •  Tourniquet
+                     ◦ Use a disposable one
+                 • The tourniquet allows the vein to pop up in the arm very nicely,
+                   so we can obtain a blood sample more easily
+
+
+
+
+
+            How do we know the needle is actually inside the vein once we have
+                  inserted it in a patient for venepuncture?
+                 •  There should be a flashback in the cannister (round tube used to
+                      contain blood)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-3-Red-Blood-Cell-Parameters-87517ad7cd9e4003966a4430506083ae                                                     1/5
+
+===== PAGE 2 =====
+
+18/07/2026, 22:06                                                               3.3 Red Blood Cell Parameters
+
+
+
+         How do you obtain the small amount of blood from someone to gain an
+            adequate sample for the haematocrit?
+             •   It is usually safest and most comfortable to puncture the sides of the
+                   distal phalanges (fingertips)
+             • Once punctured, firm pressure can re-open the wound site
+             •  For the haematocrit, you will use a capillary tube
+             •  For the MHC and MCHC, you will use a Haemocue cuvette
+           What is the haematocrit?
+             • The percentage by volume of erythrocytes (red blood cells) in your
+                blood.
+                 ◦  i.e The percentage of the total blood volume that is occupied by
+                      erythrocytes
+
+         How can you measure the haematocrit in a human?
+             •  Clean surface with alcohol, allow it to evaporate
+             •  Pierce the skin with a lancet and allow the blood to flow outwards
+             • Use capillary tube to collect blood from the incision made by lancet
+                     until over 50% full
+             •  Place capillary tube on wax and allow the end to run dry
+             •  Centrifuge the blood-containing capillary tube for ten minutes
+             • Use the micro haematocrit reader to interpret the results of this
+                   centrifugation.
+
+           What is the purpose of centrifuging the blood sample in haematocrit
+             reading?
+             •  To separate the red blood cells from the rest of the plasma in the
+                  blood.
+                 ◦  Naturally, the red blood cells will accumulate at the bottom of a
+                  sample
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-3-Red-Blood-Cell-Parameters-87517ad7cd9e4003966a4430506083ae                                                     2/5
+
+===== PAGE 3 =====
+
+18/07/2026, 22:06                                                               3.3 Red Blood Cell Parameters
+
+
+
+             Describe how to use the micro haematocrit reader to find the haematocrit of
+            a blood sample.
+             •  Align the bottom of the centrifuge tube with the “zero-line” on the
+                 reader
+             •  Slide the adjustable part of the reader to align with the top of the dark
+                 erythrocyte solute component which has been separated from the
+               plasma
+             • Read where the line on the reader is pointing to on the y-axis.
+             •  This is your haematocrit.
+
+
+
+
+
+           What unit is used to measure the haematocrit?
+             •  Litre of red cells per litre of blood cells (L/L)
+             •   It is usually given as a percentage or decimal (i.e 47% or 0.47)
+           What is the name of the type of error which is commonly obtained by
+              incorrect alignment of the bottom of the blood sample and the “zero line” on
+             the reader?
+             •  Parallax error.
+         How can you measure the red blood cell count?
+             • Use a haemocytometer to count the number of red blood cells in a
+                   particular area
+             •  Multiply this number by the relevant factor to calculate total number of
+                 red blood cells in blood
+
+           What unit is used to measure red blood cell count?
+             •  cells/Litre.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-3-Red-Blood-Cell-Parameters-87517ad7cd9e4003966a4430506083ae                                                     3/5
+
+===== PAGE 4 =====
+
+18/07/2026, 22:06                                                               3.3 Red Blood Cell Parameters
+
+
+
+           What unit is used to measure mean cell volume (mean volume of a blood
+                cell)?
+             •  Femtolitres (fL) (10^-15L)
+             • MCV is the average volume of each red cell
+           What are two important safety considerations you must make when taking
+            blood from someone?
+             • Use alcohol to clean the surface before puncturing (also allow it to
+                 evaporate)
+             • Wear gloves so that blood does not touch your skin.
+         How can you measure haemoglobin concentration of the blood?
+             • Use a cuvette to collect blood from sample
+             •  Place cuvette in haemocue device and read the value that is projected
+           What unit is used to measure haemoglobin concentration?
+             •  g/L (grams per litre).
+             • Grams of haemoglobin per litre of BLOOD
+           What is “intention to treat” analysis compared to “per protocol” analysis?
+             •  “Intention to treat” analysis is more tolerant of anomalies than per
+                  protocol analysis, as it is used to mirror actual practice and see how
+                      clinically effective drugs are, including those who may not take the
+                drug course correctly.
+                 ◦   It describes how the drug course has the intention to treat the
+                        patient’s condition but acknowledges that for one reason or
+                      another, this may not have happened
+             •  “Per protocol” analysis typically contains “cleaner” data as it removes
+                anomalies and does not account for those who may not have followed
+                   instructions when undergoing the drug course. It strictly wants to
+                 focus on the data that “matters.”
+                 ◦   It analyses the data of those who have kept per protocol and
+                      followed instructions of how to use the drugs
+
+         How can mean red cell volume (MCV) be calculated?
+             •  Haematocrit (Litres of red cell / Litre of blood) / red blood cell count
+               (number of red cells / Litre of blood)
+             •  This is effectively litres of red cell / number of red cells which will give
+               you a quantity in litres (which we want)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-3-Red-Blood-Cell-Parameters-87517ad7cd9e4003966a4430506083ae                                                     4/5
+
+===== PAGE 5 =====
+
+18/07/2026, 22:06                                                               3.3 Red Blood Cell Parameters
+
+
+
+         How can mean cell haemoglobin (MCH) be calculated?
+             •  Haemoglobin concentration (Hb)(g/L) / red blood cell count (red
+                     cells/Litre)
+             •  This is effectively haemoglobin amount in grams / number of red blood
+                     cells, which calculates the mean amount of haemoglobin per red cell.
+
+         How can mean cell haemoglobin concentration (MCHC) be calculated?
+             •  Haemoglobin concentration (Hb) (grams of haemoglobin / Litre of
+                blood cells) / Haematocrit (Litres of RBC / Litre of blood cells)
+             • MCHC differs from MCH because it calculates how much haemoglobin
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/3-3-Red-Blood-Cell-Parameters-87517ad7cd9e4003966a4430506083ae                                                     5/5

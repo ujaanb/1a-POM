@@ -1,0 +1,359 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+    4.15 Hypersensitivity
+
+           What is an adjuvant?
+             • A substance that activates/enhances the body’s immune response
+                  against an antigen
+             •   It allows the body to provide a stronger immune response against a
+               pathogen
+
+           What is a hapten?
+             • A small molecule which on its own is not antigenic, but when
+                 associated with a large carrier such as a protein can form an antigen.
+
+           What is an immunogen?
+             • An antigen that can independently elicit an immune response
+           What is an immune complex?
+             • An antibody bound to an antigen
+           What is immunogenicity?
+             • The ability of a substance to elicit an immune response
+           What is a damage associated molecular pattern (DAMP)?
+             •  Molecules that are released as a result of non-apoptotic cell death
+             •  They are recognised by and can activate the innate immune system
+                       (first line of defence) in order for it to fight against the causative agent
+                  of the damage
+
+           What is a pathogen associated molecular pattern (PAMP)?
+             • Common molecular patterns found in pathogens and microbes, but
+                not host cells
+             •  These patterns allow the innate immune system to recognise that
+                  there are pathogens about
+
+           What are PRRs (Pattern recognition receptors)?
+             •  These are proteins on hosts that recognise DAMPs and PAMPs
+           What is an antigen?
+             • Any molecule or molecular structure that can be recognised by an
+                antibody or the adaptive immune system.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                           1/10
+
+===== PAGE 2 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+
+
+           Image showing the structures of the different types of antibody.
+
+
+
+
+
+           Which antibody potently activates complement and Fc receptor mediated
+             phagocytosis?
+             •  IgG3
+           Which antibody can cross the mucosal epithelium to deal with mucosal
+              infections?
+             •  IgA
+           Which antibody can induce mast cell degranulation and hence prompt
+              release of inflammatory mediators?
+             •  IgE.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                           2/10
+
+===== PAGE 3 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+
+
+           Image showing T cell differentiation.
+             • As seen in this diagram, T cells are activated by their interactions with
+                 antigens
+             •  This allows them to differentiate via clonal expansion into CD4 (helper,
+               used to activate B cells and macrophages) or CD8 T cells (killer cells)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                           3/10
+
+===== PAGE 4 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+
+
+           Image showing the different T helper cells that a naive CD4 cell can
+               differentiate into and their respective functions.
+
+
+
+
+
+           Which type of T cell is involved in the activation of macrophages, B cells and
+             other cells?
+             • CD4 T cells
+           Which type of T cell is involved in the killing of infected target cells?
+             • CD8 T cells
+              Recall three diseases that result from Type I (immediate or anaphylactic)
+              hypersensitivity reactions.
+             • Asthma
+             •  Allergic rhinitis (hay fever)
+             •  Atopic dermatitis (eczema)
+           What can a skin prick test be used for in the context of allergy?
+             •  Skin prick tests involve exposing the skin to small amounts of
+                 allergen
+             •  This can often be used to diagnose allergy as inflammation will occur
+                     in the case of an allergy
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                           4/10
+
+===== PAGE 5 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+
+
+           What is a Type I hypersensitivity reaction?
+             •  This is an allergic reaction that occurs when a susceptible host is re-
+               exposed to what is known as an allergen
+                 ◦  i.e they have already been exposed to the allergen before, and
+                   have antibodies in their arsenal that can work against this allergen
+             •   It happens because allergic individuals produce IgE antibodies
+                 against common antigens, which shouldn’t have antibodies produced
+                  against them in a normal situation
+                 ◦  IgE antibodies are normally only produced against potent
+                    antigens such as parasitic ones
+             •   It can lead to a “wheal-and-flare” reaction (i.e inflamed tissue)
+         How is the immune system initially sensitised to a particular allergen?
+             • The initial sensitisation of the immune system to aberrantly recognise a
+                harmless antigen as harmful is complex with factors in genetics, age
+              and the environment involved
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                           5/10
+
+===== PAGE 6 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+
+
+             Describe how IgE is initially produced in Type I hypersensitivity reactions.
+             • The immune system is sensitised to a particular allergen, meaning it
+                  aberrantly recognises it as dangerous. This results in the production of:
+             • Th2 CD4 cells and T follicular helper (Tfh) CD4 cells
+             •  These T cells produce cytokines IL-4 and IL-13 and the action of
+                these cytokines on B cells causes them to switch to producing IgE
+                  specific to the allergen
+             • The IgE then binds to mast cells using its Fc receptor, leading to
+                 degranulation of the mast cells
+
+
+
+
+
+           Which cells do IgE bind to and how do they do this?
+             •  Basophils and mast cells
+             • These granulocytic cells express a high affinity IgE receptor, Fc
+                 epsilon receptor I (FcεRI)
+
+           What are the two types of T helper cell produced in a Type I hypersensitivity
+              reaction?
+             • Th2 CD4 T cells
+             • T follicular helper (Tfh) CD4 T cells
+           What two molecules are produced by these cells?
+             •  IL-4
+             •  IL-13
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                           6/10
+
+===== PAGE 7 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+
+
+           What effect do these molecules have in hypersensitivity reactions?
+             •  IL-4 and IL-13 are cytokines that are used to promote the production
+                 of IgE when they act on B cells.
+
+         How does IgE interact with antigens in a Type I hypersensitivity reaction,
+           and what effect does this have on the cells around it?
+             •  IgE then binds onto mast cells and basophils due to their high
+                    affinity for the Fc epsilon receptor I (FcεRI) found on IgE
+             • When IgE is bound to antigens, these IgE are cross-linked and
+                degranulated and this leads to release of inflammatory mediators
+               such as histamine and serotonin
+             • The speed and magnitude of this response is heightened during the
+                inflammatory response compared to normal infection
+
+         Why are there three phases in Type I hypersensitivity reactions?
+             •  There is such a wide range and variety of different molecules
+                released that the release of these molecules can be classed into
+                 three phases
+
+           What happens in the early phase of a Type I hypersensitivity reaction?
+             •  Bioactive small molecules (i.e histamine, cytokines, leukotrienes and
+                  prostaglandins) are produced directly by mast cells
+
+           What happens in the later phase of a Type I hypersensitivity reaction?
+             •  Neutrophils are recruited to the site of reaction
+           What happens in the late phase of a Type I hypersensitivity reaction?
+             •   It happens 3-4 days after exposure and it’s where high frequencies of
+                 eosinophils are recruited and Th2 cells are present.
+
+           What is the role of leukotrienes and prostaglandins in a Type I
+              hypersensitivity reaction?
+             •  They are used to cause smooth muscle to contract
+             •  They are highly active molecules.
+           Which two types of antibodies are involved in Type 2 hypersensitivity
+              reactions?
+             •  IgG and IgM
+           What is an alternative name for Type 2 hypersensitivity reactions?
+             •  Antibody-mediated cytotoxic hypersensitivity
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                           7/10
+
+===== PAGE 8 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+
+
+           What happens in Type 2 hypersensitivity reactions?
+             • The IgM or IgG antibodies bound to self cell antigens, and sometimes
+              go on to kill these cells
+             •  These reactions are otherwise known as antibody-mediated cytotoxic
+                  hypersensitivity reactions
+
+           What are the two ways that Type 2 hypersensitivity reactions come about?
+             •  Exposure to a foreign antigen which is recognised by antibodies
+             •  Aberrant (unusual) response of the antibodies against self-antigens
+           What are the three ways that these reactions can cause disease?
+             •  Anti-receptor activity – blocking or activating a receptor’s function
+             •  Antibody dependent cell-mediated cytotoxicity (abbreviated to ADCC)
+             •  Classical activation of the complement cascade
+                 ◦  This leads to inflammation, opsonisation and recruitment of
+                 immune cells
+
+              Recall two examples of Type 2 hypersensitivity reactions.
+             • Immune thrombocytopenia (antibodies act against self platelet
+                  antigens)
+             •  Graves disease
+             •  Blood transfusion reactions
+           What happens in Grave’s disease?
+             •  Patients develop thyroid stimulating antibodies that bind the
+                 thyrotropin receptor resulting in secretion of thyroid hormones.
+
+           Where are antibody-antigen complexes bound to in Type 2 hypersensitivity
+              reactions?
+             •  Fc receptors (they bind to constant region of antibody) on the surface
+                  of Natural Killer (NK) cells and granulocytes
+             •  This leads to the direct lysis of the target cell, but also release of
+                 inflammatory mediators, chemokines and cytokines
+             •  Hence, Type 2 hypersensitivity reactions can also lead to loss of
+                 function or imbalance in organ function
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                           8/10
+
+===== PAGE 9 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+
+
+           What is antibody-dependent cell-mediated cytotoxicity (ADCC)?
+             •  In ADCC, antibody-antigen complexes on the surface of cells are
+              bound by Fc receptors expressed by cells such as granulocytes and
+            NK cells
+             •  This leads to directed lysis of the target cell, but also the release of
+                inflammatory mediators, chemokines and cytokines.
+
+           What is an alternative name for Type 3 hypersensitivity reactions?
+             • Immune complex driven disease
+           What happens in Type 3 hypersensitivity reactions?
+             • Immune complexes (non cell-bound antibody-antigen complexes)
+                form and normally they are cleared up by the immune response
+             •  In Type III HRs, the immune complexes aren’t cleared up and this
+                 leads to their deposition in blood vessel walls and tissues, promoting
+                 inflammation and tissue damage due to excess neutrophil
+                 extravasation to the tissues
+                 ◦  i.e if antibodies are produced against DNA, since almost all cells
+                   have DNA, it will be near impossible to clear up these immune
+                  complexes
+             •  This can lead to fever, rashes, joint pain or protein in the urine:
+                   vasculitis if deposited in blood vessels, glomerulonephritis if in the
+                kidneys or arthritis if in the joints.
+
+             Describe the distinction between Type 2 and Type 3 hypersensitivity
+              reactions.
+             • Type II reactions involve recognition of antigens on the surface of
+                   cells by IgGs and IgMs and the lysis or dysfunction of those cells
+             • Type III reactions, again using antibodies, recognise antigen that is
+                  freely available in the body, not attached to cells and usually present
+                 over sustained periods.
+
+              Recall three autoimmune diseases caused by Type 3 hypersensitivity
+              reactions.
+             •  Rheumatoid arthritis
+             •  Multiple sclerosis
+             •  Systemic lupus erythematosus (SLE)
+           What happens in systemic lupus erythematosus (SLE) reactions?
+             •  IgG binds to DNA or nucleoproteins which form deposits
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                           9/10
+
+===== PAGE 10 =====
+
+18/07/2026, 22:24                                                                4.15 Hypersensitivity
+
+
+
+         How is anti-serum used to treat patients with snake bites and how can Type
+          3 hypersensitivity interfere with this?
+             •  Antibodies for the snake venom particles are injected into the body
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-15-Hypersensitivity-d8e0767440484781bd8c78a947b4f5c0                                                        10/10

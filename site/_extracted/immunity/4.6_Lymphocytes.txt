@@ -1,0 +1,338 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:22                                                                      4.6 Lymphocytes
+
+   4.6 Lymphocytes
+
+           What is the difference between innate and adaptive immune cells?
+             •  Innate immune cells are involved in engulfing and killing pathogens
+                    this way (i.e macrophages, neutrophils)
+             •  Adaptive immune cells are involved in targeting specific regions on
+                pathogens (i.e T cells, B cells)
+
+           What are the main functions of T cells?
+             •  To orchestrate an immune response (T helper) and kill infected cells
+                 (T killer)
+
+           What are the main functions of B cells?
+             •  To make antibodies
+         Why is adaptive immunity important?
+             •  To clear initial infections and protect us from repeated exposure to
+                these pathogens via memory
+
+         Why are memory responses typically faster than primary responses?
+             • The process for a naive cell to become an effector cell is one that
+                  requires a lot of signalling
+             •  But the process for a memory cell to respond to a familiar pathogen is
+                  quite quick and doesn’t require much signalling
+
+
+
+
+
+         How long can immune memory last for?
+             • A very, very long time - can be lifelong
+             •  There are cases which suggest to us that it could last for up to 60
+                  years.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-6-Lymphocytes-6dcab325d5d04acc946f91e6073e7e3d                                                                   1/9
+
+===== PAGE 2 =====
+
+18/07/2026, 22:22                                                                      4.6 Lymphocytes
+
+
+
+           What are the two types of T cell?
+             • CD4
+             • CD8
+           What do CD4 T cells do?
+             •  They produce cytokines to help shape the immune response.
+           What do CD8 T cells do?
+             •  They kill infected cells
+           What part of a T or B cell allows it to interact with antigens?
+             • The T or B cell receptor.
+         How is a B or T cell activated?
+             • The antigen binds onto the receptor
+             •  This causes the proteins under the receptor region to bind onto
+                other proteins in a signalling cascade
+
+
+
+
+
+           What is an epitope?
+             • The region on an antigen where a B or T cell receptor binds to
+         How do T cells bind to antigens?
+             • T cells recognise a linear sequence of ~10-15 amino acids on the
+                 epitope on an MHC (major histocompatibility complex)
+             •  They recognise the primary structure in the epitope
+         How do B cells bind to antigens?
+             •  They recognise the structure/shape of the epitope rather than the
+               sequence
+             •  They recognise the tertiary/quaternary structure of the epitope
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-6-Lymphocytes-6dcab325d5d04acc946f91e6073e7e3d                                                                   2/9
+
+===== PAGE 3 =====
+
+18/07/2026, 22:22                                                                      4.6 Lymphocytes
+
+
+
+           What is a cognate antigen?
+             • The antigen that a specific T cell recognises
+             Describe what clonal expansion is.
+             • When a vaccine is given for example, there are small amounts of T cell
+               and B cell produced in response to the spike proteins
+             •  Clonal expansion describes how the number of these T and B cells
+                 increase as they are re-exposed to their cognate antigen as they have
+                  to produce an immune response.
+
+
+
+
+
+           What is immunoglobulin gene rearrangement and why is it important?
+             •   It is the process where the genes are rearranged during protein
+                 production in order to increase the B and T cell receptor diversity
+             •  This is because there are not enough genes to combat the large
+              number of pathogens that exist globally and so this method of
+               rearrangement helps to increase the number of receptors possible by
+                  rearranging genes
+
+           What happens to T cell production as we age?
+             •   It decreases.
+             • Once we hit the age of ~ 25-26, T cell production in the thymus
+                stops so we stop making new T cells and our T cell repertoire doesn’t
+                 increase in size.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-6-Lymphocytes-6dcab325d5d04acc946f91e6073e7e3d                                                                   3/9
+
+===== PAGE 4 =====
+
+18/07/2026, 22:22                                                                      4.6 Lymphocytes
+
+
+
+            Diagram showing the structure of a T cell receptor.
+
+
+
+
+
+           What is the role of the major histocompatibility complex (MHC)?
+             •  To present antigens on cell surfaces, so that T cells can interact with
+              them and initiate a response.
+             •   It also plays a key role in defining self and non-self antigens
+           What is the role of the HLA gene family?
+             •  To code for the major histocompatibility complex (MHC)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-6-Lymphocytes-6dcab325d5d04acc946f91e6073e7e3d                                                                   4/9
+
+===== PAGE 5 =====
+
+18/07/2026, 22:22                                                                      4.6 Lymphocytes
+
+
+
+             Describe three differences between MHC Class I and Class II.*
+             • MHC Class I is found in all nucleated cells, but MHC Class II is only
+               found in professional antigen-presenting cells
+             • MHC Class I is used against intracellular pathogens, MHC Class II is
+               used against extracellular pathogens
+             • MHC Class I has a single variable alpha chain and a common beta-
+                 microglobulin. MHC Class II has an alpha and a beta chain
+
+
+
+
+
+           What term is used to describe MHC gene expression?
+             •  Polygenic.
+             •   It has genes that code for it at different loci.
+           Which T cells does MHC Class I interact with?
+             • CD8
+           Which T cells does MHC Class II interact with?
+             • CD4
+           Which cells are used to produce cytokines?
+             • T helper cells
+         How are the different classes of T helper cells useful?
+             •  They are used to provide different types of responses (i.e Th1, Th2,
+                Th17 response) to pathogens
+
+          When are cytokines produced?
+             • When a T helper cell is responding to a pathogen
+           What is the role of cytokines?
+             •  To act as inflammatory mediators
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-6-Lymphocytes-6dcab325d5d04acc946f91e6073e7e3d                                                                   5/9
+
+===== PAGE 6 =====
+
+18/07/2026, 22:22                                                                      4.6 Lymphocytes
+
+
+
+         How do T killer cells (CD8) recognise infected cells?
+             •  Through the recognition of the MHC Class I and antigenic proteins
+             Describe the mechanism used by CD8 cells to kill infected cells.
+             •  They have a core protein called perforin (hydrophilic) which insert a
+                hole into host cell membrane that allows hydrophilic molecules to go
+                through
+                 ◦  Previously hydrophilic molecules couldn’t get through due to the
+                    hydrophobic nature of the lipid membrane
+             •  This allows the CTL (cytotoxic T-lymphocyte/T cell) to insert
+              granzyme into the cell which triggers a cascade of reactions leading
+                 to apoptosis
+
+           What is the name of the other pathway used by CD8 cells to kill infected
+               cells?
+             •  Fas and Fas-ligand pathway
+         Why are B cells said to be part of the humoral immune response?
+             •  Because they secrete antibodies
+             • The humoral immune response describes the role of antibodies in
+                  providing immunity
+
+             Describe the structure of an antibody.
+             •  Constant region (bottom) and a variable region (top)
+             •  FOur chains, two light (short) and two heavy (long)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-6-Lymphocytes-6dcab325d5d04acc946f91e6073e7e3d                                                                   6/9
+
+===== PAGE 7 =====
+
+18/07/2026, 22:22                                                                      4.6 Lymphocytes
+
+
+
+           What is the role of the variable region on antibodies?
+             •  To allow the antibody to bind to different types of antigen.
+           What are the three methods used by antibodies to protect against
+              infections?
+             •  Neutralisation
+             •  Opsonisation
+             • Complement activation
+
+
+
+
+
+             Describe how the process of neutralisation works.
+             •  Neutralisation is when an antibody prevents a virus from binding
+               onto a host cell receptor
+             •   It does this by binding onto a region of the virus called the receptor
+                binding domain and so the virus is no longer able to bind onto host
+                   cells and use their machinery for proliferation.
+
+             Describe how the process of opsonisation works.
+             •  This describes how covering a pathogen with antibodies increases
+                the likelihood of an innate effector cell (those that phagocytose)
+               phagocytosing the pathogen
+
+           What are the roles/characteristics of IgE?
+             •  Fighting against allergy.
+           What are the roles/characteristics of IgG?
+             •  Important in the serum
+             •  Highest neutralisation and opsonisation activity.
+             •   It has four major subclasses in humans.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-6-Lymphocytes-6dcab325d5d04acc946f91e6073e7e3d                                                                   7/9
+
+===== PAGE 8 =====
+
+18/07/2026, 22:22                                                                      4.6 Lymphocytes
+
+
+
+           What are the roles/characteristics of IgM?
+             •  Produced upon initial antigen invasion and increases transiently
+             •  Forms a pentamer
+           What are the roles/characteristics of IgA?
+             •   It is expressed in mucosal tissues
+             •   It forms dimers after secretion.
+             Table showing the role of different antibody types.
+
+
+
+
+
+           What is the difference between the way B and T cells bind to antigens?
+             • B cells bind to soluble antigens roaming freely in the blood
+             • T cells bind to antigens on the surface of MHC complexes on APCs
+           What three things need to happen for a B cell to be activated?
+             •  Recognise the antigen that it’s going to make antibodies against
+             • Have surface contact with a T cell (co-stimulatory contact)
+             • Become activated by cytokines (released by CD4 T cells)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-6-Lymphocytes-6dcab325d5d04acc946f91e6073e7e3d                                                                   8/9
+
+===== PAGE 9 =====
+
+18/07/2026, 22:22                                                                      4.6 Lymphocytes
+
+
+
+           What are thymus-independent antigens?
+             •  These are antigens, (often polysaccharides) that can activate B cells
+                without the help of T cells
+             •  Signal from the pathogen (PAMP) is enough to activate the B cell.
+           Which antibodies are activated by thymus-independent antigens?
+             • IgM
+             Describe how B cells are activated by T cells.
+             • A B cell that has antibody on its surface is able to recognise a
+                   specific antigen
+             • A dendritic cell is also able to recognise this specific antigen
+             •  Both of these cells bind onto the pathogen in question, and present
+                the antigen on their MHC II complexes
+                 ◦  This allows the same T helper cell to recognise both the dendritic
+                          cell and the B cell it needs to communicate with
+             • The T helper cell binds onto the antigen on the dendritic cell
+                 surface, and tells the B cell to proliferate and differentiate into plasma
+                   cells which create and secrete more and more antibody against the
+                antigen in question
+                 ◦ The T helper cells also signals to T killer cells, so they can kill
+                     infected cells
+
+            Diagram showing how B cells can be activated by T cells “training them” to
+          make antibodies.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-6-Lymphocytes-6dcab325d5d04acc946f91e6073e7e3d                                                                   9/9

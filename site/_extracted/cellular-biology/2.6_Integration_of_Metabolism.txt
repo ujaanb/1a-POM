@@ -1,0 +1,424 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+    2.6 Integration of Metabolism
+
+           What are the five main metabolic tissue types in the body?
+             •  Heart
+             •  Brain and nervous tissue
+             •  Liver
+             •  Adipose
+             •  Muscle
+           Which two molecules does muscle rely on for ATP?
+             •  Carbohydrates and fatty acids
+           What adaptation do muscle cells make in response to moderate exercise
+             conditions?
+             •  There are an increased number of glucose transporters on the
+                 surfaces of the muscle cells allowing more to be taken up by them for
+                   glycolysis
+
+         How does metabolism adapt to the requirements of vigorous muscle
+             contraction?
+             •  During light contraction, the ATP requirements are met by oxidative
+                 phosphorylation
+             •  During vigorous contraction, oxygen becomes a limiting factor and so
+              ATP is made via muscular glycogen breakdown into pyruvate which
+               can be used in lactate formation (which enables NAD+ production and
+               hence glycolysis, producing ATP)
+
+           Which molecules do the brain and nervous tissue rely on for ATP?
+             •  Glucose mainly, in some cases it can use ketone bodies.
+           Which molecules can the brain and nervous tissue NOT rely on for ATP?
+             •  Fatty acids.
+         Why is hypoglycaemia in the brain dangerous?
+             •   It can cause comas and faintness
+         Why is hyperglycaemia in the brain dangerous?
+             •   It can cause irreversible damage.
+           What role does adipose tissue play in metabolism?
+             • The long term storage of triglycerides.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                   1/10
+
+===== PAGE 2 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+
+
+           Which molecules do the heart tissue rely on for ATP?
+             •  Fatty acids
+             •  Carbohydrates
+             •  Ketone bodies
+           What is a structural adaptation of heart tissue which allows it to effectively
+            perform its function?
+             •   It has lots of mitochondria which can be used for aerobic metabolism
+             •  This is important as the heart is designed solely for aerobic
+               metabolism, since it constantly needs energy to contract
+
+         How does skeletal muscle tissue cope with the demands placed on it by
+             vigorous muscle contraction?
+             •  Oxidative phosphorylation can no longer meet its requirements during
+                 vigorous contraction
+             •  Hence, skeletal muscle uses anaerobic respiration to produce
+                  lactate from pyruvate which helps it to regenerate NAD+
+                 ◦ NAD+ can be used in glycolysis to continually make ATP
+           What role does liver tissue play in metabolism?
+             •  Carbohydrate (glycogen) storage
+             •  Gluconeogenesis
+             •  Lipoprotein production (VLDL and HDL)
+           Which tissues are involved in resting metabolic rate?
+             •  Brain
+             •  Heart
+             •  Liver
+         How do the liver and pancreas work hand in hand to maintain blood glucose
+              levels?
+             •  Liver is involved in absorption of glucose and its conversion to
+                glycogen so that it can be stored compactly
+             •  Pancreas is involved in the release of hormones insulin and glucagon
+                which decrease and increase blood glucose levels respectively
+
+         How and where can excess glucose-6-phosphate be stored?
+             • As glycogen in the liver and muscles.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                   2/10
+
+===== PAGE 3 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+
+
+         How and where can excess acetyl CoA be stored?
+             • As triglycerides in the adipose tissue
+                 ◦  Acetyl CoA → Fatty acids via lipogenesis
+                 ◦  Fatty acids + glycerol = Triglycerides
+           What happens to acetyl CoA during fasting?
+             •   It is converted into ketone bodies
+             •  This is so there are enough fuel sources for the brain in the fasting
+                  state
+
+           What is glycogen?
+             •   It is a polymer of glucose which consists of 1-4 and 1-6 glycosidic
+                bonds.
+
+         How can nucleotides be produced from carbohydrate metabolism?
+             •  Via the pentose-phosphate pathway (PPP) from glucose-6-
+               phosphate
+
+         How can glycogen be produced from carbohydrate metabolism?
+             • From excess glucose-6-phosphate
+         How can ketone bodies be produced from carbohydrate metabolism?
+             • From acetyl CoA in the fasting state
+                 ◦  In the fasting state, most acetyl CoA is converted to ketone
+                   bodies instead of entering the TCA Cycle
+
+         How can amino acids be produced from carbohydrate metabolism?
+             • From pyruvate and TCA Cycle intermediates
+         How can fatty acids be produced from carbohydrate metabolism?
+             • From acetyl CoA via lipogenesis
+                 ◦  Malonyl CoA + Acetyl CoA
+         How can cholesterol be produced from carbohydrate metabolism?
+             • From acetyl CoA
+                 ◦  Step 1: Acetyl CoA + Acetyl CoA = Acetoacetyl CoA
+           What is the purpose of gluconeogenesis?
+             •  To generate glucose for the brain during fasting periods when it may
+                 get dangerously low
+             •   It is an alternative to glycogen breakdown and acetyl CoA conversion
+                  to ketone bodies which can be used to prevent hypoglycaemic comas
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                   3/10
+
+===== PAGE 4 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+
+
+         How can glycerol be used in gluconeogenesis?
+             •   It is converted to dihydroxyacetone phosphate (DHAP)
+             •  This is an intermediate in glycolysis so things become easy from there
+
+
+
+
+
+          When exactly is lactate needed to be generated from pyruvate?
+             • When the rate of glycolysis exceeds the rate of the TCA Cycle +
+                   oxidative phosphorylation
+             •  This can happen in cases where oxygen is the limiting factor (i.e during
+                  exercise) because oxidative phosphorylation requires O2 to function.
+
+           What is the Cori cycle?
+             • The process which involves the “re-conversion” of lactate back to
+                 pyruvate using lactate dehydrogenase (LDH) in the liver
+                 ◦  This pyruvate can be used to regenerate glucose in
+                   gluconeogenesis
+             • The regenerated glucose is then metabolised again anaerobically to
+               reproduce lactate and regenerate NAD+
+             •  Overall, lactate is converted to glucose which is metabolised again to
+                produce pyruvate and then lactate again. Then it all starts again.
+
+           What is aim of the Cori cycle?
+             • The purpose of the Cori cycle is to provide energy to the muscles
+                during exercise while removing lactate and preventing lactic
+                 acidosis.
+
+         How is lactate used in gluconeogenesis?
+             •  Lactate is used to regenerate pyruvate which can enter
+                gluconeogenesis
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                   4/10
+
+===== PAGE 5 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+
+
+         How are amino acids used in gluconeogenesis?
+             • Some amino acids are used to regenerate oxaloacetate which can
+                 enter gluconeogenesis
+             • Some amino acids are used to regenerate pyruvate which can enter
+                gluconeogenesis
+
+         How is glycerol used in gluconeogenesis?
+             •  Glycerol is used to regenerate dihydroxyacetone phosphate (DHAP)
+                which can enter gluconeogenesis
+
+         How does gluconeogenesis become an energetically favourable reaction
+             despite delta G being positive for glycolysis reversal?
+             •  Gluconeogenesis uses energy from six phosphoanhydride bonds
+                (6x ATP) to make the reaction energetically favourable
+
+
+
+
+
+           Which reactions need to be bypassed in order for gluconeogenesis to go
+           ahead (because they are irreversible)?
+             •  Those glycolysis reactions catalysed by kinases (hexokinase (I),
+                phosphofructokinase (III), pyruvate kinase (X)
+             •  Also, the reaction in the mitochondria that produces oxaloacetate
+               from pyruvate using pyruvate carboxylase
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                   5/10
+
+===== PAGE 6 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+
+
+           What is a glucogenic amino acid?
+             • An amino acid that is capable of forming glucose via gluconeogenesis
+
+
+
+
+
+           What is a ketogenic amino acid?
+             • Amino acids that can be used to generate fatty acids or ketone
+                bodies
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                   6/10
+
+===== PAGE 7 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+
+
+         How can fats be used as fuel sources in humans?
+             •  Triglycerides are broken down into fatty acids + glycerol
+             •  Glycerol can then be used to generate DHAP and hence glucose via
+                gluconeogenesis
+             • FATTY ACIDS ARE NOT ABLE TO GENERATE GLUCOSE but can be
+              used as fuel via beta-oxidation
+
+
+
+
+
+           What are two requirements on muscle cells that allow them to contract?
+             •  Increased ATP
+             •  Increased number of glucose transporters
+           What are the two ways in which adrenaline helps muscle to cope with
+             increased ATP demands during aerobic respiration?
+             •  Increased gluconeogenesis by the liver which increases rate of
+                  glycolysis
+             •  Increased fatty acid release by adipocytes which increases rate of
+                   lipolysis
+             •  Both of these mechanisms involve increasing ATP levels
+         How can lactate help humans to cope with increased demands of exercise?
+             •  Lactate production from pyruvate regenerates NAD+ which can allow
+                   glycolysis to continue
+             •  Pyruvate production from this lactate can then be used in
+                gluconeogenesis to form more glucose
+             •  This is the Cori Cycle
+           What is the typical range for blood glucose?
+             •  4.0-5.5 mM/L
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                   7/10
+
+===== PAGE 8 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+
+
+           Where are the two main isoforms of hexokinases found?
+             •  Muscle (I) and liver (IV)
+           What is Michaelis constant (Km)?
+             • The concentration of substrate which allows an enzyme to function
+                  at half its maximal rate
+             •   It can be used to compare relative enzyme activity
+           Which of the two hexokinase isoforms are more active and explain how you
+           know this?
+             • HK I
+             • HK I has a Km of around 0.1 mM but HK IV has a Km of around 0.4 mM
+             •  This means that HK I is more sensitive to glucose and so is more active
+                   at lower concentrations
+
+           Where is negative feedback involved in the control of glucose-6-phosphate
+             production from glucose?
+             •  Muscle
+             Describe how negative feedback is involved in the control of glucose-6-
+            phosphate production from glucose.
+             •  Glucose-6-phosphate (G-6-P), the product of this reaction, inhibits
+             Hk I, preventing further conversion of glucose into G-6-P
+
+           What is glucose-6-phosphatase used for?
+             •  Catalysis of the conversion of glucose-6-phosphate back to glucose
+                   (reversal of glycolysis Step 1)
+
+         How does insulin work?
+             •   It stimulates uptake and use of glucose when glucose levels are high
+             •   It also stimulates its storage as glycogen and fat
+         How does glucagon work?
+             •   It is secreted when glucose levels fall and stimulates production of
+                glucose via gluconeogenesis
+             •   It also stimulates breakdown of glycogen and fat
+         How does adrenaline work?
+             •   It has strong and fast metabolic effects to mobilise glucose and fatty
+                acids for ‘fight or flight’
+             •   It increases lipolysis and gluconeogenesis and hence muscular
+                  glycolysis during exercise
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                   8/10
+
+===== PAGE 9 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+
+
+         How do glucocorticoids work?
+             •  They are steroid hormones used to increase the synthesis of
+                metabolic enzymes concerned with glucose availability
+             •  Essentially used to increase and maintain glucose levels
+               In the fed state, as well as glycogen synthesis increasing in muscle and liver
+                cells, what other metabolic processes are stimulated?
+             •  Glycolysis (in liver cells) which leads to
+             •  Acetyl-CoA production and
+             •  Lipogenesis (from acetyl CoA)
+             •  Overall, anabolic pathways are stimulated in the fed state in liver cells,
+                  to save energy for later
+
+           Which organ is involved in the secretion of glucagon and insulin?
+             •  Pancreas
+               In the fasting state, describe what happens in terms of hormones and
+             energy.
+             •  Glucagon secretion increases, insulin secretion decreases leading to
+                glycogen —> glucose and gluconeogenesis
+             •  Fatty acids break down as an alternative for ATP production to
+                 preserve glucose for the brain
+             •  Glycolysis and lipolysis in skeletal muscle increases due to adrenaline
+             •  Gluconeogenesis and glycogen breakdown increase
+               In the fasting state, what role does adrenaline play?
+             •  Adrenaline stimulates glycogen breakdown as well as glycolysis and
+                   lipolysis
+
+           What further changes occur in the starving (prolonged fasting) state?
+             •  Adipose tissue hydrolyses triglycerides to provide fatty acids for
+               metabolism (beta-oxidation)
+             • TCA Cycle intermediates reduced to provide substrates for
+                gluconeogenesis
+             •  Protein breakdown provides amino acid substrates for
+                gluconeogenesis
+             •  Ketone bodies are produced from fatty acids and amino acids to
+                  temporarily aid the brain’s glucose requirements (brain is picky so
+                    this only happens when necessary)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                   9/10
+
+===== PAGE 10 =====
+
+18/07/2026, 21:51                                                               2.6 Integration of Metabolism
+
+
+
+         Why are fatty acids broken down for ATP production instead of glucose in
+             the fasting state?
+             •  To preserve as much glucose as possible for the brain
+             •  After prolonged periods of fasting, fatty acids are converted to ketone
+                bodies to partially substitute the glucose requirements
+
+           What is the difference between Type I and Type II diabetes?
+             •  Type I diabetes is a failure to secrete enough insulin
+             •  Type II diabetes is a failure to respond appropriately to insulin levels.
+             •  Both have the effect of blood glucose levels getting too high, and
+                   individuals being treated as though they are in the starving state
+
+           What is ketoacidosis?
+             • When too many ketone bodies are produced
+             •  This happens to diabetes mellitus sufferers
+           What tissue is the major source of ketone bodies in the fasting state?
+             •  Liver
+               In the fed state, insulin acts to increase the synthesis of which molecule?
+             •  Proteins via protein synthesis
+               In the fed state, why does insulin stimulate an increase in the number of
+                            l        t          t       th   di      t      f   ?
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/2-6-Integration-of-Metabolism-7481e9181ebc4f06aa5c90d03c98c792                                                 10/10

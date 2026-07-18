@@ -1,0 +1,299 @@
+
+
+===== PAGE 1 =====
+
+18/07/2026, 22:24                                                                  4.13 Vaccination
+
+    4.13 Vaccination
+
+           What is a vaccine?
+             •  Something that stimulates the immune system, without causing
+                  serious harm or side effects
+             • The aim is to protect the individual against serious effects of
+                disease (illness) caused by a particular pathogen, not to protect
+                 against actual infection by the pathogen.
+                 ◦  However, vaccinated individuals are unlikely to fall ill due to a
+                    pathogen, and hence are unlikely to transmit the infection to
+                     others.
+             •  Since the introduction of viruses into the population, average life
+                expectancies have increased significantly globally.
+
+             Describe how T cell mediated vaccine protection works.
+             • The innate immune response leads to pathogens being
+               phagocytosed and antigens being presented on the surface of
+                 macrophages/dendritic cells (APCs)
+             • The APCs present antigens to CD4 T cells which leads to the
+                  activation of these cells
+             •  This leads to the production of some CD8 killer and CD8 killer
+             memory cells, as well as some B effector cells and B memory cells,
+                which overall protect the patient against future exposure to the
+               pathogen, by means of immune memory
+
+           What is Ro and what implications does it have on the spread of an infection?
+             • Ro = basic reproduction number (i.e how many people can be
+                  infected by a single infected person)
+             • Ro < 1 means the infection will likely die out over time
+             • Ro > 1 means the infection is likely to spread across the population fast
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-13-Vaccination-e47f414fe0b2466eb83787778ddc1b95                                                                   1/7
+
+===== PAGE 2 =====
+
+18/07/2026, 22:24                                                                  4.13 Vaccination
+
+
+
+         How does herd immunity work?
+             •  Person A becomes infected by a disease, but person B has been
+                vaccinated against it
+             •  Person A comes into contact with Person B, but Person B is immune
+                 to it, and hence does not fall ill and cannot pass on the infection
+             •  Person B comes into contact with Person C, but because Person B has
+               been vaccinated, it means that Person C becomes indirectly protected
+                from the virus, without even getting a vaccine
+             •  Herd immunity describes how one person becoming immune to a
+                  virus can have a large impact on the wider population.
+
+           Image showing the components of a vaccine.
+
+
+
+
+
+         Why are viruses more difficult to grow than bacteria?
+             •  Because viruses are obligate parasites, they require external
+                machinery in order to be able to grow and proliferate
+                 ◦ When growing a virus, you must grow the pathogen with the
+                        cellular material
+             •  Bacteria however can be grown easily on an agar plate.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-13-Vaccination-e47f414fe0b2466eb83787778ddc1b95                                                                   2/7
+
+===== PAGE 3 =====
+
+18/07/2026, 22:24                                                                  4.13 Vaccination
+
+
+
+           What is an inactivated toxoid vaccine and describe the mechanism through
+            which it provides immunity.
+             • An inactivated toxoid vaccine is a vaccine which contains an
+                 inactivated form of a toxin (toxoid) secreted by a bacterial cell
+             •  Antibodies are produced which recognise the shape of the toxin, and
+               hence they bind onto the toxin, preventing it from binding onto the
+                nerve and having negative effects.
+             •  These antibodies help protect the individual in the case of subsequent
+                exposure to the pathogen
+             • An example is the tetanus toxoid vaccine, which protects against
+                tetanus
+
+             Describe an advantage and disadvantage of inactivated toxoid vaccines.
+             •  Advantage - They are cheap and safe
+             •  Disadvantage - only a small family of bacteria produce toxins, so
+                these vaccines are limited
+
+           What is a recombinant protein vaccine and describe the mechanism through
+            which it provide immunity.
+             •   It involves the injection of a viral spike protein into the patient, in order
+                  to induce an antibody response against these proteins and provide
+               immunity
+                 ◦  This viral spike protein is produced by inserting the relevant
+                          viral gene into a yeast cell (viruses need hosts to proliferate)
+             •   It rests on the same principle as inactivated toxoid vaccines, but
+                  instead of toxoids, viral proteins are produced.
+
+             Describe an advantage and disadvantage of recombinant protein vaccines.
+             •  Advantage - Pure and safe
+             •  Disadvantages
+                 ◦ Not all the proteins made by viruses are immunogenic (can
+                    induce antibody responses).
+                 ◦ The proteins produced by the virus can also be a different
+                  shape to the recombinant ones produced. (i.e RSV vaccine). This
+                            is because we are inserting genes into hosts and allowing the
+                        virus to grow here.
+                 ◦  They are also relatively expensive
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-13-Vaccination-e47f414fe0b2466eb83787778ddc1b95                                                                   3/7
+
+===== PAGE 4 =====
+
+18/07/2026, 22:24                                                                  4.13 Vaccination
+
+
+
+              Recall an advantage of using inactivated toxoid vaccines over recombinant
+              protein vaccines.
+             •  They are cheaper
+              Recall a disadvantage of using inactivated toxoid vaccines over recombinant
+              protein vaccines.
+             •  Toxoid vaccines only work against a small family of bacterial cells.
+         Why do we need an alternative method of bacterial immunity to viral
+            immunity?
+             •  Viruses have spike proteins that can be easily used to induce antibody
+                 production through the activation of B cells by CD4 T cells
+             •  Most bacterial cells have capsules (polysaccharides, sugars) which
+                 are T independent antigens (B cells respond on their own). However, B
+                    cells are not very good at responding to these sugar antigens.
+             •  This means alternative methods are needed to provide bacterial
+                 immunity.
+
+           What is this alternative method?
+             •  Conjugate vaccines
+           What is an additional function of B cells, besides secreting antibodies?
+             • B cells function as professional antigen-presenting cells (APCs) for
+             CD4+ T cells
+
+           What is a conjugate vaccine and describe the mechanism through which it
+             provide immunity.
+             • The polysaccharide (sugar) from the bacterial surface is conjugated
+                with a carrier protein
+                 ◦  This conjugate vaccine (sugar + protein) is injected into the
+                       patient
+             • The B cell recognises the polysaccharide (the B cell hence has a B
+                     cell receptor that produces antibodies against the polysaccharide)
+             • The carrier protein is taken into the B cell, and it presents the
+                antigens on its surface for CD4 T cells. Dendritic cells also do this.
+             •  Tfh CD4 cells recognise the carrier protein on the B cell and release
+                 cytokines which allow the B cell to use its B cell receptor to produce
+                 the polysaccharide antibodies.
+             • The CD4 cells have helped to induce a larger antibody response
+                 within the B cells.
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-13-Vaccination-e47f414fe0b2466eb83787778ddc1b95                                                                   4/7
+
+===== PAGE 5 =====
+
+18/07/2026, 22:24                                                                  4.13 Vaccination
+
+
+
+           What is a dead pathogen vaccine?
+             • A vaccine which involves the insertion of an entire dead pathogen,
+                  instead of just an antigen
+             • The mechanism is still the same, in that antibody responses are still
+                 induced.
+
+           What is a live attenuated vaccine?
+             • A weakened version of a live pathogen used to induce a B cell
+                response (i.e antibody production)
+
+           What is an adjuvant and through which mechanism does it provide
+            immunity?
+             •   It is a substance that is used to activate dendritic cells which increase
+                 the rate at which they activate T cells, and hence increase the rate at
+                which B cells and antibodies are produced
+             •   It basically works by enhancing the innate response, in order to
+               enhance to adaptive response.
+             •  Examples include AS03 in chickenpox and malaria vaccines and
+            MF59 in sequirius influenza vaccine.
+
+         Why are vaccines ineffective against viruses which show greater antigenic
+                variability?
+             • B and T cells (used to produce antibodies) recognise very small
+                 regions (~10 amino acids) on antigens
+             •  This means that it doesn’t take much (minor mutation) for a pathogen
+                  to evade the immune response produced against it
+             •  This can be seen as a downside of an (otherwise great) adaptive
+             immune system
+
+             Describe the phases involved in the development of vaccines.
+             •  Preclinical - Animals
+             • Phase 1 - Assessing safety
+             • Phase 2 - Assessing immunogenicity of the vaccine
+             • Phase 3 - Assessing effectiveness
+             • Phase 4 - Assessing for rare side effects - much larger population
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-13-Vaccination-e47f414fe0b2466eb83787778ddc1b95                                                                   5/7
+
+===== PAGE 6 =====
+
+18/07/2026, 22:24                                                                  4.13 Vaccination
+
+
+
+           Which vaccines are given to children in the UK when they are eight weeks
+             old?
+             •  DTaP/IPV/Hib/Hep B I
+             •  Meningitis B I
+             •  Rotavirus I
+           Which vaccines are given to children in the UK when they are twelve weeks
+             old?
+             • Pneumococcal conjugate vaccine (PCV) I
+             •  DTaP/IPV/Hib/Hep B II
+             •  Rotavirus II
+           Which vaccines are given to children in the UK when they are sixteen weeks
+             old?
+             •  DTaP/IPV/Hib/Hep B III
+             •  Meningitis B II
+           Which vaccines are given to children in the UK when they are one year old?
+             •  Hib booster/Meningitis C
+             •  Measles, mumps and rubella (MMR) I
+             • Pneumococcal conjugate vaccine (PCV) booster
+             •  Meningitis B booster
+           Which vaccines are given to children in the UK when they are two years old
+           up to Year 6?
+             •  Nasal flu vaccine (protects against seasonal flu)
+           Which vaccines are given to children in the UK when they are 3 years and 4
+           months old?
+             • MMR booster
+             •  Pre-school booster (4-in-1 vaccine against
+                  diphtheria, tetanus, pertussis (whooping cough) and polio)
+
+           Which vaccines are given to children in the UK when they are teenagers?
+             • HPV vaccine
+             •  Teenage booster (3-in-1 vaccine against tetanus, diptheria and polio)
+             •  Meningitis ACWY (four types of meningitis)
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-13-Vaccination-e47f414fe0b2466eb83787778ddc1b95                                                                   6/7
+
+===== PAGE 7 =====
+
+18/07/2026, 22:24                                                                  4.13 Vaccination
+
+
+
+           Which vaccines are given to older adults and risk groups?
+             •  Inactivated flu vaccine
+             •  Shingles vaccine
+             •  Pneumococcal polysaccharide vaccine (PPV)
+           Which vaccines are given to pregnant women?
+             •  Inactivated flu vaccine
+             •  Pertussis (whooping cough)
+           What does the DTaP/IPV/Hib/Hep B (6-in-1) vaccine protect against?
+             •  Diphtheria, polio, tetanus, pertussis (whooping cough),
+               Haemophilus influenzae Type B (Hib) and hepatitis B
+
+           What type of vaccine is Corynebacterium diphtheriae administered as?
+             •  Toxin based
+           What type of vaccine is H. influenzae type B administered as?
+             •  Conjugate polysaccharide
+
+
+
+
+
+https://gigantic-starfish-733.notion.site/4-13-Vaccination-e47f414fe0b2466eb83787778ddc1b95                                                                   7/7
