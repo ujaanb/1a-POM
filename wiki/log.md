@@ -51,3 +51,9 @@ Allowed operations:
 - Curated bank of 200 questions (50 per topic) mixing recall, understanding, application, and inference; sessions sample across levels.
 - Linked from home nav and hero CTA; level badge styling in CSS.
 - Files touched: `site/practice.html`, `site/js/practice.js`, `site/js/practice-question-bank.js`, `site/index.html`, `site/css/styles.css`, `README.md`, `wiki/log.md`.
+
+## [2026-07-18] meta | Expand practice bank to 100/topic
+
+- Doubled practice question bank to 100 questions per topic (40 SBA, 35 VSAQ, 25 SAQ).
+- Continued mix of recall, understanding, application, and inference across Cellular Biology, Haematology, Immunity, Genetics.
+- Files touched: `site/js/practice-question-bank.js`, `wiki/log.md`.
