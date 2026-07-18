@@ -16,7 +16,7 @@ Same UI as the [BRS Study Hub](https://ujaanb.github.io/1b-BRS/): open [`site/in
 python3 -m http.server 8765
 ```
 
-Then visit http://127.0.0.1:8765 — **Cellular Biology** (16 lectures) and **Haematology** (10 lectures) are ready. Immunity and Genetics are stubs until their PDFs are processed.
+Then visit http://127.0.0.1:8765 — all four topics ready: Cellular Biology (16), Haematology (10), Immunity (15), Genetics (8; no 5.5 PDF).
 
 ---
 

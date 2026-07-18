@@ -36,3 +36,11 @@ Allowed operations:
 - Lectures: 3.1–3.10 (RBCs, Hb methods, RBC parameters, clinic I/II, WBCs, blood film, haemostasis, transfusion, plasma).
 - Updated home tile badge; Immunity and Genetics remain stubs.
 - Files touched: `site/topics/haematology/*`, `site/_extracted/haematology/*`, `site/index.html`, `README.md`, `wiki/log.md`.
+
+## [2026-07-18] meta | POM Study Hub — Immunity & Genetics notes
+
+- Generated Q&A notes for all 15 Immunity lectures (4.1–4.15, ~429 prompts) and 8 Genetics lectures (5.1–5.4, 5.6–5.9, ~140 prompts).
+- No `5.5` PDF present in `raw/pdfs/Genetics` — skipped.
+- Home tiles updated; all four POM topics now have content.
+- Note: some Immunity Qs (esp. 4.10/4.11) have empty answers in the Notion PDFs (`See lecture PDF` placeholders).
+- Files touched: `site/topics/immunity/*`, `site/topics/genetics/*`, `site/_extracted/{immunity,genetics}/*`, `site/index.html`, `README.md`, `wiki/log.md`.

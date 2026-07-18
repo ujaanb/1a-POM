@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Practice Questions — POM Study Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,650;9..144,700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">POM</span>
+      <span class="brand-sub">Phase 1A · Imperial</span>
+    </a>
+    <nav class="nav-links">
+      <a href="index.html">Home</a>
+      <a class="nav-active" href="practice.html">Practice Questions</a>
+    </nav>
+  </header>
+
+  <main class="wrap page practice-page">
+    <p class="hero-kicker">Active recall</p>
+    <h1 class="page-title">Practice Questions</h1>
+    <p class="page-lead">
+      Build a custom session from POM content. Choose a topic, question type, and
+      session length — each bank mixes recall with understanding, application, and
+      inference.
+    </p>
+
+    <section class="practice-setup panel" id="practice-setup">
+      <div class="practice-completion">
+        <div class="completion-heading">
+          <div>
+            <p class="section-label">Question bank progress</p>
+            <h2>Your completed questions</h2>
+          </div>
+          <p>Saved automatically on this device.</p>
+        </div>
+        <div class="completion-grid" id="completion-grid"></div>
+      </div>
+
+      <div class="practice-field">
+        <label for="practice-topic">Topic</label>
+        <select id="practice-topic"></select>
+        <span class="field-help" id="topic-availability"></span>
+      </div>
+
+      <fieldset class="practice-field">
+        <legend>Question type</legend>
+        <div class="question-type-grid">
+          <label class="question-type-card">
+            <input type="radio" name="question-type" value="sba" checked />
+            <span class="type-code">SBA</span>
+            <strong>Single Best Answer</strong>
+            <small>Choose one answer from four options.</small>
+          </label>
+          <label class="question-type-card">
+            <input type="radio" name="question-type" value="vsaq" />
+            <span class="type-code">VSAQ</span>
+            <strong>Very Short Answer</strong>
+            <small>Your model answer is strictly four words or fewer.</small>
+          </label>
+          <label class="question-type-card">
+            <input type="radio" name="question-type" value="saq" />
+            <span class="type-code">SAQ</span>
+            <strong>Short Answer</strong>
+            <small>Write a structured, multi-sentence response.</small>
+          </label>
+        </div>
+      </fieldset>
+
+      <div class="practice-field">
+        <label for="question-count">Number of questions</label>
+        <input id="question-count" class="practice-number-input" type="number"
+          min="1" max="50" value="10" inputmode="numeric" />
+      </div>
+
+      <button class="practice-primary" id="start-practice" type="button">
+        Start practice session
+      </button>
+    </section>
+
+    <section class="practice-session" id="practice-session" hidden>
+      <div class="practice-status">
+        <div>
+          <span id="session-label">Practice session</span>
+          <strong id="progress-label">Question 1 of 10</strong>
+        </div>
+        <div class="score-pill" id="score-pill">Score: 0</div>
+      </div>
+      <div class="practice-progress" aria-hidden="true">
+        <span id="progress-bar"></span>
+      </div>
+
+      <article class="practice-card panel">
+        <div class="question-meta">
+          <span id="question-type-badge">SBA</span>
+          <span id="question-level-badge"></span>
+          <span id="question-source"></span>
+        </div>
+        <h2 id="question-text"></h2>
+        <div id="answer-area"></div>
+        <div class="answer-feedback" id="answer-feedback" hidden></div>
+
+        <div class="practice-actions">
+          <button class="practice-secondary" id="quit-practice" type="button">
+            End session
+          </button>
+          <button class="practice-primary" id="submit-answer" type="button">
+            Submit answer
+          </button>
+          <button class="practice-primary" id="next-question" type="button" hidden>
+            Next question
+          </button>
+        </div>
+      </article>
+    </section>
+
+    <section class="practice-results panel" id="practice-results" hidden>
+      <p class="section-label">Session complete</p>
+      <h2 id="results-title">Practice complete</h2>
+      <p id="results-summary"></p>
+      <div class="results-stats">
+        <div class="stat">
+          <div class="value" id="result-score">0/0</div>
+          <div class="label">Score</div>
+        </div>
+        <div class="stat">
+          <div class="value" id="result-percent">0%</div>
+          <div class="label">Percentage</div>
+        </div>
+      </div>
+      <button class="practice-primary" id="new-session" type="button">
+        Build another session
+      </button>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    Questions written for Phase 1A POM · Imperial College London
+  </footer>
+
+  <script src="js/practice-question-bank.js"></script>
+  <script src="js/practice.js"></script>
+</body>
+</html>
