@@ -1307,3 +1307,36 @@ img {
     align-items: flex-start;
   }
 }
+
+
+/* Inline teaching diagrams (gap-fill replacements for missing PDF figures) */
+.notes-diagram {
+  margin: 1rem 0 1.25rem;
+  padding: 1rem 1.1rem 0.85rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+.notes-diagram svg {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  height: auto;
+  margin: 0 auto;
+}
+.notes-diagram figcaption {
+  margin: 0.65rem 0 0;
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.4;
+  text-align: center;
+}
+.qa .source-note {
+  margin: 0.55rem 0 0;
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--muted);
+  font-style: italic;
+}
