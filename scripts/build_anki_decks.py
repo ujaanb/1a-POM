@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """Build POM Anki decks from study-hub lecture pages.
 
-Each lecture becomes a deck of basic cards (one per revision prompt) and
-cloze cards (every high-value fact in the answer). Topic packages contain
-one subdeck per lecture. The script also writes the download bars into the
-lecture, topic, and home pages.
+Each lecture becomes a deck of basic cards, one per revision prompt.
+Topic packages contain one subdeck per lecture. The script also writes the
+download bars into the lecture, topic, and home pages.
 
 Requires: genanki, beautifulsoup4
 """
@@ -618,7 +617,6 @@ def notes_for_lecture(lecture: dict, topic_slug: str) -> tuple[list[genanki.Note
     basic_notes: list[genanki.Note] = []
     cloze_notes: list[genanki.Note] = []
     title = lecture["title"]
-    seen_cloze: set[str] = set()
     for block_index, block in enumerate(lecture["blocks"]):
         question = block["question"]
         parts = block["parts"]
@@ -630,34 +628,6 @@ def notes_for_lecture(lecture: dict, topic_slug: str) -> tuple[list[genanki.Note
             guid=guid_for(f"basic|{title}|{block_index}|{question}"),
         )
         basic_notes.append(basic)
-
-        shorts = [part for part in parts if is_short_item(part)]
-        use_list = len(shorts) >= 2
-        if use_list:
-            for variant in list_gap_variants(question, shorts):
-                add_cloze(
-                    cloze_notes,
-                    seen_cloze,
-                    variant,
-                    question,
-                    title,
-                    topic_slug,
-                    lecture["slug"],
-                    f"list|{block_index}|{variant}",
-                )
-        for part_index, part in enumerate(parts):
-            allow_whole = not (use_list and is_short_item(part))
-            for variant in cloze_variants_for_fact(part, allow_whole=allow_whole):
-                add_cloze(
-                    cloze_notes,
-                    seen_cloze,
-                    variant,
-                    question,
-                    title,
-                    topic_slug,
-                    lecture["slug"],
-                    f"fact|{block_index}|{part_index}|{variant}",
-                )
     return basic_notes, cloze_notes
 
 
@@ -809,17 +779,16 @@ def main() -> None:
         lecture_dir.mkdir(parents=True, exist_ok=True)
         topic_decks = []
         topic_total = 0
-        gap_total = 0
         for lecture in lectures:
             basic, cloze = notes_for_lecture(lecture, topic_slug)
-            gaps = coverage_problems(lecture)
-            gap_total += len(gaps)
+            if cloze:
+                raise SystemExit(f"Cloze cards were generated for {lecture['title']}")
             deck_name = f"POM::{topic_name}::{lecture['title']}"
-            deck = build_deck(deck_name, basic + cloze)
+            deck = build_deck(deck_name, basic)
             lecture_path = lecture_dir / f"{lecture['slug']}.apkg"
             genanki.Package(deck).write_to_file(lecture_path)
             topic_decks.append(deck)
-            total = len(basic) + len(cloze)
+            total = len(basic)
             topic_total += total
             page = TOPICS_DIR / topic_slug / f"{lecture['slug']}.html"
             upsert_bar(
@@ -829,11 +798,11 @@ def main() -> None:
                     f'<a class="anki-all" href="../../anki/lectures/{topic_slug}/{lecture["slug"]}.apkg" download>'
                     "Download this lecture (Anki)</a>"
                     f'<a href="../../anki/{topic_slug}.apkg" download>Download all {esc(topic_name)}</a>'
-                    f"<span>{total} cards · {len(basic)} basic · {len(cloze)} cloze</span>"
+                    f"<span>{total} basic cards</span>"
                     "</div>\n"
                 ),
             )
-            print(f"{lecture['title']}: {len(basic)} basic, {len(cloze)} cloze, gaps {len(gaps)}")
+            print(f"{lecture['title']}: {total} basic")
         topic_package = ANKI_DIR / f"{topic_slug}.apkg"
         genanki.Package(topic_decks).write_to_file(topic_package)
         upsert_bar(
@@ -842,12 +811,12 @@ def main() -> None:
                 '\n<div class="anki-bar">'
                 f'<a class="anki-all" href="../../anki/{topic_slug}.apkg" download>'
                 f"Download all {esc(topic_name)} (Anki)</a>"
-                f"<span>{topic_total} cards across {len(lectures)} lectures · basic and cloze</span>"
+                f"<span>{topic_total} basic cards across {len(lectures)} lectures</span>"
                 "</div>\n"
             ),
         )
         topic_counts[topic_slug] = topic_total
-        print(f"== {topic_name}: {topic_total} cards, coverage gaps {gap_total}")
+        print(f"== {topic_name}: {topic_total} basic cards")
     update_home(topic_counts)
     print("wrote decks and download links")
 
